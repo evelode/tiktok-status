@@ -53,6 +53,14 @@ sites:
     expectedStatusCodes:
       - 200
       - 502
+  - name: /getCommentsByID - Get comments list by video ID
+    url: https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
 
 status-website:
   cname: tiktok-status.nextpost.tech
