@@ -1,7 +1,7 @@
 [
   {
     "name": "/getNoWatermarkUrl",
-    "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY",
+    "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
     "slug": "get-no-watermark-url",
     "status": "up",
@@ -15,6 +15,24 @@
     "timeWeek": 1123,
     "timeMonth": 1123,
     "timeYear": 1461,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "/getNoWatermarkUrlByID",
+    "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrlByID?video_id=6994619123363876101&license_key=$API_KEY",
+    "icon": "https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png",
+    "slug": "get-no-watermark-url-by-id",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 407,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   }
 ]
