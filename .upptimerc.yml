@@ -1,31 +1,22 @@
 owner: nextpost-tech
-repo: status
+repo: tiktok-status
 
 assignees:
   -  sergeykomlev
 
 sites:
-  - name: Nextpost.tech
-    url: https://nextpost.tech
-    icon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
-    maxResponseTime: 30000
-  - name: Nextpost.tech REST API
-    url: https://nextpost.tech/graftype-api/?action_type=now&token=$API_KEY
-    icon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
-    method: GET
-    maxResponseTime: 30000
-  - name: TikTok REST API
+  - name: /getNoWatermarkUrl
     url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6986776740685171974&license_key=$API_KEY
-    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    icon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
     method: GET
     maxResponseTime: 30000
 
 status-website:
-  cname: status.nextpost.tech
+  cname: tiktok-status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
   favicon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
-  name: Nextpost.tech Status
-  introTitle: "**Nextpost.tech Status** is the uptime monitor and status page"
+  name: Nextpost.tech TikTok REST API Status
+  introTitle: "**Nextpost.tech TikTok REST API Status** is the uptime monitor and status page"
   introMessage: Our status page uses a **real-time** data from [Nextpost.tech](https://nextpost.tech) servers.
   navbar:
     - title: Main Page
