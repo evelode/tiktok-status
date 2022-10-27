@@ -79,6 +79,8 @@ status-website:
   navbar:
     - title: Main Page
       href: /
+    - title: Buy Now
+      href: https://nextpost.tech/downloads/tiktok-rest-api/
       
 commitMessages:
   commitAuthorName: "Nextpost.tech Bot"
