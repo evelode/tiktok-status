@@ -5,11 +5,11 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
-    "uptime": "73.87%",
-    "uptimeDay": "73.87%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "73.87%",
-    "uptimeYear": "73.87%",
+    "uptime": "73.88%",
+    "uptimeDay": "73.88%",
+    "uptimeWeek": "73.88%",
+    "uptimeMonth": "73.88%",
+    "uptimeYear": "73.88%",
     "time": 1423,
     "timeDay": 1445,
     "timeWeek": 1445,
@@ -61,19 +61,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "98.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 778,
     "timeDay": 778,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
-    "dailyMinutesDown": {
-      "2022-10-27": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -99,19 +97,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1473,
     "timeDay": 1473,
     "timeWeek": 1473,
     "timeMonth": 1473,
     "timeYear": 1473,
-    "dailyMinutesDown": {
-      "2022-10-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
