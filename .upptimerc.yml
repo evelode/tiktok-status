@@ -68,7 +68,53 @@ sites:
       - 200
       - 502
       - 521
-
+  - name: /searchUser - Search for user by keyword
+    url: https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /searchVideo - Search for video by keyword
+    url: https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /searchMusic - Search for music by keyword
+    url: https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /searchLive - Search for live by keyword
+    url: https://nextpost.tech/tiktok-api/searchLive?keyword=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /searchHashtag - Search for hashtag by keyword
+    url: https://nextpost.tech/tiktok-api/searchHashtag?keyword=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  
+      
 status-website:
   cname: tiktok-status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
