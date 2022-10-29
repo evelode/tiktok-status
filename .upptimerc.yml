@@ -131,7 +131,145 @@ sites:
       - 200
       - 502
       - 521
-       
+  - name: /getUserFeed - Get user feed by profile URL or nickname
+    url: https://nextpost.tech/tiktok-api/getUserFeed?query=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getUserFeedByID - Get user feed by profile ID
+    url: https://nextpost.tech/tiktok-api/getUserFeedByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getUserID - Get user ID by profile URL or nickname
+    url: https://nextpost.tech/tiktok-api/getUserID?query=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getUsernameByID - Get username by TikTok user ID
+    url: https://nextpost.tech/tiktok-api/getUsernameByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521 
+  - name: /getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID
+    url: https://nextpost.tech/tiktok-api/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+      - 404
+  - name: /getInstagramUsername - Get Instagram username by profile URL, nickname or TikTok user ID
+    url: https://nextpost.tech/tiktok-api/getInstagramUsername?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+      - 404
+  - name: /getYoutubeChannel - Get YouTube channel info by profile URL, nickname or TikTok user ID
+    url: https://nextpost.tech/tiktok-api/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+      - 404
+  - name: /getFollowers - Get user followers by profile URL or nickname
+    url: https://nextpost.tech/tiktok-api/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getFollowersByID - Get user followers by profile ID
+    url: https://nextpost.tech/tiktok-api/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getFollowing - Get user following by profile URL or nickname
+    url: https://nextpost.tech/tiktok-api/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getFollowingByID - Get user following by profile ID
+    url: https://nextpost.tech/tiktok-api/getFollowingByID?user_id=7073801364823966762&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getHashtagInfo - Get hashtag info by URL or tag name
+    url: https://nextpost.tech/tiktok-api/getHashtagInfo?query=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getHashtagFeed - Get hashtag feed by URL or tag name
+    url: https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getMusicInfo - Get music info by URL or ID
+    url: https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getMusicFeed
+    url: https://nextpost.tech/tiktok-api/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+      
 status-website:
   cname: tiktok-status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
