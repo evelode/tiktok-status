@@ -9,7 +9,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -18,7 +18,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getNoWatermarkUrlByID?video_id=6994619123363876101&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -27,7 +27,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getVideoByID?video_id=6994619123363876101&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -36,7 +36,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -45,7 +45,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUnshortenedUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2Ft%2FZTR9YXeWQ%2F&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -54,7 +54,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -63,7 +63,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -72,7 +72,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -81,7 +81,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -90,7 +90,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -99,7 +99,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/searchLive?keyword=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -108,7 +108,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/searchHashtag?keyword=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -117,7 +117,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -126,7 +126,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUserInfoByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -135,7 +135,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUserFeed?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -144,7 +144,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUserFeedByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -153,7 +153,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUserID?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -162,7 +162,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getUsernameByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -171,7 +171,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -181,7 +181,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getInstagramUsername?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -191,7 +191,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -201,7 +201,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -210,7 +210,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -219,7 +219,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -228,7 +228,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getFollowingByID?user_id=7073801364823966762&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -237,7 +237,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getHashtagInfo?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -246,7 +246,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -255,7 +255,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
@@ -264,7 +264,7 @@ sites:
     url: https://nextpost.tech/tiktok-api/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 502
