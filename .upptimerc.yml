@@ -285,6 +285,6 @@ status-website:
     - title: Buy Now
       href: https://nextpost.tech/downloads/tiktok-rest-api/
  
-commitMessages:
+commitMessages: 
   commitAuthorName: "Nextpost.tech Bot"
   commitAuthorEmail: "contact@nextpost.tech"
