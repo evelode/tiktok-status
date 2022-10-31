@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/searchLive?keyword=apple&cache_timeout=0&license_key=$API_KEY
 status: down
-code: 400
-responseTime: 1017
-lastUpdated: 2022-10-31T13:53:11.844Z
+code: 500
+responseTime: 1642
+lastUpdated: 2022-10-31T13:58:10.976Z
 startTime: Fri Oct 28 2022 22:21:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
