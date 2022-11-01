@@ -239,11 +239,11 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "96.45%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 2182,
     "timeDay": 2892,
     "timeWeek": 2182,
@@ -277,18 +277,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.29%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
     "time": 2143,
     "timeDay": 2009,
     "timeWeek": 2143,
     "timeMonth": 2143,
     "timeYear": 2143,
     "dailyMinutesDown": {
-      "2022-11-01": 52
+      "2022-11-01": 67
     }
   },
   {
@@ -315,18 +315,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.29%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
     "time": 2029,
     "timeDay": 1875,
     "timeWeek": 2029,
     "timeMonth": 2029,
     "timeYear": 2029,
     "dailyMinutesDown": {
-      "2022-11-01": 52
+      "2022-11-01": 67
     }
   },
   {
@@ -496,18 +496,20 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 1038,
-    "timeWeek": 1069,
-    "timeMonth": 1069,
-    "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1032,
+    "timeDay": 881,
+    "timeWeek": 1032,
+    "timeMonth": 1032,
+    "timeYear": 1032,
+    "dailyMinutesDown": {
+      "2022-11-01": 0
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
