@@ -113,7 +113,7 @@ sites:
       - 200
       - 502
       - 521 
-  - name: /getUserInfo - Get user info by profile URL or nickname
+  - name: /getUserInfo - Get user info by profile URL or nickname (works only for users with non-empty media feed)
     url: https://nextpost.tech/tiktok-api/getUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
@@ -122,8 +122,17 @@ sites:
       - 200
       - 502
       - 521
-  - name: /getUserInfoByID - Get user info by profile ID
+  - name: /getUserInfoByID - Get user info by profile ID (works only for users with non-empty media feed)
     url: https://nextpost.tech/tiktok-api/getUserInfoByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
+    icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
+    method: GET
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 521
+  - name: /getBasicUserInfo - Get user info by profile ID (works for all users)
+    url: https://nextpost.tech/tiktok-api/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
     method: GET
     maxResponseTime: 30000
