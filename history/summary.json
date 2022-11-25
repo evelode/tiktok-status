@@ -293,18 +293,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1964,
     "timeDay": 1841,
     "timeWeek": 1847,
     "timeMonth": 1964,
     "timeYear": 1964,
     "dailyMinutesDown": {
-      "2022-11-25": 2
+      "2022-11-25": 35
     }
   },
   {
