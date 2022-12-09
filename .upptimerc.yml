@@ -295,5 +295,5 @@ status-website:
       href: https://nextpost.tech/downloads/tiktok-rest-api/
 
 commitMessages:
-  commitAuthorName: "Nextpost.tech Bot"
+  commitAuthorName: "Nextpost.tech Bot" 
   commitAuthorEmail: "contact@nextpost.tech"
