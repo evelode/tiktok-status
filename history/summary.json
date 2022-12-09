@@ -131,18 +131,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.90%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
     "time": 1897,
     "timeDay": 3353,
     "timeWeek": 2706,
     "timeMonth": 2108,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2022-12-09": 26
+      "2022-12-09": 59
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.91%",
     "time": 2622,
     "timeDay": 3561,
     "timeWeek": 2901,
     "timeMonth": 2523,
     "timeYear": 2622,
     "dailyMinutesDown": {
-      "2022-12-09": 23
+      "2022-12-09": 55
     }
   },
   {
@@ -494,17 +494,17 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2792,
-    "timeDay": 3486,
-    "timeWeek": 3094,
-    "timeMonth": 2896,
-    "timeYear": 2792,
+    "time": 2817,
+    "timeDay": 3663,
+    "timeWeek": 3215,
+    "timeMonth": 2942,
+    "timeYear": 2817,
     "dailyMinutesDown": {}
   },
   {
