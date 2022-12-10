@@ -131,18 +131,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "80.44%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.46%",
+    "uptimeDay": "76.95%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.46%",
     "time": 1953,
     "timeDay": 3392,
     "timeWeek": 2833,
     "timeMonth": 2209,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2022-12-10": 282
+      "2022-12-10": 332
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "80.45%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.46%",
+    "uptimeDay": "76.97%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.46%",
     "time": 2670,
     "timeDay": 3719,
     "timeWeek": 3143,
     "timeMonth": 2642,
     "timeYear": 2670,
     "dailyMinutesDown": {
-      "2022-12-10": 282
+      "2022-12-10": 332
     }
   },
   {
@@ -207,18 +207,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "79.96%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.45%",
+    "uptimeDay": "76.48%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.45%",
     "time": 1444,
     "timeDay": 2698,
     "timeWeek": 2079,
     "timeMonth": 1596,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2022-12-10": 289
+      "2022-12-10": 339
     }
   },
   {
@@ -424,17 +424,17 @@
     "url": "https://nextpost.tech/tiktok-api/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1383,
-    "timeDay": 1655,
-    "timeWeek": 1539,
-    "timeMonth": 1412,
-    "timeYear": 1383,
+    "time": 1379,
+    "timeDay": 1585,
+    "timeWeek": 1508,
+    "timeMonth": 1404,
+    "timeYear": 1379,
     "dailyMinutesDown": {}
   },
   {
