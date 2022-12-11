@@ -132,7 +132,7 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.03%",
+    "uptimeDay": "99.02%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -152,7 +152,7 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.05%",
+    "uptimeDay": "99.03%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -171,19 +171,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1597,
     "timeDay": 1636,
     "timeWeek": 1916,
     "timeMonth": 1716,
     "timeYear": 1597,
-    "dailyMinutesDown": {
-      "2022-12-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -192,8 +190,8 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 1840,
@@ -202,7 +200,7 @@
     "timeMonth": 1897,
     "timeYear": 1840,
     "dailyMinutesDown": {
-      "2022-12-11": 13
+      "2022-12-11": 14
     }
   },
   {
@@ -212,7 +210,7 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.08%",
+    "uptimeDay": "99.06%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
