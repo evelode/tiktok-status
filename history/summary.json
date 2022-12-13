@@ -96,8 +96,8 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2360,
@@ -106,7 +106,7 @@
     "timeMonth": 2644,
     "timeYear": 2360,
     "dailyMinutesDown": {
-      "2022-12-13": 1
+      "2022-12-13": 2
     }
   },
   {
@@ -116,8 +116,8 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2161,
@@ -126,7 +126,7 @@
     "timeMonth": 2189,
     "timeYear": 2161,
     "dailyMinutesDown": {
-      "2022-12-13": 1
+      "2022-12-13": 2
     }
   },
   {
@@ -334,7 +334,7 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
+    "uptimeDay": "99.92%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -515,18 +515,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1844,
     "timeDay": 1817,
     "timeWeek": 1844,
     "timeMonth": 1844,
     "timeYear": 1844,
     "dailyMinutesDown": {
-      "2022-12-13": 0
+      "2022-12-13": 1
     }
   },
   {
@@ -554,7 +554,7 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
