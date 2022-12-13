@@ -95,19 +95,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2343,
     "timeDay": 1730,
     "timeWeek": 2185,
     "timeMonth": 2598,
     "timeYear": 2343,
-    "dailyMinutesDown": {
-      "2022-12-13": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -333,19 +331,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1605,
     "timeDay": 1293,
     "timeWeek": 1395,
     "timeMonth": 1389,
     "timeYear": 1605,
-    "dailyMinutesDown": {
-      "2022-12-13": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -515,19 +511,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1785,
     "timeDay": 1745,
     "timeWeek": 1785,
     "timeMonth": 1785,
     "timeYear": 1785,
-    "dailyMinutesDown": {
-      "2022-12-13": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
