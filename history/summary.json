@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1852,
     "timeDay": 1613,
-    "timeWeek": 1660,
+    "timeWeek": 1635,
     "timeMonth": 1948,
     "timeYear": 1852,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 2528,
     "timeDay": 2124,
-    "timeWeek": 2280,
+    "timeWeek": 2264,
     "timeMonth": 2444,
     "timeYear": 2528,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 1375,
     "timeDay": 1240,
-    "timeWeek": 1257,
+    "timeWeek": 1219,
     "timeMonth": 1432,
     "timeYear": 1375,
     "dailyMinutesDown": {}
@@ -256,17 +256,17 @@
     "url": "https://nextpost.tech/tiktok-api/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-basic-user-info-get-user-info-by-profile-id-works-for-all-users",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1803,
-    "timeDay": 1968,
-    "timeWeek": 1768,
-    "timeMonth": 1788,
-    "timeYear": 1803,
+    "time": 1805,
+    "timeDay": 1921,
+    "timeWeek": 1773,
+    "timeMonth": 1789,
+    "timeYear": 1805,
     "dailyMinutesDown": {}
   },
   {
@@ -480,7 +480,7 @@
     "uptimeYear": "100.00%",
     "time": 1509,
     "timeDay": 1261,
-    "timeWeek": 1546,
+    "timeWeek": 1500,
     "timeMonth": 1584,
     "timeYear": 1509,
     "dailyMinutesDown": {}
@@ -498,7 +498,7 @@
     "uptimeYear": "100.00%",
     "time": 2835,
     "timeDay": 2893,
-    "timeWeek": 2758,
+    "timeWeek": 2745,
     "timeMonth": 2898,
     "timeYear": 2835,
     "dailyMinutesDown": {}
