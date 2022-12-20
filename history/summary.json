@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1166,
     "timeDay": 1215,
-    "timeWeek": 1341,
+    "timeWeek": 1323,
     "timeMonth": 1203,
     "timeYear": 1166,
     "dailyMinutesDown": {}
@@ -94,36 +94,40 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2311,
-    "timeDay": 2094,
-    "timeWeek": 2000,
-    "timeMonth": 2518,
-    "timeYear": 2311,
-    "dailyMinutesDown": {}
+    "time": 2297,
+    "timeDay": 1469,
+    "timeWeek": 2008,
+    "timeMonth": 2485,
+    "timeYear": 2297,
+    "dailyMinutesDown": {
+      "2022-12-20": 1
+    }
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2137,
-    "timeDay": 2203,
-    "timeWeek": 2031,
-    "timeMonth": 2127,
-    "timeYear": 2137,
-    "dailyMinutesDown": {}
+    "time": 2119,
+    "timeDay": 1247,
+    "timeWeek": 1995,
+    "timeMonth": 2091,
+    "timeYear": 2119,
+    "dailyMinutesDown": {
+      "2022-12-20": 1
+    }
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -138,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 1849,
     "timeDay": 1751,
-    "timeWeek": 1281,
+    "timeWeek": 1352,
     "timeMonth": 1948,
     "timeYear": 1849,
     "dailyMinutesDown": {}
@@ -174,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 1550,
     "timeDay": 1505,
-    "timeWeek": 1274,
+    "timeWeek": 1245,
     "timeMonth": 1618,
     "timeYear": 1550,
     "dailyMinutesDown": {}
@@ -192,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 1796,
     "timeDay": 1739,
-    "timeWeek": 1622,
+    "timeWeek": 1733,
     "timeMonth": 1823,
     "timeYear": 1796,
     "dailyMinutesDown": {}
@@ -408,7 +412,7 @@
     "uptimeYear": "100.00%",
     "time": 1576,
     "timeDay": 1893,
-    "timeWeek": 1936,
+    "timeWeek": 1320,
     "timeMonth": 1716,
     "timeYear": 1576,
     "dailyMinutesDown": {}
@@ -480,7 +484,7 @@
     "uptimeYear": "100.00%",
     "time": 1501,
     "timeDay": 1204,
-    "timeWeek": 1987,
+    "timeWeek": 1279,
     "timeMonth": 1583,
     "timeYear": 1501,
     "dailyMinutesDown": {}
@@ -498,7 +502,7 @@
     "uptimeYear": "100.00%",
     "time": 2861,
     "timeDay": 3857,
-    "timeWeek": 4114,
+    "timeWeek": 3690,
     "timeMonth": 2947,
     "timeYear": 2861,
     "dailyMinutesDown": {}
