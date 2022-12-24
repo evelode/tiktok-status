@@ -113,19 +113,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2099,
     "timeDay": 1861,
     "timeWeek": 1823,
     "timeMonth": 2048,
     "timeYear": 2099,
-    "dailyMinutesDown": {
-      "2022-12-24": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -492,17 +490,17 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2817,
-    "timeDay": 2394,
-    "timeWeek": 2679,
-    "timeMonth": 2868,
-    "timeYear": 2817,
+    "time": 2803,
+    "timeDay": 2163,
+    "timeWeek": 2575,
+    "timeMonth": 2846,
+    "timeYear": 2803,
     "dailyMinutesDown": {}
   },
   {
@@ -546,17 +544,19 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2171,
-    "timeDay": 2349,
-    "timeWeek": 2208,
-    "timeMonth": 2137,
-    "timeYear": 2171,
-    "dailyMinutesDown": {}
+    "time": 2158,
+    "timeDay": 1673,
+    "timeWeek": 2056,
+    "timeMonth": 2116,
+    "timeYear": 2158,
+    "dailyMinutesDown": {
+      "2022-12-24": 0
+    }
   }
 ]
