@@ -292,19 +292,19 @@
     "url": "https://nextpost.tech/tiktok-api/getUserFeedByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.89%",
-    "time": 2007,
-    "timeDay": 2600,
-    "timeWeek": 2062,
-    "timeMonth": 2082,
-    "timeYear": 2007,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.88%",
+    "time": 2005,
+    "timeDay": 2426,
+    "timeWeek": 2032,
+    "timeMonth": 2077,
+    "timeYear": 2005,
     "dailyMinutesDown": {
-      "2023-01-05": 109
+      "2023-01-05": 114
     }
   },
   {
@@ -332,9 +332,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
     "time": 1582,
     "timeDay": 2273,
@@ -342,7 +342,7 @@
     "timeMonth": 1471,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2023-01-05": 143
+      "2023-01-05": 148
     }
   },
   {
