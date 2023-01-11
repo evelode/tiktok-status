@@ -13,7 +13,7 @@
     "time": 1592,
     "timeDay": 1058,
     "timeWeek": 1290,
-    "timeMonth": 1715,
+    "timeMonth": 1740,
     "timeYear": 1592,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 621,
     "timeDay": 988,
     "timeWeek": 910,
-    "timeMonth": 595,
+    "timeMonth": 577,
     "timeYear": 621,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1182,
     "timeDay": 1364,
     "timeWeek": 1354,
-    "timeMonth": 1223,
+    "timeMonth": 1244,
     "timeYear": 1182,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1925,
     "timeDay": 1878,
     "timeWeek": 1849,
-    "timeMonth": 2064,
+    "timeMonth": 2070,
     "timeYear": 1925,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 2245,
     "timeDay": 2137,
     "timeWeek": 2132,
-    "timeMonth": 2009,
+    "timeMonth": 2006,
     "timeYear": 2245,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 2097,
     "timeDay": 2140,
     "timeWeek": 2122,
-    "timeMonth": 1984,
+    "timeMonth": 1982,
     "timeYear": 2097,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1810,
     "timeDay": 1700,
     "timeWeek": 1676,
-    "timeMonth": 1572,
+    "timeMonth": 1567,
     "timeYear": 1810,
     "dailyMinutesDown": {}
   },
@@ -148,18 +148,20 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2407,
-    "timeDay": 1996,
-    "timeWeek": 1834,
-    "timeMonth": 1977,
-    "timeYear": 2407,
-    "dailyMinutesDown": {}
+    "time": 2404,
+    "timeDay": 1991,
+    "timeWeek": 1849,
+    "timeMonth": 1969,
+    "timeYear": 2404,
+    "dailyMinutesDown": {
+      "2023-01-11": 1
+    }
   },
   {
     "name": "/searchMusic - Search for music by keyword",
@@ -175,7 +177,7 @@
     "time": 1625,
     "timeDay": 1471,
     "timeWeek": 1593,
-    "timeMonth": 1674,
+    "timeMonth": 1678,
     "timeYear": 1625,
     "dailyMinutesDown": {}
   },
@@ -193,7 +195,7 @@
     "time": 1769,
     "timeDay": 1858,
     "timeWeek": 1608,
-    "timeMonth": 1665,
+    "timeMonth": 1663,
     "timeYear": 1769,
     "dailyMinutesDown": {}
   },
@@ -211,7 +213,7 @@
     "time": 1355,
     "timeDay": 1277,
     "timeWeek": 1287,
-    "timeMonth": 1279,
+    "timeMonth": 1277,
     "timeYear": 1355,
     "dailyMinutesDown": {}
   },
@@ -229,7 +231,7 @@
     "time": 1715,
     "timeDay": 1291,
     "timeWeek": 1865,
-    "timeMonth": 1450,
+    "timeMonth": 1454,
     "timeYear": 1715,
     "dailyMinutesDown": {}
   },
@@ -247,7 +249,7 @@
     "time": 1435,
     "timeDay": 1408,
     "timeWeek": 1852,
-    "timeMonth": 1462,
+    "timeMonth": 1465,
     "timeYear": 1435,
     "dailyMinutesDown": {}
   },
@@ -283,7 +285,7 @@
     "time": 2218,
     "timeDay": 1628,
     "timeWeek": 2105,
-    "timeMonth": 2193,
+    "timeMonth": 2198,
     "timeYear": 2218,
     "dailyMinutesDown": {}
   },
@@ -301,7 +303,7 @@
     "time": 1985,
     "timeDay": 1606,
     "timeWeek": 1982,
-    "timeMonth": 1969,
+    "timeMonth": 1971,
     "timeYear": 1985,
     "dailyMinutesDown": {}
   },
@@ -319,7 +321,7 @@
     "time": 674,
     "timeDay": 418,
     "timeWeek": 419,
-    "timeMonth": 895,
+    "timeMonth": 904,
     "timeYear": 674,
     "dailyMinutesDown": {}
   },
@@ -337,7 +339,7 @@
     "time": 1564,
     "timeDay": 1355,
     "timeWeek": 1805,
-    "timeMonth": 1448,
+    "timeMonth": 1450,
     "timeYear": 1564,
     "dailyMinutesDown": {}
   },
@@ -373,7 +375,7 @@
     "time": 1579,
     "timeDay": 1415,
     "timeWeek": 2061,
-    "timeMonth": 1618,
+    "timeMonth": 1620,
     "timeYear": 1579,
     "dailyMinutesDown": {}
   },
@@ -391,7 +393,7 @@
     "time": 1690,
     "timeDay": 1431,
     "timeWeek": 1791,
-    "timeMonth": 1806,
+    "timeMonth": 1812,
     "timeYear": 1690,
     "dailyMinutesDown": {}
   },
@@ -409,7 +411,7 @@
     "time": 1535,
     "timeDay": 1422,
     "timeWeek": 1396,
-    "timeMonth": 1692,
+    "timeMonth": 1700,
     "timeYear": 1535,
     "dailyMinutesDown": {}
   },
@@ -427,7 +429,7 @@
     "time": 1341,
     "timeDay": 1403,
     "timeWeek": 1382,
-    "timeMonth": 1312,
+    "timeMonth": 1311,
     "timeYear": 1341,
     "dailyMinutesDown": {}
   },
@@ -445,7 +447,7 @@
     "time": 1457,
     "timeDay": 973,
     "timeWeek": 1025,
-    "timeMonth": 1507,
+    "timeMonth": 1520,
     "timeYear": 1457,
     "dailyMinutesDown": {}
   },
@@ -481,7 +483,7 @@
     "time": 1462,
     "timeDay": 1302,
     "timeWeek": 1330,
-    "timeMonth": 1414,
+    "timeMonth": 1418,
     "timeYear": 1462,
     "dailyMinutesDown": {}
   },
@@ -499,7 +501,7 @@
     "time": 2762,
     "timeDay": 3107,
     "timeWeek": 2676,
-    "timeMonth": 2665,
+    "timeMonth": 2664,
     "timeYear": 2762,
     "dailyMinutesDown": {}
   },
@@ -535,7 +537,7 @@
     "time": 1293,
     "timeDay": 1059,
     "timeWeek": 1190,
-    "timeMonth": 1583,
+    "timeMonth": 1594,
     "timeYear": 1293,
     "dailyMinutesDown": {}
   },
@@ -553,7 +555,7 @@
     "time": 2157,
     "timeDay": 2096,
     "timeWeek": 2093,
-    "timeMonth": 2023,
+    "timeMonth": 2018,
     "timeYear": 2157,
     "dailyMinutesDown": {}
   }
