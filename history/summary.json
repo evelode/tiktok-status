@@ -155,7 +155,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2342,
-    "timeDay": 1935,
+    "timeDay": 1985,
     "timeWeek": 1996,
     "timeMonth": 1952,
     "timeYear": 2342,
@@ -310,10 +310,10 @@
     "url": "https://nextpost.tech/tiktok-api/getUserID?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
@@ -321,7 +321,9 @@
     "timeWeek": 432,
     "timeMonth": 422,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 1
+    }
   },
   {
     "name": "/getUsernameByID - Get username by TikTok user ID",
@@ -354,7 +356,7 @@
     "uptimeYear": "100.00%",
     "time": 1518,
     "timeDay": 1428,
-    "timeWeek": 1272,
+    "timeWeek": 1397,
     "timeMonth": 1399,
     "timeYear": 1518,
     "dailyMinutesDown": {}
@@ -497,7 +499,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2774,
-    "timeDay": 3524,
+    "timeDay": 3558,
     "timeWeek": 2981,
     "timeMonth": 2633,
     "timeYear": 2774,
@@ -515,7 +517,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1839,
-    "timeDay": 2588,
+    "timeDay": 3015,
     "timeWeek": 2279,
     "timeMonth": 1930,
     "timeYear": 1839,
