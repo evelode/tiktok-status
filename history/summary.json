@@ -310,19 +310,19 @@
     "url": "https://nextpost.tech/tiktok-api/getUserID?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 412,
-    "timeWeek": 432,
+    "time": 656,
+    "timeDay": 414,
+    "timeWeek": 430,
     "timeMonth": 422,
-    "timeYear": 658,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2023-01-19": 1
+      "2023-01-19": 4
     }
   },
   {
