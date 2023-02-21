@@ -31,7 +31,7 @@
     "time": 697,
     "timeDay": 519,
     "timeWeek": 457,
-    "timeMonth": 1120,
+    "timeMonth": 887,
     "timeYear": 697,
     "dailyMinutesDown": {}
   },
@@ -166,18 +166,20 @@
     "url": "https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1613,
-    "timeDay": 1441,
-    "timeWeek": 1625,
-    "timeMonth": 1588,
-    "timeYear": 1613,
-    "dailyMinutesDown": {}
+    "time": 1611,
+    "timeDay": 1353,
+    "timeWeek": 1580,
+    "timeMonth": 1581,
+    "timeYear": 1611,
+    "dailyMinutesDown": {
+      "2023-02-21": 1
+    }
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -211,7 +213,7 @@
     "time": 1449,
     "timeDay": 1407,
     "timeWeek": 1404,
-    "timeMonth": 1858,
+    "timeMonth": 1439,
     "timeYear": 1449,
     "dailyMinutesDown": {}
   },
@@ -247,7 +249,7 @@
     "time": 1422,
     "timeDay": 1092,
     "timeWeek": 1281,
-    "timeMonth": 1399,
+    "timeMonth": 1376,
     "timeYear": 1422,
     "dailyMinutesDown": {}
   },
@@ -283,7 +285,7 @@
     "time": 2133,
     "timeDay": 1580,
     "timeWeek": 1711,
-    "timeMonth": 1894,
+    "timeMonth": 1803,
     "timeYear": 2133,
     "dailyMinutesDown": {}
   },
@@ -301,7 +303,7 @@
     "time": 2066,
     "timeDay": 1583,
     "timeWeek": 1724,
-    "timeMonth": 2455,
+    "timeMonth": 1766,
     "timeYear": 2066,
     "dailyMinutesDown": {}
   },
@@ -319,7 +321,7 @@
     "time": 768,
     "timeDay": 466,
     "timeWeek": 1110,
-    "timeMonth": 1184,
+    "timeMonth": 603,
     "timeYear": 768,
     "dailyMinutesDown": {}
   },
@@ -355,7 +357,7 @@
     "time": 1493,
     "timeDay": 1222,
     "timeWeek": 1281,
-    "timeMonth": 1404,
+    "timeMonth": 1336,
     "timeYear": 1493,
     "dailyMinutesDown": {}
   },
@@ -373,7 +375,7 @@
     "time": 1694,
     "timeDay": 1598,
     "timeWeek": 1528,
-    "timeMonth": 2125,
+    "timeMonth": 1507,
     "timeYear": 1694,
     "dailyMinutesDown": {}
   },
@@ -391,7 +393,7 @@
     "time": 1677,
     "timeDay": 1311,
     "timeWeek": 1436,
-    "timeMonth": 1648,
+    "timeMonth": 1489,
     "timeYear": 1677,
     "dailyMinutesDown": {}
   },
@@ -409,7 +411,7 @@
     "time": 1501,
     "timeDay": 1346,
     "timeWeek": 1474,
-    "timeMonth": 1400,
+    "timeMonth": 1426,
     "timeYear": 1501,
     "dailyMinutesDown": {}
   },
@@ -427,7 +429,7 @@
     "time": 1377,
     "timeDay": 1288,
     "timeWeek": 1394,
-    "timeMonth": 1483,
+    "timeMonth": 1535,
     "timeYear": 1377,
     "dailyMinutesDown": {}
   },
@@ -445,7 +447,7 @@
     "time": 1435,
     "timeDay": 861,
     "timeWeek": 2127,
-    "timeMonth": 1320,
+    "timeMonth": 1291,
     "timeYear": 1435,
     "dailyMinutesDown": {}
   },
@@ -463,7 +465,7 @@
     "time": 1217,
     "timeDay": 844,
     "timeWeek": 1049,
-    "timeMonth": 1176,
+    "timeMonth": 1109,
     "timeYear": 1217,
     "dailyMinutesDown": {}
   },
@@ -481,7 +483,7 @@
     "time": 1433,
     "timeDay": 1059,
     "timeWeek": 1298,
-    "timeMonth": 1358,
+    "timeMonth": 1331,
     "timeYear": 1433,
     "dailyMinutesDown": {}
   },
@@ -499,7 +501,7 @@
     "time": 2984,
     "timeDay": 3120,
     "timeWeek": 3447,
-    "timeMonth": 3743,
+    "timeMonth": 3700,
     "timeYear": 2984,
     "dailyMinutesDown": {}
   },
@@ -517,7 +519,7 @@
     "time": 2627,
     "timeDay": 2474,
     "timeWeek": 2519,
-    "timeMonth": 3696,
+    "timeMonth": 3402,
     "timeYear": 2627,
     "dailyMinutesDown": {}
   },
@@ -535,7 +537,7 @@
     "time": 1347,
     "timeDay": 973,
     "timeWeek": 1137,
-    "timeMonth": 1566,
+    "timeMonth": 1146,
     "timeYear": 1347,
     "dailyMinutesDown": {}
   },
@@ -553,7 +555,7 @@
     "time": 2158,
     "timeDay": 2086,
     "timeWeek": 2227,
-    "timeMonth": 2087,
+    "timeMonth": 2194,
     "timeYear": 2158,
     "dailyMinutesDown": {}
   }
