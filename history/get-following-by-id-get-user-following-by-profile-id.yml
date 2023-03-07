@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getFollowingByID?user_id=7073801364823966762&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1445
-lastUpdated: 2023-03-06T23:15:53.928Z
+responseTime: 1463
+lastUpdated: 2023-03-07T23:16:23.864Z
 startTime: Sat Oct 29 2022 22:41:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
