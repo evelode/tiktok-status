@@ -112,36 +112,40 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2401,
-    "timeDay": 3649,
-    "timeWeek": 2845,
-    "timeMonth": 2880,
-    "timeYear": 2401,
-    "dailyMinutesDown": {}
+    "time": 2407,
+    "timeDay": 3607,
+    "timeWeek": 2935,
+    "timeMonth": 2900,
+    "timeYear": 2407,
+    "dailyMinutesDown": {
+      "2023-03-14": 2
+    }
   },
   {
     "name": "/searchUser - Search for user by keyword",
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1819,
-    "timeDay": 2388,
-    "timeWeek": 1977,
-    "timeMonth": 2188,
-    "timeYear": 1819,
-    "dailyMinutesDown": {}
+    "time": 1812,
+    "timeDay": 1312,
+    "timeWeek": 1760,
+    "timeMonth": 2125,
+    "timeYear": 1812,
+    "dailyMinutesDown": {
+      "2023-03-14": 2
+    }
   },
   {
     "name": "/searchVideo - Search for video by keyword",
