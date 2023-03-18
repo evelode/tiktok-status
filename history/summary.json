@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1601,
-    "timeDay": 1102,
+    "timeDay": 999,
     "timeWeek": 1123,
     "timeMonth": 1538,
     "timeYear": 1601,
@@ -96,18 +96,16 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2301,
     "timeDay": 1796,
     "timeWeek": 2211,
     "timeMonth": 2609,
     "timeYear": 2301,
-    "dailyMinutesDown": {
-      "2023-03-18": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -188,18 +186,16 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1852,
     "timeDay": 1921,
     "timeWeek": 1963,
     "timeMonth": 2306,
     "timeYear": 1852,
-    "dailyMinutesDown": {
-      "2023-03-18": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchHashtag - Search for hashtag by keyword",
@@ -260,17 +256,17 @@
     "url": "https://nextpost.tech/tiktok-api/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-basic-user-info-get-user-info-by-profile-id-works-for-all-users",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2029,
-    "timeDay": 1947,
-    "timeWeek": 2273,
-    "timeMonth": 2222,
-    "timeYear": 2029,
+    "time": 2026,
+    "timeDay": 1812,
+    "timeWeek": 2176,
+    "timeMonth": 2208,
+    "timeYear": 2026,
     "dailyMinutesDown": {}
   },
   {
