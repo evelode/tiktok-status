@@ -137,8 +137,8 @@
     "status": "up",
     "uptime": "99.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.19%",
-    "uptimeMonth": "96.36%",
+    "uptimeWeek": "84.14%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "99.23%",
     "time": 1862,
     "timeDay": 1546,
@@ -146,7 +146,7 @@
     "timeMonth": 2481,
     "timeYear": 1862,
     "dailyMinutesDown": {
-      "2023-03-21": 1224,
+      "2023-03-21": 1229,
       "2023-03-20": 369
     }
   },
@@ -263,17 +263,17 @@
     "url": "https://nextpost.tech/tiktok-api/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-basic-user-info-get-user-info-by-profile-id-works-for-all-users",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2028,
-    "timeDay": 1640,
-    "timeWeek": 2072,
-    "timeMonth": 2205,
-    "timeYear": 2028,
+    "time": 2026,
+    "timeDay": 1634,
+    "timeWeek": 2035,
+    "timeMonth": 2195,
+    "timeYear": 2026,
     "dailyMinutesDown": {}
   },
   {
