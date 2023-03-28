@@ -96,18 +96,16 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2315,
     "timeDay": 2146,
     "timeWeek": 2459,
     "timeMonth": 2448,
     "timeYear": 2315,
-    "dailyMinutesDown": {
-      "2023-03-28": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -384,17 +382,17 @@
     "url": "https://nextpost.tech/tiktok-api/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-youtube-channel-get-you-tube-channel-info-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1677,
-    "timeDay": 1475,
-    "timeWeek": 1577,
-    "timeMonth": 1646,
-    "timeYear": 1677,
+    "time": 1715,
+    "timeDay": 5538,
+    "timeWeek": 2306,
+    "timeMonth": 1887,
+    "timeYear": 1715,
     "dailyMinutesDown": {}
   },
   {
