@@ -22,7 +22,7 @@
     "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrlByID?video_id=6994619123363876101&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -265,7 +265,7 @@
     "time": 2048,
     "timeDay": 1760,
     "timeWeek": 2091,
-    "timeMonth": 2195,
+    "timeMonth": 2227,
     "timeYear": 2048,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 1580,
     "timeDay": 2133,
     "timeWeek": 1707,
-    "timeMonth": 1881,
+    "timeMonth": 1659,
     "timeYear": 1580,
     "dailyMinutesDown": {}
   },
