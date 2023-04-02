@@ -4,19 +4,19 @@
     "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 1650,
-    "timeDay": 1036,
-    "timeWeek": 1213,
-    "timeMonth": 1781,
+    "timeDay": 1198,
+    "timeWeek": 1244,
+    "timeMonth": 1775,
     "timeYear": 1650,
     "dailyMinutesDown": {
-      "2023-04-02": 1
+      "2023-04-02": 71
     }
   },
   {
@@ -375,7 +375,7 @@
     "time": 1676,
     "timeDay": 1560,
     "timeWeek": 1802,
-    "timeMonth": 1576,
+    "timeMonth": 1536,
     "timeYear": 1676,
     "dailyMinutesDown": {}
   },
