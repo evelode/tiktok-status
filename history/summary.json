@@ -132,19 +132,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1853,
-    "timeDay": 2018,
-    "timeWeek": 1754,
-    "timeMonth": 2272,
-    "timeYear": 1853,
+    "time": 1847,
+    "timeDay": 1497,
+    "timeWeek": 1609,
+    "timeMonth": 2228,
+    "timeYear": 1847,
     "dailyMinutesDown": {
-      "2023-04-03": 2
+      "2023-04-03": 3
     }
   },
   {
@@ -296,10 +296,10 @@
     "url": "https://nextpost.tech/tiktok-api/getUserFeedByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2080,
@@ -307,7 +307,9 @@
     "timeWeek": 2286,
     "timeMonth": 2174,
     "timeYear": 2080,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 1
+    }
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -315,19 +317,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 776,
     "timeDay": 536,
     "timeWeek": 564,
     "timeMonth": 911,
     "timeYear": 776,
-    "dailyMinutesDown": {
-      "2023-04-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUsernameByID - Get username by TikTok user ID",
