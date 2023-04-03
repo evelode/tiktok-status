@@ -312,18 +312,20 @@
     "url": "https://nextpost.tech/tiktok-api/getUserID?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 778,
     "timeDay": 766,
     "timeWeek": 601,
     "timeMonth": 928,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 3
+    }
   },
   {
     "name": "/getUsernameByID - Get username by TikTok user ID",
