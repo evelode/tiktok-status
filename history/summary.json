@@ -6,17 +6,17 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1771,
-    "timeDay": 1154,
-    "timeWeek": 4097,
-    "timeMonth": 2426,
-    "timeYear": 1771,
+    "time": 1768,
+    "timeDay": 1077,
+    "timeWeek": 3859,
+    "timeMonth": 2398,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2023-04-05": 5
+      "2023-04-05": 10
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
-    "timeDay": 513,
-    "timeWeek": 594,
-    "timeMonth": 531,
+    "timeDay": 491,
+    "timeWeek": 584,
+    "timeMonth": 530,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
