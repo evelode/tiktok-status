@@ -2,6 +2,23 @@
 
 This repository contains the open-source uptime monitor and status page for [Nextpost.tech](https://nextpost.tech), powered by [Upptime](https://github.com/upptime/upptime).
 
+Starting with the [TikTok REST API](https://nextpost.tech/downloads/tiktok-rest-api/) by Nextpost.tech – you have access to an extensive ecosystem to accelerate your development process. Built for large scale crawling, low latency high availability. Get TikTok public user data, feed, trends, hashtags, music, and non-watermarked TikTok videos.
+
+Using our detailed multipurpose documentation you can explore and reach all TikTok REST API endpoints with ease.
+
+Try our [Trial license plan](https://nextpost.tech/downloads/tiktok-rest-api/) and test all API endpoints before buying a license.
+
+## Quick Start
+
+We created a modern API wrappers with detailed examples:
+
+- [TikTok REST API in Postman](https://www.postman.com/nextpost-tech/workspace/nextpost-tech/api/e2ed8e20-0dbd-41a3-9363-092d810217ed)
+- [TikTok REST API wrapper for PHP on GitHub](https://github.com/nextpost-tech/tiktok-api-php)
+
+## Choose the right plan for you
+
+Find a plan that best matches the scale you need for your application.
+
 ## [Live Status](https://tiktok-status.nextpost.tech): <!--live status--> **🟧 Partial outage**
 
 <!--start: status pages-->
