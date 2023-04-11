@@ -132,9 +132,9 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1999,
     "timeDay": 8579,
@@ -142,7 +142,7 @@
     "timeMonth": 2849,
     "timeYear": 1999,
     "dailyMinutesDown": {
-      "2023-04-11": 20
+      "2023-04-11": 31
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 2515,
     "timeDay": 7097,
     "timeWeek": 5345,
     "timeMonth": 3636,
     "timeYear": 2515,
     "dailyMinutesDown": {
-      "2023-04-11": 31
+      "2023-04-11": 43
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 1775,
-    "timeDay": 6424,
-    "timeWeek": 3815,
-    "timeMonth": 2220,
-    "timeYear": 1775,
+    "time": 1808,
+    "timeDay": 7128,
+    "timeWeek": 4341,
+    "timeMonth": 2421,
+    "timeYear": 1808,
     "dailyMinutesDown": {
-      "2023-04-11": 54
+      "2023-04-11": 49
     }
   },
   {
