@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 1999,
-    "timeDay": 7610,
-    "timeWeek": 4932,
-    "timeMonth": 2826,
-    "timeYear": 1999,
+    "time": 2033,
+    "timeDay": 8027,
+    "timeWeek": 5362,
+    "timeMonth": 2996,
+    "timeYear": 2033,
     "dailyMinutesDown": {
-      "2023-04-11": 39
+      "2023-04-11": 41
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
     "time": 2515,
     "timeDay": 7097,
     "timeWeek": 5345,
     "timeMonth": 3636,
     "timeYear": 2515,
     "dailyMinutesDown": {
-      "2023-04-11": 52
+      "2023-04-11": 64
     }
   },
   {
@@ -171,18 +171,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 1808,
     "timeDay": 7128,
     "timeWeek": 4341,
     "timeMonth": 2421,
     "timeYear": 1808,
     "dailyMinutesDown": {
-      "2023-04-11": 58
+      "2023-04-11": 70
     }
   },
   {
