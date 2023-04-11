@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 2113,
-    "timeDay": 7775,
-    "timeWeek": 5786,
-    "timeMonth": 3325,
-    "timeYear": 2113,
+    "time": 2111,
+    "timeDay": 7297,
+    "timeWeek": 5564,
+    "timeMonth": 3291,
+    "timeYear": 2111,
     "dailyMinutesDown": {
-      "2023-04-11": 41
+      "2023-04-11": 56
     }
   },
   {
@@ -152,9 +152,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "93.98%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
     "time": 2539,
     "timeDay": 6944,
@@ -162,7 +162,7 @@
     "timeMonth": 3764,
     "timeYear": 2539,
     "dailyMinutesDown": {
-      "2023-04-11": 87
+      "2023-04-11": 103
     }
   },
   {
@@ -171,18 +171,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.96%",
     "time": 1872,
     "timeDay": 6741,
     "timeWeek": 4769,
     "timeMonth": 2746,
     "timeYear": 1872,
     "dailyMinutesDown": {
-      "2023-04-11": 81
+      "2023-04-11": 97
     }
   },
   {
