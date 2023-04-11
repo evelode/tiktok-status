@@ -294,7 +294,7 @@ status-website:
   favicon: https://nextpost.tech/wp-content/uploads/2021/09/cropped-nextpost.tech-new-logo-final-270x270.png
   name: Nextpost.tech TikTok REST API Status
   introTitle: "**Nextpost.tech TikTok REST API Status** is the uptime monitor and status page"
-  introMessage: Our status page uses a **real-time** data from [Nextpost.tech](https://nextpost.tech) servers.
+  introMessage: Our status page uses a **real-time** data from [Nextpost.tech](https://nextpost.tech/downloads/tiktok-rest-api/) servers. Starting with the [TikTok REST API](https://nextpost.tech/downloads/tiktok-rest-api/) by Nextpost.tech – you have access to an extensive ecosystem to accelerate your development process. Built for large scale crawling, low latency high availability. Get TikTok public user data, feed, trends, hashtags, music, and non-watermarked TikTok videos.
   navbar:
     - title: Homepage
       href: /
