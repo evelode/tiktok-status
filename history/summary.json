@@ -13,7 +13,7 @@
     "time": 1734,
     "timeDay": 1337,
     "timeWeek": 1190,
-    "timeMonth": 2293,
+    "timeMonth": 2312,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2023-04-13": 16
@@ -33,7 +33,7 @@
     "time": 635,
     "timeDay": 504,
     "timeWeek": 453,
-    "timeMonth": 534,
+    "timeMonth": 535,
     "timeYear": 635,
     "dailyMinutesDown": {}
   },
@@ -341,7 +341,7 @@
     "time": 1550,
     "timeDay": 1482,
     "timeWeek": 1679,
-    "timeMonth": 1678,
+    "timeMonth": 1675,
     "timeYear": 1550,
     "dailyMinutesDown": {}
   },
@@ -359,7 +359,7 @@
     "time": 1593,
     "timeDay": 1434,
     "timeWeek": 1634,
-    "timeMonth": 1918,
+    "timeMonth": 1930,
     "timeYear": 1593,
     "dailyMinutesDown": {}
   },
@@ -368,7 +368,7 @@
     "url": "https://nextpost.tech/tiktok-api/getInstagramUsername?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-instagram-username-get-instagram-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -377,7 +377,7 @@
     "time": 1679,
     "timeDay": 1450,
     "timeWeek": 1560,
-    "timeMonth": 1648,
+    "timeMonth": 1641,
     "timeYear": 1679,
     "dailyMinutesDown": {}
   },
@@ -395,7 +395,7 @@
     "time": 1748,
     "timeDay": 1747,
     "timeWeek": 1760,
-    "timeMonth": 2016,
+    "timeMonth": 2017,
     "timeYear": 1748,
     "dailyMinutesDown": {}
   },
@@ -413,7 +413,7 @@
     "time": 1594,
     "timeDay": 1509,
     "timeWeek": 1539,
-    "timeMonth": 1715,
+    "timeMonth": 1704,
     "timeYear": 1594,
     "dailyMinutesDown": {}
   },
