@@ -42,19 +42,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6994619123363876101&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-id-get-video-info-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1322,
-    "timeDay": 1421,
-    "timeWeek": 1340,
-    "timeMonth": 1361,
+    "timeDay": 1325,
+    "timeWeek": 1328,
+    "timeMonth": 1358,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2023-04-17": 1
+      "2023-04-17": 11
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-url-get-video-info-by-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1405,
-    "timeDay": 774,
-    "timeWeek": 1301,
-    "timeMonth": 1531,
-    "timeYear": 1405,
+    "time": 1404,
+    "timeDay": 917,
+    "timeWeek": 1291,
+    "timeMonth": 1524,
+    "timeYear": 1404,
     "dailyMinutesDown": {
-      "2023-04-17": 1
+      "2023-04-17": 11
     }
   },
   {
@@ -525,7 +525,7 @@
     "time": 2725,
     "timeDay": 2640,
     "timeWeek": 2679,
-    "timeMonth": 2554,
+    "timeMonth": 2549,
     "timeYear": 2725,
     "dailyMinutesDown": {}
   },
@@ -543,7 +543,7 @@
     "time": 1433,
     "timeDay": 1215,
     "timeWeek": 1196,
-    "timeMonth": 1412,
+    "timeMonth": 1405,
     "timeYear": 1433,
     "dailyMinutesDown": {}
   },
