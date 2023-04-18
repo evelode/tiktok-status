@@ -65,9 +65,9 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1404,
     "timeDay": 935,
@@ -75,7 +75,7 @@
     "timeMonth": 1528,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2023-04-18": 3
+      "2023-04-18": 9
     }
   },
   {
@@ -157,9 +157,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 2648,
     "timeDay": 6073,
@@ -167,7 +167,7 @@
     "timeMonth": 4185,
     "timeYear": 2648,
     "dailyMinutesDown": {
-      "2023-04-18": 45,
+      "2023-04-18": 52,
       "2023-04-15": 17
     }
   },
@@ -304,9 +304,9 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 2092,
     "timeDay": 2000,
@@ -314,7 +314,7 @@
     "timeMonth": 2139,
     "timeYear": 2092,
     "dailyMinutesDown": {
-      "2023-04-18": 45
+      "2023-04-18": 51
     }
   },
   {
@@ -502,17 +502,17 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3138,
-    "timeDay": 3430,
-    "timeWeek": 3336,
-    "timeMonth": 3459,
-    "timeYear": 3138,
+    "time": 3140,
+    "timeDay": 3487,
+    "timeWeek": 3357,
+    "timeMonth": 3463,
+    "timeYear": 3140,
     "dailyMinutesDown": {}
   },
   {
@@ -520,19 +520,19 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.96%",
-    "time": 2857,
-    "timeDay": 10986,
-    "timeWeek": 4865,
-    "timeMonth": 3107,
-    "timeYear": 2857,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.95%",
+    "time": 2856,
+    "timeDay": 8902,
+    "timeWeek": 4695,
+    "timeMonth": 3097,
+    "timeYear": 2856,
     "dailyMinutesDown": {
-      "2023-04-18": 79
+      "2023-04-18": 85
     }
   },
   {
@@ -558,19 +558,19 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "88.10%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.74%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.93%",
-    "time": 2330,
-    "timeDay": 2239,
-    "timeWeek": 2275,
-    "timeMonth": 2653,
-    "timeYear": 2330,
+    "time": 2329,
+    "timeDay": 2235,
+    "timeWeek": 2271,
+    "timeMonth": 2644,
+    "timeYear": 2329,
     "dailyMinutesDown": {
-      "2023-04-18": 172
+      "2023-04-18": 177
     }
   }
 ]
