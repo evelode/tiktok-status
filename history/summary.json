@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
-    "time": 2560,
-    "timeDay": 8633,
-    "timeWeek": 7215,
-    "timeMonth": 4778,
-    "timeYear": 2560,
+    "time": 2587,
+    "timeDay": 8724,
+    "timeWeek": 7332,
+    "timeMonth": 4857,
+    "timeYear": 2587,
     "dailyMinutesDown": {
-      "2023-04-20": 49
+      "2023-04-20": 52
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 2919,
     "timeDay": 8351,
     "timeWeek": 6946,
     "timeMonth": 5224,
     "timeYear": 2919,
     "dailyMinutesDown": {
-      "2023-04-20": 69
+      "2023-04-20": 58
     }
   },
   {
