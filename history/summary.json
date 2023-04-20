@@ -132,9 +132,9 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 2505,
     "timeDay": 8395,
@@ -142,7 +142,7 @@
     "timeMonth": 4609,
     "timeYear": 2505,
     "dailyMinutesDown": {
-      "2023-04-20": 49
+      "2023-04-20": 54
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.97%",
-    "time": 2890,
-    "timeDay": 8441,
-    "timeWeek": 6886,
-    "timeMonth": 5146,
-    "timeYear": 2890,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
+    "time": 2913,
+    "timeDay": 8601,
+    "timeWeek": 7021,
+    "timeMonth": 5230,
+    "timeYear": 2913,
     "dailyMinutesDown": {
-      "2023-04-20": 64
+      "2023-04-20": 59
     }
   },
   {
@@ -171,18 +171,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
     "time": 2268,
     "timeDay": 8641,
     "timeWeek": 7041,
     "timeMonth": 4334,
     "timeYear": 2268,
     "dailyMinutesDown": {
-      "2023-04-20": 89
+      "2023-04-20": 77
     }
   },
   {
