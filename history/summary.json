@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 2258,
-    "timeDay": 7493,
-    "timeWeek": 5358,
-    "timeMonth": 3799,
-    "timeYear": 2258,
+    "time": 2288,
+    "timeDay": 8050,
+    "timeWeek": 5750,
+    "timeMonth": 3920,
+    "timeYear": 2288,
     "dailyMinutesDown": {
-      "2023-04-20": 18
+      "2023-04-20": 20
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2727,
-    "timeDay": 6547,
-    "timeWeek": 5732,
-    "timeMonth": 4517,
-    "timeYear": 2727,
+    "time": 2751,
+    "timeDay": 7232,
+    "timeWeek": 5979,
+    "timeMonth": 4623,
+    "timeYear": 2751,
     "dailyMinutesDown": {
-      "2023-04-20": 12
+      "2023-04-20": 1
     }
   },
   {
@@ -172,9 +172,9 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2058,
     "timeDay": 7828,
@@ -182,7 +182,7 @@
     "timeMonth": 3583,
     "timeYear": 2058,
     "dailyMinutesDown": {
-      "2023-04-20": 13
+      "2023-04-20": 25
     }
   },
   {
