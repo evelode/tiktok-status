@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 2478,
-    "timeDay": 8256,
-    "timeWeek": 6784,
-    "timeMonth": 4521,
-    "timeYear": 2478,
+    "time": 2505,
+    "timeDay": 8395,
+    "timeWeek": 6938,
+    "timeMonth": 4609,
+    "timeYear": 2505,
     "dailyMinutesDown": {
-      "2023-04-20": 47
+      "2023-04-20": 49
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
-    "time": 2869,
-    "timeDay": 8302,
-    "timeWeek": 6762,
-    "timeMonth": 5068,
-    "timeYear": 2869,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
+    "time": 2890,
+    "timeDay": 8441,
+    "timeWeek": 6886,
+    "timeMonth": 5146,
+    "timeYear": 2890,
     "dailyMinutesDown": {
-      "2023-04-20": 59
+      "2023-04-20": 64
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.97%",
-    "time": 2250,
-    "timeDay": 8735,
-    "timeWeek": 7019,
-    "timeMonth": 4284,
-    "timeYear": 2250,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
+    "time": 2268,
+    "timeDay": 8641,
+    "timeWeek": 7041,
+    "timeMonth": 4334,
+    "timeYear": 2268,
     "dailyMinutesDown": {
-      "2023-04-20": 84
+      "2023-04-20": 89
     }
   },
   {
