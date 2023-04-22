@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "86.20%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "86.10%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.92%",
-    "time": 2593,
-    "timeDay": 3706,
-    "timeWeek": 6509,
-    "timeMonth": 4734,
-    "timeYear": 2593,
+    "time": 2603,
+    "timeDay": 4002,
+    "timeWeek": 6479,
+    "timeMonth": 4743,
+    "timeYear": 2603,
     "dailyMinutesDown": {
-      "2023-04-22": 199
+      "2023-04-22": 200
     }
   },
   {
@@ -152,9 +152,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "84.99%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "84.60%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.91%",
     "time": 2964,
     "timeDay": 4386,
@@ -162,7 +162,7 @@
     "timeMonth": 5302,
     "timeYear": 2964,
     "dailyMinutesDown": {
-      "2023-04-22": 216,
+      "2023-04-22": 222,
       "2023-04-20": 16
     }
   },
@@ -173,9 +173,9 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "85.39%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "85.01%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.91%",
     "time": 2315,
     "timeDay": 4240,
@@ -183,7 +183,7 @@
     "timeMonth": 4321,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2023-04-22": 211,
+      "2023-04-22": 216,
       "2023-04-20": 16
     }
   },
@@ -273,7 +273,7 @@
     "time": 2008,
     "timeDay": 1552,
     "timeWeek": 1599,
-    "timeMonth": 1991,
+    "timeMonth": 1998,
     "timeYear": 2008,
     "dailyMinutesDown": {}
   },
