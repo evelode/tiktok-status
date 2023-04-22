@@ -131,18 +131,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "83.50%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "83.10%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.90%",
     "time": 2603,
     "timeDay": 4002,
     "timeWeek": 6479,
     "timeMonth": 4743,
     "timeYear": 2603,
     "dailyMinutesDown": {
-      "2023-04-22": 238
+      "2023-04-22": 244
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "82.81%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "83.52%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.90%",
-    "time": 2984,
-    "timeDay": 4875,
-    "timeWeek": 6685,
-    "timeMonth": 5298,
-    "timeYear": 2984,
+    "time": 2991,
+    "timeDay": 4981,
+    "timeWeek": 6654,
+    "timeMonth": 5301,
+    "timeYear": 2991,
     "dailyMinutesDown": {
-      "2023-04-22": 247,
+      "2023-04-22": 237,
       "2023-04-20": 16
     }
   },
@@ -173,9 +173,9 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "82.40%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "82.00%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.89%",
     "time": 2315,
     "timeDay": 4240,
@@ -183,7 +183,7 @@
     "timeMonth": 4321,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2023-04-22": 254,
+      "2023-04-22": 260,
       "2023-04-20": 16
     }
   },
