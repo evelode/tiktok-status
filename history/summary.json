@@ -132,9 +132,9 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "84.28%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.91%",
     "time": 2603,
     "timeDay": 4002,
@@ -142,7 +142,7 @@
     "timeMonth": 4743,
     "timeYear": 2603,
     "dailyMinutesDown": {
-      "2023-04-22": 227
+      "2023-04-22": 238
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "83.52%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "82.81%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.90%",
-    "time": 2981,
-    "timeDay": 5117,
-    "timeWeek": 6762,
-    "timeMonth": 5317,
-    "timeYear": 2981,
+    "time": 2984,
+    "timeDay": 4875,
+    "timeWeek": 6685,
+    "timeMonth": 5298,
+    "timeYear": 2984,
     "dailyMinutesDown": {
-      "2023-04-22": 237,
+      "2023-04-22": 247,
       "2023-04-20": 16
     }
   },
@@ -172,18 +172,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "83.19%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "82.40%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.89%",
     "time": 2315,
     "timeDay": 4240,
     "timeWeek": 6261,
     "timeMonth": 4321,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2023-04-22": 243,
+      "2023-04-22": 254,
       "2023-04-20": 16
     }
   },
@@ -273,7 +273,7 @@
     "time": 2008,
     "timeDay": 1552,
     "timeWeek": 1599,
-    "timeMonth": 2006,
+    "timeMonth": 2008,
     "timeYear": 2008,
     "dailyMinutesDown": {}
   },
