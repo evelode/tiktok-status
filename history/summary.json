@@ -546,17 +546,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2322,
     "timeDay": 2985,
     "timeWeek": 2182,
     "timeMonth": 2363,
     "timeYear": 2322,
-    "dailyMinutesDown": {
-      "2023-04-25": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
