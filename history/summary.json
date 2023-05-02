@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
-    "time": 2602,
-    "timeDay": 3651,
-    "timeWeek": 2821,
-    "timeMonth": 4816,
-    "timeYear": 2602,
+    "time": 2605,
+    "timeDay": 3654,
+    "timeWeek": 2882,
+    "timeMonth": 4802,
+    "timeYear": 2605,
     "dailyMinutesDown": {
-      "2023-05-02": 72
+      "2023-05-02": 73
     }
   },
   {
@@ -170,18 +170,16 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2336,
     "timeDay": 3466,
     "timeWeek": 2868,
     "timeMonth": 4360,
     "timeYear": 2336,
-    "dailyMinutesDown": {
-      "2023-05-02": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -494,17 +492,17 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3172,
-    "timeDay": 5274,
-    "timeWeek": 4191,
-    "timeMonth": 3442,
-    "timeYear": 3172,
+    "time": 3177,
+    "timeDay": 5216,
+    "timeWeek": 4252,
+    "timeMonth": 3468,
+    "timeYear": 3177,
     "dailyMinutesDown": {}
   },
   {
