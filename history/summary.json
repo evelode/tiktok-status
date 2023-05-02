@@ -132,9 +132,9 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2585,
     "timeDay": 3068,
@@ -142,7 +142,7 @@
     "timeMonth": 4831,
     "timeYear": 2585,
     "dailyMinutesDown": {
-      "2023-05-02": 16
+      "2023-05-02": 22
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2994,
-    "timeDay": 3272,
-    "timeWeek": 2938,
-    "timeMonth": 5415,
-    "timeYear": 2994,
+    "time": 3002,
+    "timeDay": 4143,
+    "timeWeek": 3265,
+    "timeMonth": 5421,
+    "timeYear": 3002,
     "dailyMinutesDown": {
-      "2023-05-02": 1
+      "2023-05-02": 6
     }
   },
   {
@@ -170,18 +170,20 @@
     "url": "https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2302,
-    "timeDay": 2880,
-    "timeWeek": 2141,
-    "timeMonth": 4435,
-    "timeYear": 2302,
-    "dailyMinutesDown": {}
+    "time": 2304,
+    "timeDay": 2852,
+    "timeWeek": 2204,
+    "timeMonth": 4412,
+    "timeYear": 2304,
+    "dailyMinutesDown": {
+      "2023-05-02": 1
+    }
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -514,9 +516,9 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2809,
     "timeDay": 3040,
@@ -524,7 +526,7 @@
     "timeMonth": 2949,
     "timeYear": 2809,
     "dailyMinutesDown": {
-      "2023-05-02": 21
+      "2023-05-02": 27
     }
   },
   {
