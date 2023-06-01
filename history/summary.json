@@ -534,19 +534,19 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1413,
-    "timeDay": 1395,
-    "timeWeek": 1419,
-    "timeMonth": 1412,
-    "timeYear": 1413,
+    "time": 1412,
+    "timeDay": 1358,
+    "timeWeek": 1394,
+    "timeMonth": 1402,
+    "timeYear": 1412,
     "dailyMinutesDown": {
-      "2023-06-01": 6
+      "2023-06-01": 1
     }
   },
   {
