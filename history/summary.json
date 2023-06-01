@@ -152,9 +152,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.86%",
     "time": 3020,
     "timeDay": 4186,
@@ -162,7 +162,6 @@
     "timeMonth": 3262,
     "timeYear": 3020,
     "dailyMinutesDown": {
-      "2023-06-01": 12,
       "2023-05-11": 433
     }
   },
@@ -516,18 +515,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.83%",
     "time": 2828,
     "timeDay": 3911,
     "timeWeek": 3320,
     "timeMonth": 2927,
     "timeYear": 2828,
     "dailyMinutesDown": {
-      "2023-06-01": 12,
       "2023-05-11": 428
     }
   },
@@ -536,18 +534,20 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1412,
-    "timeDay": 1324,
-    "timeWeek": 1395,
-    "timeMonth": 1404,
-    "timeYear": 1412,
-    "dailyMinutesDown": {}
+    "time": 1411,
+    "timeDay": 1297,
+    "timeWeek": 1375,
+    "timeMonth": 1397,
+    "timeYear": 1411,
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
