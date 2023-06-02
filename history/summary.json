@@ -555,18 +555,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 2338,
     "timeDay": 2405,
     "timeWeek": 2472,
     "timeMonth": 2447,
     "timeYear": 2338,
     "dailyMinutesDown": {
-      "2023-06-02": 1
+      "2023-06-02": 40
     }
   }
 ]
