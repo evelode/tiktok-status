@@ -191,7 +191,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1888,
-    "timeDay": 1882,
+    "timeDay": 1823,
     "timeWeek": 2106,
     "timeMonth": 2001,
     "timeYear": 1888,
@@ -526,18 +526,20 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1409,
-    "timeDay": 1320,
-    "timeWeek": 1393,
-    "timeMonth": 1390,
-    "timeYear": 1409,
-    "dailyMinutesDown": {}
+    "time": 1410,
+    "timeDay": 1298,
+    "timeWeek": 1396,
+    "timeMonth": 1392,
+    "timeYear": 1410,
+    "dailyMinutesDown": {
+      "2023-06-04": 1
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
