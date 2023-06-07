@@ -132,18 +132,20 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2614,
-    "timeDay": 3975,
-    "timeWeek": 3214,
-    "timeMonth": 2620,
-    "timeYear": 2614,
-    "dailyMinutesDown": {}
+    "time": 2624,
+    "timeDay": 5140,
+    "timeWeek": 3472,
+    "timeMonth": 2714,
+    "timeYear": 2624,
+    "dailyMinutesDown": {
+      "2023-06-07": 1
+    }
   },
   {
     "name": "/searchVideo - Search for video by keyword",
@@ -152,18 +154,16 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3079,
     "timeDay": 5591,
     "timeWeek": 4674,
     "timeMonth": 3715,
     "timeYear": 3079,
-    "dailyMinutesDown": {
-      "2023-06-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchMusic - Search for music by keyword",
@@ -531,18 +531,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "13.70%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "97.16%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.60%",
+    "uptimeDay": "12.87%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "99.60%",
     "time": 1409,
     "timeDay": 1658,
     "timeWeek": 1393,
     "timeMonth": 1392,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2023-06-07": 256,
+      "2023-06-07": 268,
       "2023-06-06": 987
     }
   },
