@@ -130,19 +130,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 2662,
-    "timeDay": 5058,
-    "timeWeek": 3991,
-    "timeMonth": 3023,
-    "timeYear": 2662,
+    "time": 2665,
+    "timeDay": 4886,
+    "timeWeek": 3966,
+    "timeMonth": 3034,
+    "timeYear": 2665,
     "dailyMinutesDown": {
-      "2023-06-07": 62
+      "2023-06-07": 70
     }
   },
   {
