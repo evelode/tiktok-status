@@ -60,7 +60,7 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.31%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
@@ -550,18 +550,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 2341,
     "timeDay": 2737,
     "timeWeek": 2467,
     "timeMonth": 2434,
     "timeYear": 2341,
     "dailyMinutesDown": {
-      "2023-06-07": 1
+      "2023-06-07": 41
     }
   }
 ]
