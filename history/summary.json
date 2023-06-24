@@ -139,18 +139,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
-    "time": 2724,
-    "timeDay": 5320,
-    "timeWeek": 3594,
-    "timeMonth": 3491,
-    "timeYear": 2724,
+    "time": 2731,
+    "timeDay": 5539,
+    "timeWeek": 3715,
+    "timeMonth": 3529,
+    "timeYear": 2731,
     "dailyMinutesDown": {
+      "2023-06-24": 1,
       "2023-06-16": 23,
       "2023-06-07": 70
     }
@@ -162,9 +163,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 3231,
     "timeDay": 5889,
@@ -172,7 +173,6 @@
     "timeMonth": 4495,
     "timeYear": 3231,
     "dailyMinutesDown": {
-      "2023-06-24": 15,
       "2023-06-16": 17,
       "2023-06-07": 43
     }
@@ -337,7 +337,7 @@
     "uptimeYear": "100.00%",
     "time": 755,
     "timeDay": 1259,
-    "timeWeek": 1061,
+    "timeWeek": 1144,
     "timeMonth": 954,
     "timeYear": 755,
     "dailyMinutesDown": {}
@@ -355,7 +355,7 @@
     "uptimeYear": "99.98%",
     "time": 1670,
     "timeDay": 1862,
-    "timeWeek": 2094,
+    "timeWeek": 2291,
     "timeMonth": 2497,
     "timeYear": 1670,
     "dailyMinutesDown": {
@@ -375,7 +375,7 @@
     "uptimeYear": "100.00%",
     "time": 1639,
     "timeDay": 3831,
-    "timeWeek": 3015,
+    "timeWeek": 2150,
     "timeMonth": 2104,
     "timeYear": 1639,
     "dailyMinutesDown": {}
