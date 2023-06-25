@@ -139,18 +139,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
-    "time": 2758,
-    "timeDay": 5587,
-    "timeWeek": 4428,
-    "timeMonth": 3682,
-    "timeYear": 2758,
+    "time": 2766,
+    "timeDay": 5606,
+    "timeWeek": 4491,
+    "timeMonth": 3713,
+    "timeYear": 2766,
     "dailyMinutesDown": {
+      "2023-06-25": 1,
       "2023-06-16": 23,
       "2023-06-07": 70
     }
@@ -162,9 +163,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 3342,
     "timeDay": 6348,
@@ -172,7 +173,6 @@
     "timeMonth": 4885,
     "timeYear": 3342,
     "dailyMinutesDown": {
-      "2023-06-25": 5,
       "2023-06-16": 17,
       "2023-06-07": 43
     }
