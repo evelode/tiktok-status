@@ -139,18 +139,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
-    "time": 2743,
-    "timeDay": 5397,
-    "timeWeek": 4258,
-    "timeMonth": 3610,
-    "timeYear": 2743,
+    "time": 2753,
+    "timeDay": 5700,
+    "timeWeek": 4389,
+    "timeMonth": 3658,
+    "timeYear": 2753,
     "dailyMinutesDown": {
+      "2023-06-25": 1,
       "2023-06-16": 23,
       "2023-06-07": 70
     }
@@ -162,9 +163,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 3289,
     "timeDay": 6927,
@@ -172,7 +173,6 @@
     "timeMonth": 4760,
     "timeYear": 3289,
     "dailyMinutesDown": {
-      "2023-06-25": 12,
       "2023-06-16": 17,
       "2023-06-07": 43
     }
@@ -184,9 +184,9 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 2421,
     "timeDay": 4002,
@@ -194,7 +194,7 @@
     "timeMonth": 3098,
     "timeYear": 2421,
     "dailyMinutesDown": {
-      "2023-06-25": 32,
+      "2023-06-25": 21,
       "2023-06-16": 23,
       "2023-06-07": 16
     }
@@ -206,18 +206,16 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1976,
     "timeDay": 1853,
     "timeWeek": 4064,
     "timeMonth": 2803,
     "timeYear": 1976,
-    "dailyMinutesDown": {
-      "2023-06-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchHashtag - Search for hashtag by keyword",
