@@ -112,18 +112,20 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2499,
     "timeDay": 3139,
     "timeWeek": 2646,
     "timeMonth": 3169,
     "timeYear": 2499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 6
+    }
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -231,7 +233,7 @@
     "url": "https://nextpost.tech/tiktok-api/getUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-info-get-user-info-by-profile-url-or-nickname-works-only-for-users-with-non-empty-media-feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -303,28 +305,30 @@
     "url": "https://nextpost.tech/tiktok-api/getUserFeedByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2083,
     "timeDay": 2150,
     "timeWeek": 2017,
     "timeMonth": 2334,
     "timeYear": 2083,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 3
+    }
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
     "url": "https://nextpost.tech/tiktok-api/getUserID?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "99.21%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 802,
@@ -333,7 +337,7 @@
     "timeMonth": 1353,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2023-07-04": 79
+      "2023-07-04": 80
     }
   },
   {
