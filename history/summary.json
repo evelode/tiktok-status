@@ -83,7 +83,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2584,
-    "timeDay": 6229,
+    "timeDay": 3574,
     "timeWeek": 4119,
     "timeMonth": 3890,
     "timeYear": 2584,
@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2484,
-    "timeDay": 4278,
+    "timeDay": 8594,
     "timeWeek": 2764,
     "timeMonth": 3491,
     "timeYear": 2484,
@@ -112,19 +112,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2500,
-    "timeDay": 3062,
-    "timeWeek": 2675,
-    "timeMonth": 3162,
-    "timeYear": 2500,
+    "time": 2515,
+    "timeDay": 4917,
+    "timeWeek": 3203,
+    "timeMonth": 3282,
+    "timeYear": 2515,
     "dailyMinutesDown": {
-      "2023-07-04": 12
+      "2023-07-04": 6
     }
   },
   {
@@ -132,18 +132,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
-    "time": 2894,
-    "timeDay": 12825,
-    "timeWeek": 5334,
-    "timeMonth": 4312,
-    "timeYear": 2894,
+    "time": 2888,
+    "timeDay": 1439,
+    "timeWeek": 5155,
+    "timeMonth": 4260,
+    "timeYear": 2888,
     "dailyMinutesDown": {
+      "2023-07-04": 5,
       "2023-06-07": 70
     }
   },
@@ -159,8 +160,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 3440,
-    "timeDay": 4860,
-    "timeWeek": 4318,
+    "timeDay": 4289,
+    "timeWeek": 3871,
     "timeMonth": 5011,
     "timeYear": 3440,
     "dailyMinutesDown": {
@@ -181,7 +182,7 @@
     "uptimeYear": "100.00%",
     "time": 2517,
     "timeDay": 1900,
-    "timeWeek": 4399,
+    "timeWeek": 3957,
     "timeMonth": 3650,
     "timeYear": 2517,
     "dailyMinutesDown": {
@@ -213,19 +214,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchHashtag?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
-    "time": 1589,
-    "timeDay": 2074,
-    "timeWeek": 2392,
-    "timeMonth": 2235,
-    "timeYear": 1589,
+    "time": 1657,
+    "timeDay": 9548,
+    "timeWeek": 4849,
+    "timeMonth": 2837,
+    "timeYear": 1657,
     "dailyMinutesDown": {
-      "2023-07-04": 81
+      "2023-07-04": 84
     }
   },
   {
@@ -307,18 +308,16 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2084,
     "timeDay": 2119,
     "timeWeek": 2026,
     "timeMonth": 2327,
     "timeYear": 2084,
-    "dailyMinutesDown": {
-      "2023-07-04": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -327,9 +326,9 @@
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 803,
     "timeDay": 4456,
@@ -337,7 +336,7 @@
     "timeMonth": 1345,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2023-07-04": 87
+      "2023-07-04": 79
     }
   },
   {
@@ -535,7 +534,7 @@
     "uptimeYear": "99.99%",
     "time": 3133,
     "timeDay": 2158,
-    "timeWeek": 4605,
+    "timeWeek": 4604,
     "timeMonth": 4263,
     "timeYear": 3133,
     "dailyMinutesDown": {
@@ -555,8 +554,8 @@
     "uptimeYear": "99.99%",
     "time": 1621,
     "timeDay": 1939,
-    "timeWeek": 2116,
-    "timeMonth": 2505,
+    "timeWeek": 1726,
+    "timeMonth": 2565,
     "timeYear": 1621,
     "dailyMinutesDown": {
       "2023-06-07": 27
