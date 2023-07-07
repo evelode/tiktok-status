@@ -139,7 +139,7 @@
     "time": 2882,
     "timeDay": 2808,
     "timeWeek": 4924,
-    "timeMonth": 4198,
+    "timeMonth": 4180,
     "timeYear": 2882,
     "dailyMinutesDown": {
       "2023-06-07": 70
@@ -159,7 +159,7 @@
     "time": 3444,
     "timeDay": 5304,
     "timeWeek": 4225,
-    "timeMonth": 4978,
+    "timeMonth": 4967,
     "timeYear": 3444,
     "dailyMinutesDown": {
       "2023-07-04": 84,
@@ -276,7 +276,7 @@
     "uptimeYear": "100.00%",
     "time": 2123,
     "timeDay": 2156,
-    "timeWeek": 2687,
+    "timeWeek": 1928,
     "timeMonth": 2922,
     "timeYear": 2123,
     "dailyMinutesDown": {}
@@ -544,18 +544,19 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1622,
     "timeDay": 1696,
     "timeWeek": 1756,
-    "timeMonth": 2800,
+    "timeMonth": 2794,
     "timeYear": 1622,
     "dailyMinutesDown": {
+      "2023-07-07": 1,
       "2023-06-07": 27
     }
   },
@@ -564,18 +565,19 @@
     "url": "https://nextpost.tech/tiktok-api/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 2718,
-    "timeDay": 8559,
-    "timeWeek": 3271,
-    "timeMonth": 4126,
-    "timeYear": 2718,
+    "time": 2712,
+    "timeDay": 4654,
+    "timeWeek": 3019,
+    "timeMonth": 4098,
+    "timeYear": 2712,
     "dailyMinutesDown": {
+      "2023-07-07": 1,
       "2023-06-07": 49
     }
   }
