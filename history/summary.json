@@ -76,17 +76,17 @@
     "url": "https://nextpost.tech/tiktok-api/getUnshortenedUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2Ft%2FZTR9YXeWQ%2F&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-unshortened-url-convert-short-tik-tok-video-url-to-full-tik-tok-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2586,
-    "timeDay": 2206,
-    "timeWeek": 3622,
-    "timeMonth": 3749,
-    "timeYear": 2586,
+    "time": 2587,
+    "timeDay": 2441,
+    "timeWeek": 3551,
+    "timeMonth": 3725,
+    "timeYear": 2587,
     "dailyMinutesDown": {}
   },
   {
@@ -94,19 +94,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 2477,
-    "timeDay": 1295,
-    "timeWeek": 2771,
-    "timeMonth": 3385,
+    "timeDay": 1630,
+    "timeWeek": 2728,
+    "timeMonth": 3356,
     "timeYear": 2477,
     "dailyMinutesDown": {
-      "2023-07-08": 1
+      "2023-07-08": 12
     }
   },
   {
@@ -195,9 +195,9 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.93%",
     "time": 1996,
     "timeDay": 1968,
@@ -205,7 +205,7 @@
     "timeMonth": 2824,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2023-07-08": 72,
+      "2023-07-08": 83,
       "2023-07-05": 84,
       "2023-07-04": 82
     }
