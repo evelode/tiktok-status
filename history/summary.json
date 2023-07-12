@@ -44,9 +44,9 @@
     "slug": "get-video-by-id-get-video-info-by-id",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "58.70%",
-    "uptimeWeek": "93.78%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "58.31%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.83%",
     "time": 1547,
     "timeDay": 1345,
@@ -54,7 +54,7 @@
     "timeMonth": 2375,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2023-07-12": 595,
+      "2023-07-12": 600,
       "2023-07-11": 33
     }
   },
@@ -65,9 +65,9 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "58.71%",
-    "uptimeWeek": "93.78%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "58.32%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.83%",
     "time": 1455,
     "timeDay": 1143,
@@ -75,7 +75,7 @@
     "timeMonth": 1625,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2023-07-12": 595,
+      "2023-07-12": 600,
       "2023-07-11": 33
     }
   },
@@ -104,9 +104,9 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "58.71%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "58.33%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.82%",
     "time": 2490,
     "timeDay": 1649,
@@ -114,7 +114,7 @@
     "timeMonth": 3209,
     "timeYear": 2490,
     "dailyMinutesDown": {
-      "2023-07-12": 595,
+      "2023-07-12": 600,
       "2023-07-11": 33,
       "2023-07-10": 38
     }
@@ -126,9 +126,9 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "58.72%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "58.34%",
+    "uptimeWeek": "92.70%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.80%",
     "time": 2601,
     "timeDay": 1654,
@@ -136,7 +136,7 @@
     "timeMonth": 3746,
     "timeYear": 2601,
     "dailyMinutesDown": {
-      "2023-07-12": 594,
+      "2023-07-12": 600,
       "2023-07-11": 33,
       "2023-07-10": 104
     }
@@ -310,17 +310,17 @@
     "url": "https://nextpost.tech/tiktok-api/getUserFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2077,
-    "timeDay": 1534,
-    "timeWeek": 2747,
-    "timeMonth": 2358,
-    "timeYear": 2077,
+    "time": 2075,
+    "timeDay": 1509,
+    "timeWeek": 2679,
+    "timeMonth": 2337,
+    "timeYear": 2075,
     "dailyMinutesDown": {}
   },
   {
@@ -330,9 +330,9 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "70.31%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.86%",
     "time": 2152,
     "timeDay": 3125,
@@ -340,7 +340,7 @@
     "timeMonth": 2719,
     "timeYear": 2152,
     "dailyMinutesDown": {
-      "2023-07-12": 422,
+      "2023-07-12": 428,
       "2023-07-11": 32,
       "2023-07-10": 60
     }
@@ -374,9 +374,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "70.31%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "99.84%",
     "time": 1776,
     "timeDay": 1228,
@@ -384,7 +384,7 @@
     "timeMonth": 2884,
     "timeYear": 1776,
     "dailyMinutesDown": {
-      "2023-07-12": 422,
+      "2023-07-12": 427,
       "2023-07-11": 32,
       "2023-07-10": 65,
       "2023-07-04": 79
