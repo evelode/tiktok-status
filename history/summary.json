@@ -40,19 +40,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByID?video_id=6994619123363876101&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-id-get-video-info-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1563,
-    "timeDay": 2892,
-    "timeWeek": 2707,
-    "timeMonth": 2447,
-    "timeYear": 1563,
+    "time": 1565,
+    "timeDay": 2778,
+    "timeWeek": 2682,
+    "timeMonth": 2442,
+    "timeYear": 1565,
     "dailyMinutesDown": {
-      "2023-07-12": 30
+      "2023-07-12": 40
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-url-get-video-info-by-url",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1457,
-    "timeDay": 1596,
-    "timeWeek": 1671,
-    "timeMonth": 1626,
-    "timeYear": 1457,
+    "time": 1458,
+    "timeDay": 1636,
+    "timeWeek": 1680,
+    "timeMonth": 1630,
+    "timeYear": 1458,
     "dailyMinutesDown": {
-      "2023-07-12": 30
+      "2023-07-12": 40
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 2523,
-    "timeDay": 4093,
-    "timeWeek": 3115,
-    "timeMonth": 3384,
-    "timeYear": 2523,
+    "time": 2526,
+    "timeDay": 4010,
+    "timeWeek": 3128,
+    "timeMonth": 3385,
+    "timeYear": 2526,
     "dailyMinutesDown": {
-      "2023-07-12": 29
+      "2023-07-12": 40
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 2598,
-    "timeDay": 2286,
-    "timeWeek": 3762,
-    "timeMonth": 3622,
-    "timeYear": 2598,
+    "time": 2602,
+    "timeDay": 2543,
+    "timeWeek": 3785,
+    "timeMonth": 3635,
+    "timeYear": 2602,
     "dailyMinutesDown": {
-      "2023-07-12": 29
+      "2023-07-12": 40
     }
   },
   {
@@ -302,9 +302,9 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 2150,
     "timeDay": 3266,
@@ -312,7 +312,7 @@
     "timeMonth": 2674,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2023-07-12": 29
+      "2023-07-12": 41
     }
   },
   {
@@ -340,9 +340,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 1778,
     "timeDay": 1842,
@@ -350,7 +350,7 @@
     "timeMonth": 2836,
     "timeYear": 1778,
     "dailyMinutesDown": {
-      "2023-07-12": 29
+      "2023-07-12": 41
     }
   },
   {
