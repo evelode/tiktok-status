@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 1476
-lastUpdated: 2023-07-12T03:59:28.161Z
+status: up
+code: 200
+responseTime: 3238
+lastUpdated: 2023-07-12T16:01:18.476Z
 startTime: Wed Oct 26 2022 23:16:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
