@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 1488
-lastUpdated: 2023-07-11T23:13:51.692Z
+status: down
+code: 400
+responseTime: 1585
+lastUpdated: 2023-07-12T03:59:18.202Z
 startTime: Wed Oct 26 2022 23:16:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
