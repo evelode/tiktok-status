@@ -4,19 +4,19 @@
     "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1749,
-    "timeDay": 1252,
-    "timeWeek": 1546,
-    "timeMonth": 2007,
-    "timeYear": 1752,
+    "time": 1748,
+    "timeDay": 1296,
+    "timeWeek": 1539,
+    "timeMonth": 1995,
+    "timeYear": 1751,
     "dailyMinutesDown": {
-      "2023-07-12": 2
+      "2023-07-12": 11
     }
   },
   {
@@ -24,16 +24,16 @@
     "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrlByID?video_id=6994619123363876101&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
-    "timeDay": 980,
-    "timeWeek": 747,
-    "timeMonth": 872,
+    "timeDay": 895,
+    "timeWeek": 741,
+    "timeMonth": 866,
     "timeYear": 682,
     "dailyMinutesDown": {}
   },
@@ -304,9 +304,9 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.13%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.96%",
     "time": 2150,
     "timeDay": 3266,
@@ -314,7 +314,7 @@
     "timeMonth": 2674,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2023-07-12": 131
+      "2023-07-12": 142
     }
   },
   {
@@ -342,9 +342,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "90.94%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.96%",
     "time": 1778,
     "timeDay": 1842,
@@ -352,7 +352,7 @@
     "timeMonth": 2836,
     "timeYear": 1778,
     "dailyMinutesDown": {
-      "2023-07-12": 131
+      "2023-07-12": 142
     }
   },
   {
