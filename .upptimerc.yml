@@ -298,8 +298,8 @@ status-website:
   navbar:
     - title: Homepage
       href: /
-    - title: Documentation
-      href: https://nextpost.tech/tiktok-rest-api-documentation/
+    - title: Postman
+      href: https://www.postman.com/nextpost-tech/workspace/24af3158-f1f6-4911-be7b-9c245435502f/api/e2ed8e20-0dbd-41a3-9363-092d810217ed
     - title: Buy Now
       href: https://nextpost.tech/downloads/tiktok-rest-api/ 
 
