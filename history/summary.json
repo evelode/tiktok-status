@@ -42,18 +42,16 @@
     "slug": "get-video-by-id-get-video-info-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1564,
     "timeDay": 2457,
     "timeWeek": 2564,
     "timeMonth": 2385,
     "timeYear": 1564,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getVideoByUrl - Get video info by URL",
@@ -62,18 +60,16 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1457,
     "timeDay": 1531,
     "timeWeek": 1639,
     "timeMonth": 1612,
     "timeYear": 1457,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -100,18 +96,16 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2524,
     "timeDay": 3890,
     "timeWeek": 3055,
     "timeMonth": 3323,
     "timeYear": 2524,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -120,18 +114,16 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2601,
     "timeDay": 2628,
     "timeWeek": 3700,
     "timeMonth": 3576,
     "timeYear": 2601,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -338,35 +330,33 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1780,
     "timeDay": 1984,
     "timeWeek": 3095,
     "timeMonth": 2421,
     "timeYear": 1780,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
     "url": "https://nextpost.tech/tiktok-api/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-twitter-username-get-twitter-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1709,
-    "timeDay": 2112,
-    "timeWeek": 2496,
-    "timeMonth": 2449,
-    "timeYear": 1709,
+    "time": 1718,
+    "timeDay": 2426,
+    "timeWeek": 2581,
+    "timeMonth": 2491,
+    "timeYear": 1718,
     "dailyMinutesDown": {}
   },
   {
@@ -519,19 +509,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3149,
     "timeDay": 2209,
     "timeWeek": 3462,
     "timeMonth": 4071,
     "timeYear": 3149,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
@@ -540,18 +528,16 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1623,
     "timeDay": 1989,
     "timeWeek": 1660,
     "timeMonth": 2613,
     "timeYear": 1623,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
@@ -560,17 +546,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2717,
     "timeDay": 2265,
     "timeWeek": 3074,
     "timeMonth": 3939,
     "timeYear": 2717,
-    "dailyMinutesDown": {
-      "2023-07-12": 17
-    }
+    "dailyMinutesDown": {}
   }
 ]
