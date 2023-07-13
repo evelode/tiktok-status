@@ -320,18 +320,16 @@
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 825,
     "timeDay": 897,
     "timeWeek": 1317,
     "timeMonth": 1367,
     "timeYear": 825,
-    "dailyMinutesDown": {
-      "2023-07-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUsernameByID - Get username by TikTok user ID",
@@ -358,17 +356,17 @@
     "url": "https://nextpost.tech/tiktok-api/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-twitter-username-get-twitter-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1701,
-    "timeDay": 1698,
-    "timeWeek": 2405,
-    "timeMonth": 2406,
-    "timeYear": 1701,
+    "time": 1709,
+    "timeDay": 2112,
+    "timeWeek": 2496,
+    "timeMonth": 2449,
+    "timeYear": 1709,
     "dailyMinutesDown": {}
   },
   {
