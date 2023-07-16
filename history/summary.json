@@ -139,7 +139,7 @@
     "time": 2855,
     "timeDay": 1888,
     "timeWeek": 1963,
-    "timeMonth": 3832,
+    "timeMonth": 3836,
     "timeYear": 2855,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 3432,
     "timeDay": 2861,
     "timeWeek": 3011,
-    "timeMonth": 4729,
+    "timeMonth": 4751,
     "timeYear": 3432,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 2497,
     "timeDay": 1602,
     "timeWeek": 1696,
-    "timeMonth": 3234,
+    "timeMonth": 3171,
     "timeYear": 2497,
     "dailyMinutesDown": {}
   },
@@ -472,16 +472,16 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-info-get-hashtag-info-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1537,
-    "timeDay": 1938,
-    "timeWeek": 1611,
-    "timeMonth": 1765,
+    "timeDay": 1638,
+    "timeWeek": 1589,
+    "timeMonth": 1757,
     "timeYear": 1537,
     "dailyMinutesDown": {}
   },
@@ -499,7 +499,7 @@
     "time": 3641,
     "timeDay": 3433,
     "timeWeek": 4111,
-    "timeMonth": 4986,
+    "timeMonth": 4932,
     "timeYear": 3641,
     "dailyMinutesDown": {}
   },
@@ -517,7 +517,7 @@
     "time": 3146,
     "timeDay": 2635,
     "timeWeek": 3468,
-    "timeMonth": 4034,
+    "timeMonth": 3989,
     "timeYear": 3146,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 1625,
     "timeDay": 1657,
     "timeWeek": 1729,
-    "timeMonth": 2610,
+    "timeMonth": 2392,
     "timeYear": 1625,
     "dailyMinutesDown": {}
   },
@@ -545,18 +545,16 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2733,
     "timeDay": 3681,
     "timeWeek": 3207,
-    "timeMonth": 3956,
+    "timeMonth": 3791,
     "timeYear": 2733,
-    "dailyMinutesDown": {
-      "2023-07-14": 27
-    }
+    "dailyMinutesDown": {}
   }
 ]
