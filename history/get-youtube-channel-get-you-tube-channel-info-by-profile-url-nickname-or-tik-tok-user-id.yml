@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 1136
-lastUpdated: 2023-07-17T22:41:52.048Z
+status: up
+code: 200
+responseTime: 2144
+lastUpdated: 2023-07-17T22:53:11.223Z
 startTime: Sat Oct 29 2022 22:41:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
