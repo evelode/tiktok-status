@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 1745,
     "timeDay": 1342,
-    "timeWeek": 1590,
+    "timeWeek": 1619,
     "timeMonth": 1766,
     "timeYear": 1748,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 689,
     "timeDay": 641,
-    "timeWeek": 1045,
+    "timeWeek": 1083,
     "timeMonth": 829,
     "timeYear": 689,
     "dailyMinutesDown": {}
@@ -43,18 +43,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-id-get-video-info-by-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "72.60%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.90%",
     "time": 1574,
     "timeDay": 1953,
-    "timeWeek": 2193,
+    "timeWeek": 1841,
     "timeMonth": 2379,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2023-07-19": 2
+      "2023-07-19": 395
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://nextpost.tech/tiktok-api/getVideoByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-url-get-video-info-by-url",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1465,
-    "timeDay": 1707,
-    "timeWeek": 1687,
-    "timeMonth": 1666,
-    "timeYear": 1465,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "72.72%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.90%",
+    "time": 1467,
+    "timeDay": 1772,
+    "timeWeek": 1704,
+    "timeMonth": 1671,
+    "timeYear": 1467,
     "dailyMinutesDown": {
-      "2023-07-19": 2
+      "2023-07-19": 393
     }
   },
   {
@@ -90,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 2586,
     "timeDay": 3594,
-    "timeWeek": 2747,
+    "timeWeek": 2944,
     "timeMonth": 3209,
     "timeYear": 2586,
     "dailyMinutesDown": {}
@@ -101,18 +101,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "72.62%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.90%",
     "time": 2532,
     "timeDay": 2327,
-    "timeWeek": 3371,
+    "timeWeek": 2706,
     "timeMonth": 3267,
     "timeYear": 2532,
     "dailyMinutesDown": {
-      "2023-07-19": 2
+      "2023-07-19": 394
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "72.63%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.90%",
     "time": 2605,
     "timeDay": 2642,
-    "timeWeek": 2691,
+    "timeWeek": 2684,
     "timeMonth": 3252,
     "timeYear": 2605,
     "dailyMinutesDown": {
-      "2023-07-19": 1
+      "2023-07-19": 394
     }
   },
   {
@@ -148,8 +148,8 @@
     "uptimeYear": "100.00%",
     "time": 2849,
     "timeDay": 1845,
-    "timeWeek": 2164,
-    "timeMonth": 3888,
+    "timeWeek": 2202,
+    "timeMonth": 3806,
     "timeYear": 2849,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "uptimeYear": "100.00%",
     "time": 3432,
     "timeDay": 3540,
-    "timeWeek": 3240,
+    "timeWeek": 3216,
     "timeMonth": 4754,
     "timeYear": 3432,
     "dailyMinutesDown": {}
@@ -184,7 +184,7 @@
     "uptimeYear": "100.00%",
     "time": 2496,
     "timeDay": 3057,
-    "timeWeek": 2122,
+    "timeWeek": 2118,
     "timeMonth": 3234,
     "timeYear": 2496,
     "dailyMinutesDown": {}
@@ -202,7 +202,7 @@
     "uptimeYear": "100.00%",
     "time": 1994,
     "timeDay": 2037,
-    "timeWeek": 2238,
+    "timeWeek": 2250,
     "timeMonth": 2121,
     "timeYear": 1994,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "uptimeYear": "100.00%",
     "time": 1664,
     "timeDay": 1586,
-    "timeWeek": 1854,
+    "timeWeek": 1835,
     "timeMonth": 2394,
     "timeYear": 1664,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "uptimeYear": "100.00%",
     "time": 1903,
     "timeDay": 1887,
-    "timeWeek": 2511,
+    "timeWeek": 2602,
     "timeMonth": 2812,
     "timeYear": 1903,
     "dailyMinutesDown": {}
@@ -256,7 +256,7 @@
     "uptimeYear": "100.00%",
     "time": 1678,
     "timeDay": 1790,
-    "timeWeek": 2012,
+    "timeWeek": 2037,
     "timeMonth": 2277,
     "timeYear": 1678,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "uptimeYear": "100.00%",
     "time": 2160,
     "timeDay": 2372,
-    "timeWeek": 2116,
+    "timeWeek": 1970,
     "timeMonth": 2675,
     "timeYear": 2160,
     "dailyMinutesDown": {}
@@ -292,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 2069,
     "timeDay": 2273,
-    "timeWeek": 1903,
+    "timeWeek": 2051,
     "timeMonth": 2211,
     "timeYear": 2069,
     "dailyMinutesDown": {}
@@ -310,7 +310,7 @@
     "uptimeYear": "100.00%",
     "time": 2155,
     "timeDay": 2234,
-    "timeWeek": 2247,
+    "timeWeek": 2365,
     "timeMonth": 2577,
     "timeYear": 2155,
     "dailyMinutesDown": {}
@@ -328,7 +328,7 @@
     "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 759,
-    "timeWeek": 813,
+    "timeWeek": 821,
     "timeMonth": 1363,
     "timeYear": 824,
     "dailyMinutesDown": {}
@@ -346,7 +346,7 @@
     "uptimeYear": "100.00%",
     "time": 1785,
     "timeDay": 1910,
-    "timeWeek": 1980,
+    "timeWeek": 1989,
     "timeMonth": 2411,
     "timeYear": 1785,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "uptimeYear": "100.00%",
     "time": 1805,
     "timeDay": 2060,
-    "timeWeek": 3777,
+    "timeWeek": 3916,
     "timeMonth": 2870,
     "timeYear": 1805,
     "dailyMinutesDown": {}
@@ -382,7 +382,7 @@
     "uptimeYear": "100.00%",
     "time": 1840,
     "timeDay": 2041,
-    "timeWeek": 2086,
+    "timeWeek": 2155,
     "timeMonth": 2811,
     "timeYear": 1840,
     "dailyMinutesDown": {}
@@ -400,7 +400,7 @@
     "uptimeYear": "100.00%",
     "time": 1865,
     "timeDay": 2135,
-    "timeWeek": 2026,
+    "timeWeek": 2077,
     "timeMonth": 2306,
     "timeYear": 1865,
     "dailyMinutesDown": {}
@@ -418,7 +418,7 @@
     "uptimeYear": "100.00%",
     "time": 1656,
     "timeDay": 1864,
-    "timeWeek": 1774,
+    "timeWeek": 1801,
     "timeMonth": 1831,
     "timeYear": 1656,
     "dailyMinutesDown": {}
@@ -436,7 +436,7 @@
     "uptimeYear": "100.00%",
     "time": 1697,
     "timeDay": 1625,
-    "timeWeek": 1747,
+    "timeWeek": 1789,
     "timeMonth": 2206,
     "timeYear": 1697,
     "dailyMinutesDown": {}
@@ -454,7 +454,7 @@
     "uptimeYear": "100.00%",
     "time": 1526,
     "timeDay": 1247,
-    "timeWeek": 2158,
+    "timeWeek": 2254,
     "timeMonth": 1811,
     "timeYear": 1526,
     "dailyMinutesDown": {}
@@ -472,7 +472,7 @@
     "uptimeYear": "100.00%",
     "time": 1325,
     "timeDay": 1106,
-    "timeWeek": 1424,
+    "timeWeek": 1429,
     "timeMonth": 1705,
     "timeYear": 1325,
     "dailyMinutesDown": {}
@@ -490,7 +490,7 @@
     "uptimeYear": "100.00%",
     "time": 1538,
     "timeDay": 1606,
-    "timeWeek": 1670,
+    "timeWeek": 1664,
     "timeMonth": 1732,
     "timeYear": 1538,
     "dailyMinutesDown": {}
@@ -508,7 +508,7 @@
     "uptimeYear": "100.00%",
     "time": 3635,
     "timeDay": 2690,
-    "timeWeek": 3562,
+    "timeWeek": 3569,
     "timeMonth": 4609,
     "timeYear": 3635,
     "dailyMinutesDown": {}
@@ -519,18 +519,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "72.64%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.88%",
     "time": 3133,
     "timeDay": 2288,
-    "timeWeek": 2428,
+    "timeWeek": 2431,
     "timeMonth": 3732,
     "timeYear": 3133,
     "dailyMinutesDown": {
-      "2023-07-19": 1
+      "2023-07-19": 394
     }
   },
   {
@@ -539,18 +539,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "72.65%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.90%",
     "time": 1627,
     "timeDay": 2148,
-    "timeWeek": 1876,
+    "timeWeek": 1886,
     "timeMonth": 2238,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2023-07-19": 1
+      "2023-07-19": 394
     }
   },
   {
@@ -566,7 +566,7 @@
     "uptimeYear": "100.00%",
     "time": 2735,
     "timeDay": 3378,
-    "timeWeek": 3117,
+    "timeWeek": 3165,
     "timeMonth": 3763,
     "timeYear": 2735,
     "dailyMinutesDown": {}
