@@ -166,19 +166,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2492,
-    "timeDay": 1784,
-    "timeWeek": 2088,
-    "timeMonth": 3206,
-    "timeYear": 2492,
+    "time": 2493,
+    "timeDay": 2028,
+    "timeWeek": 2136,
+    "timeMonth": 3194,
+    "timeYear": 2493,
     "dailyMinutesDown": {
-      "2023-07-20": 1
+      "2023-07-20": 6
     }
   },
   {
