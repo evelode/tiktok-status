@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 500
-responseTime: 222
-lastUpdated: 2023-08-01T00:00:14.823Z
+status: up
+code: 200
+responseTime: 3037
+lastUpdated: 2023-08-01T01:08:38.848Z
 startTime: Sat Oct 29 2022 22:41:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
