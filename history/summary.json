@@ -102,18 +102,16 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2692,
     "timeDay": 5649,
     "timeWeek": 5064,
     "timeMonth": 3670,
     "timeYear": 2692,
-    "dailyMinutesDown": {
-      "2023-08-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -196,19 +194,19 @@
     "url": "https://nextpost.tech/tiktok-api/searchLive?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-live-search-for-live-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 2083,
-    "timeDay": 4828,
-    "timeWeek": 4120,
-    "timeMonth": 2740,
-    "timeYear": 2083,
+    "time": 2084,
+    "timeDay": 4601,
+    "timeWeek": 4042,
+    "timeMonth": 2741,
+    "timeYear": 2084,
     "dailyMinutesDown": {
-      "2023-08-11": 1,
+      "2023-08-11": 5,
       "2023-08-09": 25
     }
   },
