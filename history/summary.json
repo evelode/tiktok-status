@@ -51,7 +51,7 @@
     "time": 1588,
     "timeDay": 2049,
     "timeWeek": 2155,
-    "timeMonth": 1862,
+    "timeMonth": 1752,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2023-08-03": 32
@@ -71,7 +71,7 @@
     "time": 1544,
     "timeDay": 2285,
     "timeWeek": 1975,
-    "timeMonth": 2081,
+    "timeMonth": 2084,
     "timeYear": 1544,
     "dailyMinutesDown": {
       "2023-08-03": 17
@@ -100,19 +100,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2760,
-    "timeDay": 6390,
-    "timeWeek": 5635,
-    "timeMonth": 3975,
-    "timeYear": 2760,
+    "time": 2763,
+    "timeDay": 6196,
+    "timeWeek": 5558,
+    "timeMonth": 3987,
+    "timeYear": 2763,
     "dailyMinutesDown": {
-      "2023-08-12": 8
+      "2023-08-12": 11
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2818,
-    "timeDay": 6616,
-    "timeWeek": 5776,
-    "timeMonth": 3879,
-    "timeYear": 2818,
+    "time": 2821,
+    "timeDay": 6429,
+    "timeWeek": 5700,
+    "timeMonth": 3884,
+    "timeYear": 2821,
     "dailyMinutesDown": {
-      "2023-08-12": 2
+      "2023-08-12": 5
     }
   },
   {
@@ -319,7 +319,7 @@
     "time": 2355,
     "timeDay": 3125,
     "timeWeek": 3011,
-    "timeMonth": 3489,
+    "timeMonth": 3507,
     "timeYear": 2355,
     "dailyMinutesDown": {
       "2023-08-07": 63
@@ -359,7 +359,7 @@
     "time": 1855,
     "timeDay": 3172,
     "timeWeek": 3325,
-    "timeMonth": 2297,
+    "timeMonth": 2299,
     "timeYear": 1855,
     "dailyMinutesDown": {}
   },
