@@ -51,7 +51,7 @@
     "time": 1588,
     "timeDay": 2049,
     "timeWeek": 2155,
-    "timeMonth": 1868,
+    "timeMonth": 1862,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2023-08-03": 32
@@ -71,7 +71,7 @@
     "time": 1544,
     "timeDay": 2285,
     "timeWeek": 1975,
-    "timeMonth": 2073,
+    "timeMonth": 2081,
     "timeYear": 1544,
     "dailyMinutesDown": {
       "2023-08-03": 17
@@ -109,7 +109,7 @@
     "time": 2714,
     "timeDay": 6096,
     "timeWeek": 5293,
-    "timeMonth": 3776,
+    "timeMonth": 3807,
     "timeYear": 2714,
     "dailyMinutesDown": {}
   },
@@ -118,18 +118,20 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2771,
-    "timeDay": 6361,
-    "timeWeek": 5377,
-    "timeMonth": 3591,
-    "timeYear": 2771,
-    "dailyMinutesDown": {}
+    "time": 2785,
+    "timeDay": 6679,
+    "timeWeek": 5597,
+    "timeMonth": 3687,
+    "timeYear": 2785,
+    "dailyMinutesDown": {
+      "2023-08-12": 2
+    }
   },
   {
     "name": "/searchUser - Search for user by keyword",
