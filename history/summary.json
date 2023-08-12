@@ -102,18 +102,16 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2731,
     "timeDay": 6189,
     "timeWeek": 5421,
-    "timeMonth": 3879,
+    "timeMonth": 3887,
     "timeYear": 2731,
-    "dailyMinutesDown": {
-      "2023-08-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -129,7 +127,7 @@
     "time": 2788,
     "timeDay": 6392,
     "timeWeek": 5509,
-    "timeMonth": 3693,
+    "timeMonth": 3741,
     "timeYear": 2788,
     "dailyMinutesDown": {}
   },
@@ -299,7 +297,7 @@
     "time": 2118,
     "timeDay": 2761,
     "timeWeek": 3070,
-    "timeMonth": 2375,
+    "timeMonth": 2396,
     "timeYear": 2118,
     "dailyMinutesDown": {}
   },
@@ -420,17 +418,17 @@
     "url": "https://nextpost.tech/tiktok-api/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1834,
-    "timeDay": 4732,
-    "timeWeek": 4204,
-    "timeMonth": 2734,
-    "timeYear": 1834,
+    "time": 1846,
+    "timeDay": 4881,
+    "timeWeek": 4305,
+    "timeMonth": 2793,
+    "timeYear": 1846,
     "dailyMinutesDown": {}
   },
   {
