@@ -100,19 +100,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 2812,
-    "timeDay": 5858,
-    "timeWeek": 5609,
-    "timeMonth": 4161,
-    "timeYear": 2812,
+    "time": 2825,
+    "timeDay": 6036,
+    "timeWeek": 5702,
+    "timeMonth": 4216,
+    "timeYear": 2825,
     "dailyMinutesDown": {
-      "2023-08-13": 60
+      "2023-08-13": 61
     }
   },
   {
@@ -198,9 +198,9 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2152,
     "timeDay": 4736,
@@ -208,7 +208,6 @@
     "timeMonth": 3090,
     "timeYear": 2152,
     "dailyMinutesDown": {
-      "2023-08-13": 4,
       "2023-08-09": 25
     }
   },
@@ -246,7 +245,7 @@
     "time": 1991,
     "timeDay": 2539,
     "timeWeek": 2946,
-    "timeMonth": 2632,
+    "timeMonth": 2518,
     "timeYear": 1991,
     "dailyMinutesDown": {}
   },
@@ -264,7 +263,7 @@
     "time": 1772,
     "timeDay": 2698,
     "timeWeek": 2870,
-    "timeMonth": 2356,
+    "timeMonth": 2348,
     "timeYear": 1772,
     "dailyMinutesDown": {}
   },
@@ -282,7 +281,7 @@
     "time": 2359,
     "timeDay": 2852,
     "timeWeek": 5996,
-    "timeMonth": 3657,
+    "timeMonth": 3739,
     "timeYear": 2359,
     "dailyMinutesDown": {}
   },
@@ -300,7 +299,7 @@
     "time": 2120,
     "timeDay": 2753,
     "timeWeek": 2990,
-    "timeMonth": 2482,
+    "timeMonth": 2533,
     "timeYear": 2120,
     "dailyMinutesDown": {}
   },
@@ -338,7 +337,7 @@
     "time": 825,
     "timeDay": 796,
     "timeWeek": 790,
-    "timeMonth": 834,
+    "timeMonth": 828,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2023-08-07": 61
@@ -376,7 +375,7 @@
     "time": 1998,
     "timeDay": 3726,
     "timeWeek": 3636,
-    "timeMonth": 3496,
+    "timeMonth": 3516,
     "timeYear": 1998,
     "dailyMinutesDown": {}
   },
@@ -484,7 +483,7 @@
     "time": 1476,
     "timeDay": 2307,
     "timeWeek": 4271,
-    "timeMonth": 2349,
+    "timeMonth": 2393,
     "timeYear": 1476,
     "dailyMinutesDown": {}
   },
