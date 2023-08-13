@@ -100,19 +100,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 2795,
-    "timeDay": 5993,
-    "timeWeek": 5636,
-    "timeMonth": 4114,
-    "timeYear": 2795,
+    "time": 2797,
+    "timeDay": 5801,
+    "timeWeek": 5566,
+    "timeMonth": 4108,
+    "timeYear": 2797,
     "dailyMinutesDown": {
-      "2023-08-13": 31
+      "2023-08-13": 60
     }
   },
   {
