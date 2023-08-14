@@ -100,19 +100,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
-    "time": 2952,
-    "timeDay": 6523,
-    "timeWeek": 6070,
-    "timeMonth": 4609,
-    "timeYear": 2952,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
+    "time": 2954,
+    "timeDay": 6543,
+    "timeWeek": 6025,
+    "timeMonth": 4602,
+    "timeYear": 2954,
     "dailyMinutesDown": {
-      "2023-08-14": 2,
+      "2023-08-14": 8,
       "2023-08-13": 60
     }
   },
@@ -121,19 +121,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2901,
-    "timeDay": 7573,
+    "time": 2909,
+    "timeDay": 7359,
     "timeWeek": 6305,
-    "timeMonth": 4315,
-    "timeYear": 2901,
+    "timeMonth": 4356,
+    "timeYear": 2909,
     "dailyMinutesDown": {
-      "2023-08-14": 2
+      "2023-08-14": 8
     }
   },
   {
@@ -150,7 +150,7 @@
     "time": 2856,
     "timeDay": 2433,
     "timeWeek": 5375,
-    "timeMonth": 2863,
+    "timeMonth": 2850,
     "timeYear": 2856,
     "dailyMinutesDown": {
       "2023-08-11": 53
@@ -170,7 +170,7 @@
     "time": 3492,
     "timeDay": 4171,
     "timeWeek": 3858,
-    "timeMonth": 4121,
+    "timeMonth": 4147,
     "timeYear": 3492,
     "dailyMinutesDown": {
       "2023-08-11": 52
@@ -208,7 +208,7 @@
     "time": 2225,
     "timeDay": 5496,
     "timeWeek": 4695,
-    "timeMonth": 3422,
+    "timeMonth": 3440,
     "timeYear": 2225,
     "dailyMinutesDown": {
       "2023-08-09": 25
@@ -228,7 +228,7 @@
     "time": 1687,
     "timeDay": 1880,
     "timeWeek": 1842,
-    "timeMonth": 1868,
+    "timeMonth": 1873,
     "timeYear": 1687,
     "dailyMinutesDown": {
       "2023-08-09": 71
@@ -248,7 +248,7 @@
     "time": 1993,
     "timeDay": 2700,
     "timeWeek": 2790,
-    "timeMonth": 2503,
+    "timeMonth": 2506,
     "timeYear": 1993,
     "dailyMinutesDown": {}
   },
@@ -266,7 +266,7 @@
     "time": 1791,
     "timeDay": 4105,
     "timeWeek": 3309,
-    "timeMonth": 2416,
+    "timeMonth": 2425,
     "timeYear": 1791,
     "dailyMinutesDown": {}
   },
@@ -284,7 +284,7 @@
     "time": 2361,
     "timeDay": 3168,
     "timeWeek": 6313,
-    "timeMonth": 3746,
+    "timeMonth": 3768,
     "timeYear": 2361,
     "dailyMinutesDown": {}
   },
@@ -302,7 +302,7 @@
     "time": 2135,
     "timeDay": 4157,
     "timeWeek": 3397,
-    "timeMonth": 2622,
+    "timeMonth": 2631,
     "timeYear": 2135,
     "dailyMinutesDown": {}
   },
@@ -320,7 +320,7 @@
     "time": 2358,
     "timeDay": 3237,
     "timeWeek": 2928,
-    "timeMonth": 3602,
+    "timeMonth": 3630,
     "timeYear": 2358,
     "dailyMinutesDown": {
       "2023-08-07": 63
@@ -360,7 +360,7 @@
     "time": 1860,
     "timeDay": 2776,
     "timeWeek": 3370,
-    "timeMonth": 2346,
+    "timeMonth": 2341,
     "timeYear": 1860,
     "dailyMinutesDown": {}
   },
@@ -378,7 +378,7 @@
     "time": 1999,
     "timeDay": 2454,
     "timeWeek": 3682,
-    "timeMonth": 3070,
+    "timeMonth": 3090,
     "timeYear": 1999,
     "dailyMinutesDown": {}
   },
@@ -396,7 +396,7 @@
     "time": 1932,
     "timeDay": 4291,
     "timeWeek": 3379,
-    "timeMonth": 2500,
+    "timeMonth": 2511,
     "timeYear": 1932,
     "dailyMinutesDown": {}
   },
@@ -414,7 +414,7 @@
     "time": 1971,
     "timeDay": 4450,
     "timeWeek": 3608,
-    "timeMonth": 2624,
+    "timeMonth": 2619,
     "timeYear": 1971,
     "dailyMinutesDown": {}
   },
@@ -432,7 +432,7 @@
     "time": 2020,
     "timeDay": 4506,
     "timeWeek": 4521,
-    "timeMonth": 3335,
+    "timeMonth": 3354,
     "timeYear": 2020,
     "dailyMinutesDown": {}
   },
@@ -450,7 +450,7 @@
     "time": 1859,
     "timeDay": 2071,
     "timeWeek": 4080,
-    "timeMonth": 2659,
+    "timeMonth": 2672,
     "timeYear": 1859,
     "dailyMinutesDown": {}
   },
@@ -468,7 +468,7 @@
     "time": 1758,
     "timeDay": 2908,
     "timeWeek": 4671,
-    "timeMonth": 2918,
+    "timeMonth": 2942,
     "timeYear": 1758,
     "dailyMinutesDown": {}
   },
@@ -486,7 +486,7 @@
     "time": 1513,
     "timeDay": 4174,
     "timeWeek": 4397,
-    "timeMonth": 2549,
+    "timeMonth": 2569,
     "timeYear": 1513,
     "dailyMinutesDown": {}
   },
@@ -504,7 +504,7 @@
     "time": 1674,
     "timeDay": 1838,
     "timeWeek": 1909,
-    "timeMonth": 2315,
+    "timeMonth": 2324,
     "timeYear": 1674,
     "dailyMinutesDown": {}
   },
@@ -522,7 +522,7 @@
     "time": 3701,
     "timeDay": 4319,
     "timeWeek": 4345,
-    "timeMonth": 4055,
+    "timeMonth": 4057,
     "timeYear": 3701,
     "dailyMinutesDown": {}
   },
@@ -540,7 +540,7 @@
     "time": 3130,
     "timeDay": 4372,
     "timeWeek": 3769,
-    "timeMonth": 3025,
+    "timeMonth": 3034,
     "timeYear": 3130,
     "dailyMinutesDown": {}
   },
@@ -558,7 +558,7 @@
     "time": 1628,
     "timeDay": 1579,
     "timeWeek": 1613,
-    "timeMonth": 1655,
+    "timeMonth": 1656,
     "timeYear": 1628,
     "dailyMinutesDown": {}
   },
@@ -576,7 +576,7 @@
     "time": 2797,
     "timeDay": 3185,
     "timeWeek": 3312,
-    "timeMonth": 3271,
+    "timeMonth": 3268,
     "timeYear": 2797,
     "dailyMinutesDown": {}
   }
