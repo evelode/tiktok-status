@@ -101,18 +101,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 2954,
     "timeDay": 6543,
     "timeWeek": 6025,
     "timeMonth": 4602,
     "timeYear": 2954,
     "dailyMinutesDown": {
-      "2023-08-14": 8,
       "2023-08-13": 60
     }
   },
@@ -123,18 +122,16 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2909,
     "timeDay": 7359,
     "timeWeek": 6305,
     "timeMonth": 4356,
     "timeYear": 2909,
-    "dailyMinutesDown": {
-      "2023-08-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -181,18 +178,20 @@
     "url": "https://nextpost.tech/tiktok-api/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2511,
     "timeDay": 3222,
     "timeWeek": 2921,
     "timeMonth": 2617,
     "timeYear": 2511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 3
+    }
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -430,7 +429,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2020,
-    "timeDay": 4506,
+    "timeDay": 4595,
     "timeWeek": 4521,
     "timeMonth": 3354,
     "timeYear": 2020,
