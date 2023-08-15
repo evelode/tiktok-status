@@ -107,7 +107,7 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 3124,
-    "timeDay": 6773,
+    "timeDay": 6905,
     "timeWeek": 6338,
     "timeMonth": 5037,
     "timeYear": 3124,
@@ -121,19 +121,19 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2967,
-    "timeDay": 7275,
-    "timeWeek": 6589,
-    "timeMonth": 4594,
-    "timeYear": 2967,
+    "time": 2969,
+    "timeDay": 6903,
+    "timeWeek": 6503,
+    "timeMonth": 4584,
+    "timeYear": 2969,
     "dailyMinutesDown": {
-      "2023-08-15": 1
+      "2023-08-15": 5
     }
   },
   {
