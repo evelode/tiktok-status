@@ -102,9 +102,9 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 3140,
     "timeDay": 6916,
@@ -112,7 +112,7 @@
     "timeMonth": 5071,
     "timeYear": 3140,
     "dailyMinutesDown": {
-      "2023-08-15": 20,
+      "2023-08-15": 15,
       "2023-08-13": 60
     }
   },
@@ -181,7 +181,7 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.22%",
+    "uptimeDay": "98.21%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -222,7 +222,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 1688,
@@ -431,7 +431,7 @@
     "uptimeYear": "100.00%",
     "time": 2044,
     "timeDay": 4157,
-    "timeWeek": 4458,
+    "timeWeek": 4411,
     "timeMonth": 3407,
     "timeYear": 2044,
     "dailyMinutesDown": {}
@@ -449,7 +449,7 @@
     "uptimeYear": "100.00%",
     "time": 1912,
     "timeDay": 5614,
-    "timeWeek": 4413,
+    "timeWeek": 4327,
     "timeMonth": 2921,
     "timeYear": 1912,
     "dailyMinutesDown": {}
