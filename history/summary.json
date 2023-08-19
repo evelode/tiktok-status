@@ -103,9 +103,9 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 3324,
     "timeDay": 7840,
@@ -113,7 +113,6 @@
     "timeMonth": 5537,
     "timeYear": 3324,
     "dailyMinutesDown": {
-      "2023-08-19": 14,
       "2023-08-15": 15,
       "2023-08-13": 60
     }
@@ -125,18 +124,16 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3100,
     "timeDay": 8299,
-    "timeWeek": 6925,
+    "timeWeek": 6949,
     "timeMonth": 5102,
     "timeYear": 3100,
-    "dailyMinutesDown": {
-      "2023-08-19": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -210,7 +207,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2412,
-    "timeDay": 5573,
+    "timeDay": 4561,
     "timeWeek": 4983,
     "timeMonth": 4000,
     "timeYear": 2412,
@@ -427,17 +424,17 @@
     "url": "https://nextpost.tech/tiktok-api/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2141,
-    "timeDay": 4295,
-    "timeWeek": 4453,
-    "timeMonth": 3615,
-    "timeYear": 2141,
+    "time": 2167,
+    "timeDay": 5283,
+    "timeWeek": 4630,
+    "timeMonth": 3707,
+    "timeYear": 2167,
     "dailyMinutesDown": {}
   },
   {
