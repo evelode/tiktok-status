@@ -104,12 +104,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 3353,
     "timeDay": 5537,
-    "timeWeek": 6899,
+    "timeWeek": 6737,
     "timeMonth": 5868,
     "timeYear": 3353,
     "dailyMinutesDown": {
@@ -122,18 +122,20 @@
     "url": "https://nextpost.tech/tiktok-api/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3119,
-    "timeDay": 4031,
-    "timeWeek": 6683,
-    "timeMonth": 5599,
-    "timeYear": 3119,
-    "dailyMinutesDown": {}
+    "time": 3131,
+    "timeDay": 6445,
+    "timeWeek": 6564,
+    "timeMonth": 5637,
+    "timeYear": 3131,
+    "dailyMinutesDown": {
+      "2023-08-22": 2
+    }
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -189,7 +191,7 @@
     "time": 2526,
     "timeDay": 2604,
     "timeWeek": 3313,
-    "timeMonth": 2979,
+    "timeMonth": 2989,
     "timeYear": 2526,
     "dailyMinutesDown": {
       "2023-08-15": 55
@@ -208,8 +210,8 @@
     "uptimeYear": "99.99%",
     "time": 2472,
     "timeDay": 2819,
-    "timeWeek": 5049,
-    "timeMonth": 4308,
+    "timeWeek": 5043,
+    "timeMonth": 4329,
     "timeYear": 2472,
     "dailyMinutesDown": {
       "2023-08-09": 25
@@ -229,7 +231,7 @@
     "time": 1693,
     "timeDay": 1874,
     "timeWeek": 2022,
-    "timeMonth": 2053,
+    "timeMonth": 2068,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2023-08-09": 71
@@ -249,7 +251,7 @@
     "time": 2013,
     "timeDay": 2895,
     "timeWeek": 2823,
-    "timeMonth": 2855,
+    "timeMonth": 2879,
     "timeYear": 2013,
     "dailyMinutesDown": {}
   },
@@ -267,7 +269,7 @@
     "time": 1817,
     "timeDay": 4344,
     "timeWeek": 2890,
-    "timeMonth": 2840,
+    "timeMonth": 2829,
     "timeYear": 1817,
     "dailyMinutesDown": {}
   },
@@ -303,7 +305,7 @@
     "time": 2159,
     "timeDay": 3921,
     "timeWeek": 3550,
-    "timeMonth": 3023,
+    "timeMonth": 3037,
     "timeYear": 2159,
     "dailyMinutesDown": {}
   },
@@ -321,7 +323,7 @@
     "time": 2371,
     "timeDay": 3180,
     "timeWeek": 3173,
-    "timeMonth": 4052,
+    "timeMonth": 4089,
     "timeYear": 2371,
     "dailyMinutesDown": {
       "2023-08-07": 63
@@ -341,7 +343,7 @@
     "time": 829,
     "timeDay": 899,
     "timeWeek": 1020,
-    "timeMonth": 940,
+    "timeMonth": 944,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2023-08-07": 61
@@ -361,7 +363,7 @@
     "time": 1885,
     "timeDay": 3657,
     "timeWeek": 2921,
-    "timeMonth": 2722,
+    "timeMonth": 2745,
     "timeYear": 1885,
     "dailyMinutesDown": {}
   },
@@ -379,7 +381,7 @@
     "time": 2029,
     "timeDay": 2997,
     "timeWeek": 3431,
-    "timeMonth": 3269,
+    "timeMonth": 3290,
     "timeYear": 2029,
     "dailyMinutesDown": {}
   },
@@ -397,7 +399,7 @@
     "time": 1952,
     "timeDay": 3276,
     "timeWeek": 2833,
-    "timeMonth": 2881,
+    "timeMonth": 2892,
     "timeYear": 1952,
     "dailyMinutesDown": {}
   },
@@ -415,7 +417,7 @@
     "time": 1989,
     "timeDay": 2921,
     "timeWeek": 2801,
-    "timeMonth": 3039,
+    "timeMonth": 3059,
     "timeYear": 1989,
     "dailyMinutesDown": {}
   },
@@ -431,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2248,
-    "timeDay": 7482,
-    "timeWeek": 4947,
-    "timeMonth": 4075,
+    "timeDay": 2233,
+    "timeWeek": 4984,
+    "timeMonth": 4085,
     "timeYear": 2248,
     "dailyMinutesDown": {}
   },
@@ -449,9 +451,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2069,
-    "timeDay": 10317,
-    "timeWeek": 5186,
-    "timeMonth": 3721,
+    "timeDay": 2656,
+    "timeWeek": 5027,
+    "timeMonth": 3733,
     "timeYear": 2069,
     "dailyMinutesDown": {}
   },
@@ -468,8 +470,8 @@
     "uptimeYear": "100.00%",
     "time": 1893,
     "timeDay": 3165,
-    "timeWeek": 4554,
-    "timeMonth": 3707,
+    "timeWeek": 4505,
+    "timeMonth": 3737,
     "timeYear": 1893,
     "dailyMinutesDown": {}
   },
@@ -487,7 +489,7 @@
     "time": 1663,
     "timeDay": 3197,
     "timeWeek": 4557,
-    "timeMonth": 3471,
+    "timeMonth": 3501,
     "timeYear": 1663,
     "dailyMinutesDown": {}
   },
@@ -505,7 +507,7 @@
     "time": 1690,
     "timeDay": 3665,
     "timeWeek": 2365,
-    "timeMonth": 2608,
+    "timeMonth": 2614,
     "timeYear": 1690,
     "dailyMinutesDown": {}
   },
@@ -523,7 +525,7 @@
     "time": 3726,
     "timeDay": 5735,
     "timeWeek": 4624,
-    "timeMonth": 4558,
+    "timeMonth": 4576,
     "timeYear": 3726,
     "dailyMinutesDown": {}
   },
@@ -534,18 +536,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3158,
     "timeDay": 4443,
     "timeWeek": 3802,
     "timeMonth": 3494,
     "timeYear": 3158,
-    "dailyMinutesDown": {
-      "2023-08-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
@@ -554,18 +554,16 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1638,
     "timeDay": 2912,
     "timeWeek": 2070,
     "timeMonth": 1882,
     "timeYear": 1638,
-    "dailyMinutesDown": {
-      "2023-08-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
@@ -574,17 +572,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2822,
     "timeDay": 4098,
     "timeWeek": 3816,
     "timeMonth": 3541,
     "timeYear": 2822,
-    "dailyMinutesDown": {
-      "2023-08-22": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
