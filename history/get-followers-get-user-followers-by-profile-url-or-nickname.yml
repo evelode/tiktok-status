@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 2131
-lastUpdated: 2023-08-22T23:12:45.742Z
+responseTime: 3260
+lastUpdated: 2023-08-23T23:13:43.956Z
 startTime: 2022-10-29T22:41:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
