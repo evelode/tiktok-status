@@ -1,7 +1,7 @@
 url: https://nextpost.tech/tiktok-api/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 403
-responseTime: 1120
-lastUpdated: 2023-08-24T17:45:36.775Z
+status: up
+code: 404
+responseTime: 1947
+lastUpdated: 2023-08-24T17:51:34.587Z
 startTime: 2022-10-29T22:41:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
