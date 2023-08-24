@@ -6,17 +6,17 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1922,
+    "time": 1921,
     "timeDay": 7727,
     "timeWeek": 4255,
     "timeMonth": 3289,
-    "timeYear": 1926,
+    "timeYear": 1925,
     "dailyMinutesDown": {
-      "2023-08-24": 7
+      "2023-08-24": 9
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrlByID?video_id=6994619123363876101&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 6893,
-    "timeWeek": 3582,
-    "timeMonth": 2372,
-    "timeYear": 875,
+    "time": 909,
+    "timeDay": 9285,
+    "timeWeek": 4655,
+    "timeMonth": 2665,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
