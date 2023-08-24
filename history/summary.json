@@ -4,17 +4,17 @@
     "url": "https://nextpost.tech/tiktok-api/getNoWatermarkUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "99.60%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1954,
-    "timeDay": 6621,
-    "timeWeek": 4665,
-    "timeMonth": 3456,
-    "timeYear": 1957,
+    "time": 1956,
+    "timeDay": 6084,
+    "timeWeek": 4518,
+    "timeMonth": 3438,
+    "timeYear": 1960,
     "dailyMinutesDown": {
       "2023-08-24": 6
     }
@@ -107,7 +107,7 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 3402,
-    "timeDay": 7393,
+    "timeDay": 6526,
     "timeWeek": 6815,
     "timeMonth": 6043,
     "timeYear": 3402,
@@ -127,7 +127,7 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 3190,
-    "timeDay": 7817,
+    "timeDay": 6659,
     "timeWeek": 6819,
     "timeMonth": 5902,
     "timeYear": 3190,
@@ -162,18 +162,16 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3602,
     "timeDay": 11622,
     "timeWeek": 7767,
     "timeMonth": 5583,
     "timeYear": 3602,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchMusic - Search for music by keyword",
@@ -182,18 +180,16 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2547,
     "timeDay": 5260,
     "timeWeek": 3784,
     "timeMonth": 3170,
     "timeYear": 2547,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -202,18 +198,16 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2494,
     "timeDay": 4930,
     "timeWeek": 5101,
     "timeMonth": 4390,
     "timeYear": 2494,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchHashtag - Search for hashtag by keyword",
@@ -222,18 +216,16 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1751,
     "timeDay": 5701,
     "timeWeek": 3870,
     "timeMonth": 2515,
     "timeYear": 1751,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserInfo - Get user info by profile URL or nickname (works only for users with non-empty media feed)",
@@ -314,18 +306,16 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2591,
     "timeDay": 10286,
     "timeWeek": 7928,
     "timeMonth": 5376,
     "timeYear": 2591,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -334,18 +324,16 @@
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
     "timeDay": 3893,
     "timeWeek": 2187,
     "timeMonth": 1221,
     "timeYear": 859,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUsernameByID - Get username by TikTok user ID",
@@ -354,18 +342,16 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1966,
     "timeDay": 7447,
     "timeWeek": 4864,
     "timeMonth": 3402,
     "timeYear": 1966,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -516,17 +502,17 @@
     "url": "https://nextpost.tech/tiktok-api/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3890,
-    "timeDay": 10398,
-    "timeWeek": 8018,
-    "timeMonth": 5739,
-    "timeYear": 3890,
+    "time": 3918,
+    "timeDay": 11031,
+    "timeWeek": 8492,
+    "timeMonth": 5925,
+    "timeYear": 3918,
     "dailyMinutesDown": {}
   },
   {
@@ -536,18 +522,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3321,
     "timeDay": 10174,
     "timeWeek": 6949,
     "timeMonth": 4668,
     "timeYear": 3321,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
@@ -556,18 +540,16 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1697,
     "timeDay": 5574,
     "timeWeek": 3637,
     "timeMonth": 2512,
     "timeYear": 1697,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
@@ -576,17 +558,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2924,
     "timeDay": 7361,
     "timeWeek": 5639,
     "timeMonth": 4283,
     "timeYear": 2924,
-    "dailyMinutesDown": {
-      "2023-08-24": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
