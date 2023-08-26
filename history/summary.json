@@ -67,7 +67,7 @@
     "time": 1642,
     "timeDay": 63,
     "timeWeek": 3673,
-    "timeMonth": 3009,
+    "timeMonth": 2936,
     "timeYear": 1642,
     "dailyMinutesDown": {}
   },
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 3409,
     "timeDay": 116,
-    "timeWeek": 6713,
+    "timeWeek": 6020,
     "timeMonth": 6062,
     "timeYear": 3409,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 3188,
     "timeDay": 104,
-    "timeWeek": 6399,
+    "timeWeek": 5891,
     "timeMonth": 5867,
     "timeYear": 3188,
     "dailyMinutesDown": {}
@@ -175,7 +175,7 @@
     "time": 2552,
     "timeDay": 65,
     "timeWeek": 3446,
-    "timeMonth": 3200,
+    "timeMonth": 3090,
     "timeYear": 2552,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 2170,
     "timeDay": 60,
     "timeWeek": 5164,
-    "timeMonth": 4151,
+    "timeMonth": 4102,
     "timeYear": 2170,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2116,
     "timeDay": 64,
     "timeWeek": 5525,
-    "timeMonth": 4008,
+    "timeMonth": 3982,
     "timeYear": 2116,
     "dailyMinutesDown": {}
   },
@@ -454,17 +454,17 @@
     "url": "https://tiktok.nextpost.tech/getFollowingByID?user_id=7073801364823966762&cache_timeout=3600&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-following-by-id-get-user-following-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 1071,
-    "timeWeek": 5533,
-    "timeMonth": 4158,
-    "timeYear": 1822,
+    "time": 1840,
+    "timeDay": 5362,
+    "timeWeek": 5697,
+    "timeMonth": 4227,
+    "timeYear": 1840,
     "dailyMinutesDown": {}
   },
   {
@@ -481,7 +481,7 @@
     "time": 1795,
     "timeDay": 75,
     "timeWeek": 4059,
-    "timeMonth": 3147,
+    "timeMonth": 3143,
     "timeYear": 1795,
     "dailyMinutesDown": {}
   },
@@ -499,7 +499,7 @@
     "time": 3942,
     "timeDay": 190,
     "timeWeek": 8204,
-    "timeMonth": 6027,
+    "timeMonth": 5995,
     "timeYear": 3942,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 1696,
     "timeDay": 70,
     "timeWeek": 3413,
-    "timeMonth": 2511,
+    "timeMonth": 2422,
     "timeYear": 1696,
     "dailyMinutesDown": {}
   },
