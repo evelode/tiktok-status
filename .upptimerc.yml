@@ -13,7 +13,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 502
-      - 503
+      - 503 
       - 521
   - name: /getNoWatermarkUrlByID - Get non watermarked video url by video ID
     url: https://tiktok.nextpost.tech/getNoWatermarkUrlByID?video_id=6994619123363876101&cache_timeout=3600&license_key=$API_KEY
