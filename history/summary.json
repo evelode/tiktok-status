@@ -6,18 +6,16 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1985,
     "timeDay": 2998,
     "timeWeek": 4100,
     "timeMonth": 3453,
     "timeYear": 1989,
-    "dailyMinutesDown": {
-      "2023-08-27": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getNoWatermarkUrlByID - Get non watermarked video url by video ID",
@@ -44,18 +42,16 @@
     "slug": "get-video-by-id-get-video-info-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1641,
     "timeDay": 634,
     "timeWeek": 2597,
     "timeMonth": 2267,
     "timeYear": 1641,
-    "dailyMinutesDown": {
-      "2023-08-27": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getVideoByUrl - Get video info by URL",
@@ -64,18 +60,16 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1641,
     "timeDay": 2108,
     "timeWeek": 3369,
     "timeMonth": 2968,
     "timeYear": 1641,
-    "dailyMinutesDown": {
-      "2023-08-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -430,17 +424,17 @@
     "url": "https://tiktok.nextpost.tech/getFollowersByID?user_id=6809782522139870213&cache_timeout=3600&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2211,
-    "timeDay": 3161,
-    "timeWeek": 5233,
-    "timeMonth": 4215,
-    "timeYear": 2211,
+    "time": 2209,
+    "timeDay": 2768,
+    "timeWeek": 5098,
+    "timeMonth": 4185,
+    "timeYear": 2209,
     "dailyMinutesDown": {}
   },
   {
