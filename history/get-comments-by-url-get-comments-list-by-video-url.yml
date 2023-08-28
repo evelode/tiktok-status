@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=3600&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 164
-lastUpdated: 2023-08-27T23:11:25.154Z
+responseTime: 181
+lastUpdated: 2023-08-28T23:11:51.877Z
 startTime: 2022-10-26T23:16:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
