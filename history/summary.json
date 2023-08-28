@@ -96,7 +96,7 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.85%",
+    "uptimeDay": "97.96%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
@@ -116,7 +116,7 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.89%",
+    "uptimeDay": "97.95%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
@@ -136,7 +136,7 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.93%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
@@ -198,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 2492,
     "timeDay": 2953,
-    "timeWeek": 3173,
+    "timeWeek": 2975,
     "timeMonth": 4340,
     "timeYear": 2492,
     "dailyMinutesDown": {}
@@ -415,7 +415,7 @@
     "time": 2315,
     "timeDay": 793,
     "timeWeek": 4115,
-    "timeMonth": 4237,
+    "timeMonth": 4244,
     "timeYear": 2315,
     "dailyMinutesDown": {}
   },
@@ -433,7 +433,7 @@
     "time": 2209,
     "timeDay": 2768,
     "timeWeek": 5098,
-    "timeMonth": 4185,
+    "timeMonth": 4225,
     "timeYear": 2209,
     "dailyMinutesDown": {}
   },
@@ -451,7 +451,7 @@
     "time": 2043,
     "timeDay": 1970,
     "timeWeek": 4799,
-    "timeMonth": 4337,
+    "timeMonth": 4387,
     "timeYear": 2043,
     "dailyMinutesDown": {}
   },
@@ -469,7 +469,7 @@
     "time": 1835,
     "timeDay": 1690,
     "timeWeek": 4700,
-    "timeMonth": 4189,
+    "timeMonth": 4240,
     "timeYear": 1835,
     "dailyMinutesDown": {}
   },
@@ -487,7 +487,7 @@
     "time": 1833,
     "timeDay": 1503,
     "timeWeek": 4398,
-    "timeMonth": 3174,
+    "timeMonth": 3086,
     "timeYear": 1833,
     "dailyMinutesDown": {}
   },
@@ -505,7 +505,7 @@
     "time": 3939,
     "timeDay": 2771,
     "timeWeek": 7616,
-    "timeMonth": 6073,
+    "timeMonth": 6048,
     "timeYear": 3939,
     "dailyMinutesDown": {}
   },
@@ -523,7 +523,7 @@
     "time": 3345,
     "timeDay": 2265,
     "timeWeek": 6307,
-    "timeMonth": 4883,
+    "timeMonth": 4829,
     "timeYear": 3345,
     "dailyMinutesDown": {}
   },
