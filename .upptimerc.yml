@@ -15,6 +15,7 @@ sites:
       - 502
       - 503 
       - 521
+      - 0
   - name: /getNoWatermarkUrlByID - Get non watermarked video url by video ID
     url: https://tiktok.nextpost.tech/getNoWatermarkUrlByID?video_id=6994619123363876101&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -25,6 +26,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getVideoByID - Get video info by ID
     url: https://tiktok.nextpost.tech/getVideoByID?video_id=6994619123363876101&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -35,6 +37,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getVideoByUrl - Get video info by URL
     url: https://tiktok.nextpost.tech/getVideoByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40apple%2Fvideo%2F6994619123363876101%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -45,6 +48,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL
     url: https://tiktok.nextpost.tech/getUnshortenedUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2Ft%2FZTR9YXeWQ%2F&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -55,6 +59,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getCommentsByUrl - Get comments list by video URL
     url: https://tiktok.nextpost.tech/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -65,6 +70,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getCommentsByID - Get comments list by video ID
     url: https://tiktok.nextpost.tech/getCommentsByID?video_id=7141505394869898538&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -75,6 +81,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /searchUser - Search for user by keyword
     url: https://tiktok.nextpost.tech/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -85,6 +92,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /searchVideo - Search for video by keyword
     url: https://tiktok.nextpost.tech/searchVideo?keyword=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -95,6 +103,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /searchMusic - Search for music by keyword
     url: https://tiktok.nextpost.tech/searchMusic?keyword=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -105,6 +114,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /searchLive - Search for live by keyword
     url: https://tiktok.nextpost.tech/searchLive?keyword=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -115,6 +125,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /searchHashtag - Search for hashtag by keyword
     url: https://tiktok.nextpost.tech/searchHashtag?keyword=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -125,6 +136,7 @@ sites:
       - 502
       - 503
       - 521 
+      - 0
   - name: /getUserInfo - Get user info by profile URL or nickname (works only for users with non-empty media feed)
     url: https://tiktok.nextpost.tech/getUserInfo?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -135,6 +147,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getUserInfoByID - Get user info by profile ID (works only for users with non-empty media feed)
     url: https://tiktok.nextpost.tech/getUserInfoByID?user_id=6809782522139870213&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -145,6 +158,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getBasicUserInfo - Get user info by profile ID (works for all users)
     url: https://tiktok.nextpost.tech/getBasicUserInfo?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -155,6 +169,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getUserFeed - Get user feed by profile URL or nickname
     url: https://tiktok.nextpost.tech/getUserFeed?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -165,6 +180,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getUserFeedByID - Get user feed by profile ID
     url: https://tiktok.nextpost.tech/getUserFeedByID?user_id=6809782522139870213&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -175,6 +191,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getUserID - Get user ID by profile URL or nickname
     url: https://tiktok.nextpost.tech/getUserID?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -185,6 +202,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getUsernameByID - Get username by TikTok user ID
     url: https://tiktok.nextpost.tech/getUsernameByID?user_id=6809782522139870213&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -195,6 +213,7 @@ sites:
       - 502
       - 503
       - 521 
+      - 0
   - name: /getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID
     url: https://tiktok.nextpost.tech/getTwitterUsername?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -206,6 +225,7 @@ sites:
       - 503
       - 521
       - 404
+      - 0
   - name: /getInstagramUsername - Get Instagram username by profile URL, nickname or TikTok user ID
     url: https://tiktok.nextpost.tech/getInstagramUsername?query=6568346904743116806&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -217,6 +237,7 @@ sites:
       - 503
       - 521
       - 404
+      - 0
   - name: /getYoutubeChannel - Get YouTube channel info by profile URL, nickname or TikTok user ID
     url: https://tiktok.nextpost.tech/getYoutubeChannel?query=6568346904743116806&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -228,6 +249,7 @@ sites:
       - 503
       - 521
       - 404
+      - 0
   - name: /getFollowers - Get user followers by profile URL or nickname
     url: https://tiktok.nextpost.tech/getFollowers?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -238,6 +260,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getFollowersByID - Get user followers by profile ID
     url: https://tiktok.nextpost.tech/getFollowersByID?user_id=6809782522139870213&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -248,6 +271,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getFollowing - Get user following by profile URL or nickname
     url: https://tiktok.nextpost.tech/getFollowing?query=mouse11121&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -258,6 +282,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getFollowingByID - Get user following by profile ID
     url: https://tiktok.nextpost.tech/getFollowingByID?user_id=7073801364823966762&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -268,6 +293,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getHashtagInfo - Get hashtag info by URL or tag name
     url: https://tiktok.nextpost.tech/getHashtagInfo?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -278,6 +304,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getHashtagFeed - Get hashtag feed by URL or tag name
     url: https://tiktok.nextpost.tech/getHashtagFeed?query=apple&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -288,6 +315,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getHashtagFeedByID - Get hashtag feed by ID
     url: https://tiktok.nextpost.tech/getHashtagFeedByID?id=13100&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -298,6 +326,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getMusicInfo - Get music info by URL or ID
     url: https://tiktok.nextpost.tech/getMusicInfo?query=7129970471625362182&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -308,6 +337,7 @@ sites:
       - 502
       - 503
       - 521
+      - 0
   - name: /getMusicFeed - Get music feed by URL or ID
     url: https://tiktok.nextpost.tech/getMusicFeed?query=7129970471625362182&cache_timeout=3600&license_key=$API_KEY
     icon: https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg
@@ -318,7 +348,7 @@ sites:
       - 502
       - 503
       - 521
-
+      - 0
 status-website:
   cname: tiktok-status.nextpost.tech
   logoUrl: https://nextpost.tech/wp-content/uploads/2022/04/nextpost-new-logo-black.png
