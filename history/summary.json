@@ -195,7 +195,7 @@
     "time": 2453,
     "timeDay": 100,
     "timeWeek": 467,
-    "timeMonth": 4061,
+    "timeMonth": 4039,
     "timeYear": 2453,
     "dailyMinutesDown": {}
   },
@@ -213,7 +213,7 @@
     "time": 1739,
     "timeDay": 97,
     "timeWeek": 231,
-    "timeMonth": 2180,
+    "timeMonth": 2189,
     "timeYear": 1739,
     "dailyMinutesDown": {}
   },
@@ -231,7 +231,7 @@
     "time": 2103,
     "timeDay": 104,
     "timeWeek": 335,
-    "timeMonth": 2937,
+    "timeMonth": 2943,
     "timeYear": 2103,
     "dailyMinutesDown": {}
   },
@@ -411,7 +411,7 @@
     "time": 2258,
     "timeDay": 181,
     "timeWeek": 309,
-    "timeMonth": 3967,
+    "timeMonth": 3981,
     "timeYear": 2258,
     "dailyMinutesDown": {}
   },
@@ -429,7 +429,7 @@
     "time": 2162,
     "timeDay": 179,
     "timeWeek": 304,
-    "timeMonth": 3953,
+    "timeMonth": 3976,
     "timeYear": 2162,
     "dailyMinutesDown": {}
   },
@@ -438,17 +438,17 @@
     "url": "https://tiktok.nextpost.tech/getFollowing?query=mouse11121&cache_timeout=3600&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2123,
-    "timeDay": 1104,
-    "timeWeek": 1897,
-    "timeMonth": 4396,
-    "timeYear": 2123,
+    "time": 2129,
+    "timeDay": 3087,
+    "timeWeek": 2186,
+    "timeMonth": 4403,
+    "timeYear": 2129,
     "dailyMinutesDown": {}
   },
   {
