@@ -6,17 +6,17 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "22.96%",
+    "uptimeDay": "22.91%",
     "uptimeWeek": "88.99%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "99.76%",
-    "time": 2033,
+    "time": 2031,
     "timeDay": 5231,
     "timeWeek": 2872,
     "timeMonth": 3627,
-    "timeYear": 2037,
+    "timeYear": 2035,
     "dailyMinutesDown": {
-      "2023-09-12": 705,
+      "2023-09-12": 706,
       "2023-09-11": 404
     }
   },
@@ -335,9 +335,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "22.84%",
-    "uptimeWeek": "88.98%",
-    "uptimeMonth": "97.46%",
+    "uptimeDay": "22.54%",
+    "uptimeWeek": "88.93%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "99.76%",
     "time": 1911,
     "timeDay": 648,
@@ -345,7 +345,7 @@
     "timeMonth": 2358,
     "timeYear": 1911,
     "dailyMinutesDown": {
-      "2023-09-12": 708,
+      "2023-09-12": 712,
       "2023-09-11": 403
     }
   },
