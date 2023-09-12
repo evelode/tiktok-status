@@ -1,7 +1,7 @@
-url: https://tiktok.nextpost.tech/getFollowing?query=mouse11121&cache_timeout=3600&license_key=$API_KEY
+url: https://tiktok.nextpost.tech/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1040
-lastUpdated: 2023-09-11T23:13:16.287Z
+responseTime: 1031
+lastUpdated: 2023-09-12T14:38:26.550Z
 startTime: 2022-10-29T22:41:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
