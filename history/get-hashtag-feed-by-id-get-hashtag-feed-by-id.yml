@@ -1,7 +1,7 @@
-url: https://tiktok.nextpost.tech/getHashtagFeedByID?id=13100&cache_timeout=3600&license_key=$API_KEY
+url: https://tiktok.nextpost.tech/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1696
-lastUpdated: 2023-09-11T23:13:21.734Z
+responseTime: 2805
+lastUpdated: 2023-09-12T14:38:37.032Z
 startTime: 2022-12-11T18:44:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
