@@ -94,19 +94,19 @@
     "url": "https://tiktok.nextpost.tech/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 3362,
-    "timeDay": 6404,
-    "timeWeek": 3562,
-    "timeMonth": 5456,
-    "timeYear": 3362,
+    "time": 3365,
+    "timeDay": 6206,
+    "timeWeek": 3666,
+    "timeMonth": 5452,
+    "timeYear": 3365,
     "dailyMinutesDown": {
-      "2023-09-13": 46
+      "2023-09-13": 48
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://tiktok.nextpost.tech/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 3110,
-    "timeDay": 6699,
-    "timeWeek": 2993,
-    "timeMonth": 4690,
-    "timeYear": 3110,
+    "time": 3116,
+    "timeDay": 6675,
+    "timeWeek": 3292,
+    "timeMonth": 4714,
+    "timeYear": 3116,
     "dailyMinutesDown": {
-      "2023-09-13": 8
+      "2023-09-13": 11
     }
   },
   {
@@ -190,9 +190,9 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.51%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.14%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 2460,
     "timeDay": 4940,
@@ -200,7 +200,7 @@
     "timeMonth": 3781,
     "timeYear": 2460,
     "dailyMinutesDown": {
-      "2023-09-13": 79
+      "2023-09-13": 85
     }
   },
   {
@@ -263,18 +263,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "down",
-    "uptime": "95.11%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "95.11%",
-    "uptimeYear": "95.11%",
+    "uptime": "94.83%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "94.83%",
+    "uptimeYear": "94.83%",
     "time": 6264,
     "timeDay": 8420,
     "timeWeek": 6264,
     "timeMonth": 6264,
     "timeYear": 6264,
     "dailyMinutesDown": {
-      "2023-09-13": 90
+      "2023-09-13": 96
     }
   },
   {
@@ -408,17 +408,17 @@
     "url": "https://tiktok.nextpost.tech/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2265,
-    "timeDay": 4128,
-    "timeWeek": 2154,
-    "timeMonth": 3687,
-    "timeYear": 2265,
+    "time": 2273,
+    "timeDay": 4443,
+    "timeWeek": 2452,
+    "timeMonth": 3713,
+    "timeYear": 2273,
     "dailyMinutesDown": {}
   },
   {
@@ -462,17 +462,17 @@
     "url": "https://tiktok.nextpost.tech/getFollowingByID?user_id=7073801364823966762&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-following-by-id-get-user-following-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1859,
-    "timeDay": 2518,
-    "timeWeek": 1509,
-    "timeMonth": 3844,
-    "timeYear": 1859,
+    "time": 1865,
+    "timeDay": 3142,
+    "timeWeek": 1828,
+    "timeMonth": 3859,
+    "timeYear": 1865,
     "dailyMinutesDown": {}
   },
   {
