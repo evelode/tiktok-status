@@ -103,7 +103,7 @@
     "time": 3357,
     "timeDay": 2619,
     "timeWeek": 3980,
-    "timeMonth": 4534,
+    "timeMonth": 4386,
     "timeYear": 3357,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 3132,
     "timeDay": 2024,
     "timeWeek": 4632,
-    "timeMonth": 4113,
+    "timeMonth": 3965,
     "timeYear": 3132,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 2461,
     "timeDay": 1737,
     "timeWeek": 2950,
-    "timeMonth": 3279,
+    "timeMonth": 3198,
     "timeYear": 2461,
     "dailyMinutesDown": {}
   },
@@ -274,17 +274,17 @@
     "url": "https://tiktok.nextpost.tech/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2245,
-    "timeDay": 2603,
-    "timeWeek": 2670,
-    "timeMonth": 3068,
-    "timeYear": 2245,
+    "time": 2260,
+    "timeDay": 5837,
+    "timeWeek": 3251,
+    "timeMonth": 3183,
+    "timeYear": 2260,
     "dailyMinutesDown": {}
   },
   {
@@ -337,7 +337,7 @@
     "time": 1892,
     "timeDay": 1065,
     "timeWeek": 804,
-    "timeMonth": 2087,
+    "timeMonth": 2073,
     "timeYear": 1892,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 2269,
     "timeDay": 1428,
     "timeWeek": 2816,
-    "timeMonth": 3405,
+    "timeMonth": 3296,
     "timeYear": 2269,
     "dailyMinutesDown": {}
   },
@@ -427,7 +427,7 @@
     "time": 2164,
     "timeDay": 1439,
     "timeWeek": 2360,
-    "timeMonth": 3356,
+    "timeMonth": 3322,
     "timeYear": 2164,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 2129,
     "timeDay": 1134,
     "timeWeek": 2231,
-    "timeMonth": 3975,
+    "timeMonth": 3949,
     "timeYear": 2129,
     "dailyMinutesDown": {}
   },
@@ -463,7 +463,7 @@
     "time": 1867,
     "timeDay": 1113,
     "timeWeek": 2166,
-    "timeMonth": 3605,
+    "timeMonth": 3562,
     "timeYear": 1867,
     "dailyMinutesDown": {}
   },
