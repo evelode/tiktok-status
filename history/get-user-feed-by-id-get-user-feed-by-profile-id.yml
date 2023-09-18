@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 4811
-lastUpdated: 2023-09-17T23:13:38.118Z
+responseTime: 2656
+lastUpdated: 2023-09-18T23:12:57.315Z
 startTime: 2022-10-29T22:41:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
