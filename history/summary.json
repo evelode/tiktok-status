@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2048,
     "timeDay": 1446,
-    "timeWeek": 3172,
+    "timeWeek": 2833,
     "timeMonth": 3361,
     "timeYear": 2053,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1013,
     "timeDay": 1283,
-    "timeWeek": 2041,
+    "timeWeek": 1509,
     "timeMonth": 2442,
     "timeYear": 1015,
     "dailyMinutesDown": {}
@@ -103,7 +103,7 @@
     "time": 3357,
     "timeDay": 2080,
     "timeWeek": 4477,
-    "timeMonth": 4203,
+    "timeMonth": 3648,
     "timeYear": 3357,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 3134,
     "timeDay": 1970,
     "timeWeek": 5035,
-    "timeMonth": 3977,
+    "timeMonth": 3419,
     "timeYear": 3134,
     "dailyMinutesDown": {}
   },
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 1890,
     "timeDay": 856,
-    "timeWeek": 1029,
+    "timeWeek": 1390,
     "timeMonth": 2004,
     "timeYear": 1890,
     "dailyMinutesDown": {}
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 2064,
     "timeDay": 1012,
-    "timeWeek": 1513,
+    "timeWeek": 1537,
     "timeMonth": 2392,
     "timeYear": 2064,
     "dailyMinutesDown": {}
@@ -364,17 +364,17 @@
     "url": "https://tiktok.nextpost.tech/getInstagramUsername?query=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-instagram-username-get-instagram-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2026,
-    "timeDay": 829,
-    "timeWeek": 1643,
-    "timeMonth": 2683,
-    "timeYear": 2026,
+    "time": 2036,
+    "timeDay": 3638,
+    "timeWeek": 2177,
+    "timeMonth": 2754,
+    "timeYear": 2036,
     "dailyMinutesDown": {}
   },
   {
@@ -409,7 +409,7 @@
     "time": 2267,
     "timeDay": 1294,
     "timeWeek": 3057,
-    "timeMonth": 3134,
+    "timeMonth": 2838,
     "timeYear": 2267,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 2128,
     "timeDay": 1095,
     "timeWeek": 2380,
-    "timeMonth": 3849,
+    "timeMonth": 3820,
     "timeYear": 2128,
     "dailyMinutesDown": {}
   },
@@ -463,7 +463,7 @@
     "time": 1867,
     "timeDay": 1096,
     "timeWeek": 2307,
-    "timeMonth": 3529,
+    "timeMonth": 3406,
     "timeYear": 1867,
     "dailyMinutesDown": {}
   },
@@ -515,7 +515,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3280,
-    "timeDay": 4527,
+    "timeDay": 2800,
     "timeWeek": 3908,
     "timeMonth": 4212,
     "timeYear": 3280,
