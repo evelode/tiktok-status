@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 3330
-lastUpdated: 2023-09-21T03:43:50.272Z
+status: up
+code: 200
+responseTime: 1077
+lastUpdated: 2023-09-21T03:48:58.850Z
 startTime: 2022-10-26T23:16:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
