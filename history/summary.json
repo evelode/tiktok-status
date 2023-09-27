@@ -294,18 +294,16 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2549,
     "timeDay": 5910,
     "timeWeek": 3959,
     "timeMonth": 1903,
     "timeYear": 2549,
-    "dailyMinutesDown": {
-      "2023-09-27": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -384,17 +382,17 @@
     "url": "https://tiktok.nextpost.tech/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-youtube-channel-get-you-tube-channel-info-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2065,
-    "timeDay": 1154,
-    "timeWeek": 2067,
-    "timeMonth": 1018,
-    "timeYear": 2065,
+    "time": 2084,
+    "timeDay": 6367,
+    "timeWeek": 3256,
+    "timeMonth": 1304,
+    "timeYear": 2084,
     "dailyMinutesDown": {}
   },
   {
