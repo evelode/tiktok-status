@@ -60,18 +60,16 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1675,
     "timeDay": 3901,
     "timeWeek": 2595,
     "timeMonth": 1695,
     "timeYear": 1675,
-    "dailyMinutesDown": {
-      "2023-10-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -296,19 +294,19 @@
     "url": "https://tiktok.nextpost.tech/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2569,
-    "timeDay": 6488,
-    "timeWeek": 4518,
-    "timeMonth": 2744,
+    "timeDay": 5236,
+    "timeWeek": 4356,
+    "timeMonth": 2743,
     "timeYear": 2569,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 4
     }
   },
   {
@@ -516,18 +514,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3355,
     "timeDay": 9203,
     "timeWeek": 6215,
     "timeMonth": 3708,
     "timeYear": 3355,
-    "dailyMinutesDown": {
-      "2023-10-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
