@@ -8,7 +8,7 @@
     "uptime": "97.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.04%",
+    "uptimeMonth": "69.02%",
     "uptimeYear": "97.32%",
     "time": 2064,
     "timeDay": 1721,
@@ -16,7 +16,7 @@
     "timeMonth": 2581,
     "timeYear": 2068,
     "dailyMinutesDown": {
-      "2023-10-13": 241,
+      "2023-10-13": 252,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -273,18 +273,18 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
-    "uptime": "69.28%",
+    "uptime": "69.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.15%",
-    "uptimeYear": "69.28%",
+    "uptimeMonth": "69.12%",
+    "uptimeYear": "69.27%",
     "time": 2607,
     "timeDay": 1203,
     "timeWeek": 1498,
     "timeMonth": 2645,
     "timeYear": 2607,
     "dailyMinutesDown": {
-      "2023-10-13": 242,
+      "2023-10-13": 252,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -356,19 +356,19 @@
     "url": "https://tiktok.nextpost.tech/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1895,
-    "timeDay": 4700,
-    "timeWeek": 2766,
-    "timeMonth": 1903,
+    "timeDay": 4147,
+    "timeWeek": 2690,
+    "timeMonth": 1904,
     "timeYear": 1895,
     "dailyMinutesDown": {
-      "2023-10-13": 2
+      "2023-10-13": 11
     }
   },
   {
@@ -558,9 +558,9 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 1655,
     "timeDay": 1481,
@@ -568,7 +568,7 @@
     "timeMonth": 1507,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2023-10-13": 61
+      "2023-10-13": 71
     }
   },
   {
