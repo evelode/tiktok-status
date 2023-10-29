@@ -256,20 +256,18 @@
     "url": "https://tiktok.nextpost.tech/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2354,
-    "timeDay": 5396,
-    "timeWeek": 2134,
-    "timeMonth": 1935,
-    "timeYear": 2354,
-    "dailyMinutesDown": {
-      "2023-10-29": 3
-    }
+    "time": 2382,
+    "timeDay": 4924,
+    "timeWeek": 2339,
+    "timeMonth": 1995,
+    "timeYear": 2382,
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserFeed - Get user feed by profile URL or nickname",
@@ -332,16 +330,18 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1879,
     "timeDay": 2259,
     "timeWeek": 1122,
     "timeMonth": 1816,
     "timeYear": 1879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-29": 7
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
