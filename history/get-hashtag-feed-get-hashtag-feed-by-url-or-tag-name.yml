@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 3756
-lastUpdated: 2023-11-18T23:12:56.937Z
+status: down
+code: 400
+responseTime: 4924
+lastUpdated: 2023-11-19T14:45:03.408Z
 startTime: 2022-10-29T22:41:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
