@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 2482
-lastUpdated: 2023-11-20T23:13:36.237Z
+responseTime: 1729
+lastUpdated: 2023-11-21T23:14:01.680Z
 startTime: 2022-10-28T22:21:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
