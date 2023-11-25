@@ -295,18 +295,17 @@
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 2735,
     "timeDay": 4369,
     "timeWeek": 3182,
     "timeMonth": 3328,
     "timeYear": 2804,
     "dailyMinutesDown": {
-      "2023-11-25": 8,
       "2023-11-09": 23
     }
   },
@@ -553,17 +552,19 @@
     "url": "https://tiktok.nextpost.tech/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2886,
-    "timeDay": 2204,
-    "timeWeek": 2474,
-    "timeMonth": 2763,
-    "timeYear": 2937,
-    "dailyMinutesDown": {}
+    "time": 2897,
+    "timeDay": 5736,
+    "timeWeek": 3323,
+    "timeMonth": 2955,
+    "timeYear": 2949,
+    "dailyMinutesDown": {
+      "2023-11-25": 1
+    }
   }
 ]
