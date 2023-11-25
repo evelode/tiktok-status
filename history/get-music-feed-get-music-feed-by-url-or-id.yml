@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 9267
-lastUpdated: 2023-11-25T15:23:08.113Z
+status: up
+code: 200
+responseTime: 2451
+lastUpdated: 2023-11-25T15:27:57.793Z
 startTime: 2022-10-30T09:39:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
