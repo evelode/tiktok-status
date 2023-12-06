@@ -14,7 +14,7 @@
     "timeDay": 1326,
     "timeWeek": 1411,
     "timeMonth": 1466,
-    "timeYear": 2146,
+    "timeYear": 2147,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1318,
     "timeWeek": 1334,
     "timeMonth": 1315,
-    "timeYear": 1728,
+    "timeYear": 1729,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 1252,
     "timeWeek": 1266,
     "timeMonth": 1310,
-    "timeYear": 1709,
+    "timeYear": 1710,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 2783,
     "timeWeek": 3279,
     "timeMonth": 3874,
-    "timeYear": 3339,
+    "timeYear": 3342,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 2068,
     "timeWeek": 2001,
     "timeMonth": 2053,
-    "timeYear": 3338,
+    "timeYear": 3340,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 2109,
     "timeWeek": 2006,
     "timeMonth": 2355,
-    "timeYear": 3163,
+    "timeYear": 3165,
     "dailyMinutesDown": {}
   },
   {
@@ -526,18 +526,20 @@
     "url": "https://tiktok.nextpost.tech/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1665,
-    "timeDay": 1116,
-    "timeWeek": 1066,
-    "timeMonth": 1122,
-    "timeYear": 1720,
-    "dailyMinutesDown": {}
+    "time": 1673,
+    "timeDay": 3793,
+    "timeWeek": 1741,
+    "timeMonth": 1295,
+    "timeYear": 1728,
+    "dailyMinutesDown": {
+      "2023-12-06": 2
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
