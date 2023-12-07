@@ -150,18 +150,16 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3731,
     "timeDay": 8763,
     "timeWeek": 4872,
     "timeMonth": 3515,
     "timeYear": 3858,
-    "dailyMinutesDown": {
-      "2023-12-07": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchMusic - Search for music by keyword",
@@ -276,17 +274,17 @@
     "url": "https://tiktok.nextpost.tech/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2420,
-    "timeDay": 2449,
-    "timeWeek": 2339,
-    "timeMonth": 2984,
-    "timeYear": 2431,
+    "time": 2429,
+    "timeDay": 5039,
+    "timeWeek": 3001,
+    "timeMonth": 3124,
+    "timeYear": 2442,
     "dailyMinutesDown": {}
   },
   {
