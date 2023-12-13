@@ -22,17 +22,17 @@
     "url": "https://tiktok.nextpost.tech/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 1272,
-    "timeWeek": 1320,
-    "timeMonth": 1464,
-    "timeYear": 1235,
+    "time": 1151,
+    "timeDay": 5124,
+    "timeWeek": 2277,
+    "timeMonth": 1691,
+    "timeYear": 1251,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 2175,
     "timeWeek": 1924,
     "timeMonth": 1834,
-    "timeYear": 2844,
+    "timeYear": 2847,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 2523,
     "timeWeek": 3114,
     "timeMonth": 2237,
-    "timeYear": 2590,
+    "timeYear": 2593,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 1759,
     "timeWeek": 1672,
     "timeMonth": 1662,
-    "timeYear": 2487,
+    "timeYear": 2489,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 1161,
     "timeWeek": 1236,
     "timeMonth": 1206,
-    "timeYear": 1792,
+    "timeYear": 1793,
     "dailyMinutesDown": {}
   },
   {
@@ -482,7 +482,7 @@
     "timeDay": 1185,
     "timeWeek": 1179,
     "timeMonth": 1170,
-    "timeYear": 1871,
+    "timeYear": 1872,
     "dailyMinutesDown": {}
   },
   {
@@ -500,7 +500,7 @@
     "timeDay": 3873,
     "timeWeek": 4507,
     "timeMonth": 4411,
-    "timeYear": 4325,
+    "timeYear": 4330,
     "dailyMinutesDown": {}
   },
   {
@@ -526,18 +526,20 @@
     "url": "https://tiktok.nextpost.tech/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1667,
-    "timeDay": 1771,
-    "timeWeek": 1792,
-    "timeMonth": 1305,
-    "timeYear": 1740,
-    "dailyMinutesDown": {}
+    "time": 1677,
+    "timeDay": 5083,
+    "timeWeek": 2453,
+    "timeMonth": 1520,
+    "timeYear": 1752,
+    "dailyMinutesDown": {
+      "2023-12-13": 1
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
