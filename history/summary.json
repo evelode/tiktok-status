@@ -58,18 +58,20 @@
     "url": "https://tiktok.nextpost.tech/getVideoByUrl?video_url=https://www.tiktok.com/@therock/video/7106855913906081070%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-video-by-url-get-video-info-by-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1647,
-    "timeDay": 1338,
-    "timeWeek": 1293,
-    "timeMonth": 1303,
-    "timeYear": 1721,
-    "dailyMinutesDown": {}
+    "time": 1656,
+    "timeDay": 4116,
+    "timeWeek": 1993,
+    "timeMonth": 1483,
+    "timeYear": 1732,
+    "dailyMinutesDown": {
+      "2023-12-13": 3
+    }
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -528,18 +530,16 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1678,
     "timeDay": 4226,
     "timeWeek": 2458,
     "timeMonth": 1549,
     "timeYear": 1753,
-    "dailyMinutesDown": {
-      "2023-12-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
