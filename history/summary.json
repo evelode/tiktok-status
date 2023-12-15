@@ -510,18 +510,20 @@
     "url": "https://tiktok.nextpost.tech/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3406,
-    "timeDay": 2552,
-    "timeWeek": 4046,
-    "timeMonth": 3410,
-    "timeYear": 3457,
-    "dailyMinutesDown": {}
+    "time": 3423,
+    "timeDay": 7904,
+    "timeWeek": 4967,
+    "timeMonth": 3676,
+    "timeYear": 3474,
+    "dailyMinutesDown": {
+      "2023-12-15": 1
+    }
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
