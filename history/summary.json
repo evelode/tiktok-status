@@ -286,7 +286,7 @@
     "timeDay": 2487,
     "timeWeek": 2558,
     "timeMonth": 2764,
-    "timeYear": 2490,
+    "timeYear": 2441,
     "dailyMinutesDown": {}
   },
   {
@@ -376,7 +376,7 @@
     "timeDay": 982,
     "timeWeek": 974,
     "timeMonth": 925,
-    "timeYear": 1965,
+    "timeYear": 1966,
     "dailyMinutesDown": {}
   },
   {
@@ -384,17 +384,17 @@
     "url": "https://tiktok.nextpost.tech/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-youtube-channel-get-you-tube-channel-info-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2014,
-    "timeDay": 947,
-    "timeWeek": 1099,
-    "timeMonth": 944,
-    "timeYear": 2085,
+    "time": 2021,
+    "timeDay": 3503,
+    "timeWeek": 1719,
+    "timeMonth": 1109,
+    "timeYear": 2070,
     "dailyMinutesDown": {}
   },
   {
@@ -412,7 +412,7 @@
     "timeDay": 1188,
     "timeWeek": 1243,
     "timeMonth": 1364,
-    "timeYear": 2250,
+    "timeYear": 2256,
     "dailyMinutesDown": {}
   },
   {
@@ -430,7 +430,7 @@
     "timeDay": 1180,
     "timeWeek": 1252,
     "timeMonth": 1231,
-    "timeYear": 2183,
+    "timeYear": 2189,
     "dailyMinutesDown": {}
   },
   {
@@ -448,7 +448,7 @@
     "timeDay": 1025,
     "timeWeek": 1054,
     "timeMonth": 1064,
-    "timeYear": 2092,
+    "timeYear": 2098,
     "dailyMinutesDown": {}
   },
   {
@@ -517,7 +517,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3406,
-    "timeDay": 6073,
+    "timeDay": 2552,
     "timeWeek": 4046,
     "timeMonth": 3410,
     "timeYear": 3457,
