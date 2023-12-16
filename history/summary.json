@@ -330,18 +330,20 @@
     "url": "https://tiktok.nextpost.tech/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 1043,
-    "timeWeek": 962,
-    "timeMonth": 919,
-    "timeYear": 1883,
-    "dailyMinutesDown": {}
+    "time": 1848,
+    "timeDay": 3548,
+    "timeWeek": 1599,
+    "timeMonth": 1085,
+    "timeYear": 1892,
+    "dailyMinutesDown": {
+      "2023-12-16": 1
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
