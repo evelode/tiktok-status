@@ -62,16 +62,14 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1674,
     "timeDay": 1294,
     "timeWeek": 1349,
     "timeMonth": 1922,
     "timeYear": 1772,
-    "dailyMinutesDown": {
-      "2023-12-13": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -124,7 +122,7 @@
     "timeDay": 1995,
     "timeWeek": 2204,
     "timeMonth": 2252,
-    "timeYear": 3235,
+    "timeYear": 3241,
     "dailyMinutesDown": {}
   },
   {
@@ -303,8 +301,8 @@
     "time": 2737,
     "timeDay": 2323,
     "timeWeek": 2667,
-    "timeMonth": 2938,
-    "timeYear": 2908,
+    "timeMonth": 2773,
+    "timeYear": 2910,
     "dailyMinutesDown": {}
   },
   {
@@ -322,7 +320,7 @@
     "timeDay": 63,
     "timeWeek": 60,
     "timeMonth": 54,
-    "timeYear": 717,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   },
   {
@@ -340,7 +338,7 @@
     "timeDay": 979,
     "timeWeek": 971,
     "timeMonth": 1094,
-    "timeYear": 1888,
+    "timeYear": 1889,
     "dailyMinutesDown": {}
   },
   {
@@ -358,7 +356,7 @@
     "timeDay": 1006,
     "timeWeek": 1097,
     "timeMonth": 1479,
-    "timeYear": 2020,
+    "timeYear": 2022,
     "dailyMinutesDown": {}
   },
   {
@@ -376,7 +374,7 @@
     "timeDay": 937,
     "timeWeek": 939,
     "timeMonth": 1115,
-    "timeYear": 1967,
+    "timeYear": 1968,
     "dailyMinutesDown": {}
   },
   {
@@ -394,7 +392,7 @@
     "timeDay": 1198,
     "timeWeek": 1068,
     "timeMonth": 1158,
-    "timeYear": 2064,
+    "timeYear": 2065,
     "dailyMinutesDown": {}
   },
   {
@@ -448,7 +446,7 @@
     "timeDay": 1063,
     "timeWeek": 1047,
     "timeMonth": 1061,
-    "timeYear": 2105,
+    "timeYear": 2107,
     "dailyMinutesDown": {}
   },
   {
@@ -466,7 +464,7 @@
     "timeDay": 1078,
     "timeWeek": 1071,
     "timeMonth": 1059,
-    "timeYear": 1842,
+    "timeYear": 1844,
     "dailyMinutesDown": {}
   },
   {
@@ -484,7 +482,7 @@
     "timeDay": 1143,
     "timeWeek": 1278,
     "timeMonth": 1439,
-    "timeYear": 1891,
+    "timeYear": 1889,
     "dailyMinutesDown": {}
   },
   {
@@ -502,7 +500,7 @@
     "timeDay": 3756,
     "timeWeek": 5172,
     "timeMonth": 4590,
-    "timeYear": 4448,
+    "timeYear": 4463,
     "dailyMinutesDown": {}
   },
   {
@@ -520,7 +518,7 @@
     "timeDay": 2414,
     "timeWeek": 2728,
     "timeMonth": 3454,
-    "timeYear": 3502,
+    "timeYear": 3511,
     "dailyMinutesDown": {}
   },
   {
@@ -546,17 +544,19 @@
     "url": "https://tiktok.nextpost.tech/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2895,
-    "timeDay": 2788,
-    "timeWeek": 2910,
-    "timeMonth": 3043,
-    "timeYear": 3033,
-    "dailyMinutesDown": {}
+    "time": 2904,
+    "timeDay": 5873,
+    "timeWeek": 3666,
+    "timeMonth": 2897,
+    "timeYear": 3044,
+    "dailyMinutesDown": {
+      "2023-12-25": 1
+    }
   }
 ]
