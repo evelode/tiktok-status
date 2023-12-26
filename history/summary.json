@@ -292,18 +292,20 @@
     "url": "https://tiktok.nextpost.tech/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2758,
-    "timeDay": 15583,
-    "timeWeek": 4489,
-    "timeMonth": 3181,
-    "timeYear": 2938,
-    "dailyMinutesDown": {}
+    "time": 2775,
+    "timeDay": 13964,
+    "timeWeek": 5471,
+    "timeMonth": 3459,
+    "timeYear": 2957,
+    "dailyMinutesDown": {
+      "2023-12-26": 1
+    }
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
