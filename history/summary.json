@@ -274,17 +274,17 @@
     "url": "https://tiktok.nextpost.tech/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2440,
-    "timeDay": 2651,
-    "timeWeek": 2710,
-    "timeMonth": 2759,
-    "timeYear": 2478,
+    "time": 2459,
+    "timeDay": 7917,
+    "timeWeek": 4020,
+    "timeMonth": 3075,
+    "timeYear": 2502,
     "dailyMinutesDown": {}
   },
   {
@@ -510,18 +510,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3430,
     "timeDay": 5400,
     "timeWeek": 3927,
     "timeMonth": 3737,
     "timeYear": 3530,
-    "dailyMinutesDown": {
-      "2023-12-26": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
@@ -546,17 +544,19 @@
     "url": "https://tiktok.nextpost.tech/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2920,
-    "timeDay": 6028,
-    "timeWeek": 4295,
-    "timeMonth": 3197,
-    "timeYear": 3063,
-    "dailyMinutesDown": {}
+    "time": 2935,
+    "timeDay": 7092,
+    "timeWeek": 4971,
+    "timeMonth": 3461,
+    "timeYear": 3081,
+    "dailyMinutesDown": {
+      "2023-12-26": 1
+    }
   }
 ]
