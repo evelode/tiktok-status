@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 1989
-lastUpdated: 2024-01-01T23:13:13.490Z
+status: down
+code: 400
+responseTime: 6876
+lastUpdated: 2024-01-02T03:14:11.957Z
 startTime: 2022-10-26T23:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
