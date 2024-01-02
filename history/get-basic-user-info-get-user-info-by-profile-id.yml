@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1094
-lastUpdated: 2024-01-01T23:13:28.516Z
+responseTime: 1009
+lastUpdated: 2024-01-02T23:13:34.850Z
 startTime: 2023-09-12T14:38:07.935Z
 generator: Upptime <https://github.com/upptime/upptime>
