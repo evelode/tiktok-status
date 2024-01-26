@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1221
-lastUpdated: 2024-01-25T23:14:00.662Z
+responseTime: 1249
+lastUpdated: 2024-01-26T23:13:35.931Z
 startTime: 2023-09-12T14:38:04.429Z
 generator: Upptime <https://github.com/upptime/upptime>
