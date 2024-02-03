@@ -512,7 +512,7 @@
     "timeDay": 1389,
     "timeWeek": 1769,
     "timeMonth": 1451,
-    "timeYear": 1896,
+    "timeYear": 1897,
     "dailyMinutesDown": {}
   },
   {
@@ -530,7 +530,7 @@
     "timeDay": 11951,
     "timeWeek": 6271,
     "timeMonth": 5165,
-    "timeYear": 4640,
+    "timeYear": 4642,
     "dailyMinutesDown": {}
   },
   {
@@ -548,7 +548,7 @@
     "timeDay": 10820,
     "timeWeek": 5734,
     "timeMonth": 3793,
-    "timeYear": 3658,
+    "timeYear": 3628,
     "dailyMinutesDown": {
       "2024-01-11": 369,
       "2024-01-02": 15
@@ -579,19 +579,19 @@
     "url": "https://tiktok.nextpost.tech/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://nextpost.tech/wp-content/uploads/edd/2022/02/Nextpost.tech-1.jpg",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "84.83%",
-    "uptimeWeek": "95.06%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "95.05%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.83%",
-    "time": 3162,
-    "timeDay": 3981,
-    "timeWeek": 3924,
-    "timeMonth": 3813,
-    "timeYear": 3371,
+    "time": 3164,
+    "timeDay": 3994,
+    "timeWeek": 3931,
+    "timeMonth": 3820,
+    "timeYear": 3373,
     "dailyMinutesDown": {
-      "2024-02-03": 118,
+      "2024-02-03": 119,
       "2024-02-02": 265,
       "2024-02-01": 114,
       "2024-01-11": 369
