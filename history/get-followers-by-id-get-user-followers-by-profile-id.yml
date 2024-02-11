@@ -1,7 +1,7 @@
 url: https://tiktok.nextpost.tech/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 3567
-lastUpdated: 2024-02-11T22:51:23.406Z
+status: up
+code: 200
+responseTime: 1268
+lastUpdated: 2024-02-11T22:56:38.720Z
 startTime: 2022-10-29T22:41:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
