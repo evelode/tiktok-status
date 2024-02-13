@@ -328,7 +328,7 @@ sites:
       - 521
       - 403
   - name: /getMusicInfo - Get music info by URL or ID
-    url: https://tiktok.evelode.com/getMusicInfo?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
+    url: https://tiktok.evelode.com/getMusicInfo?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -339,7 +339,7 @@ sites:
       - 521
       - 403
   - name: /getMusicFeed - Get music feed by URL or ID
-    url: https://tiktok.evelode.com/getMusicFeed?query=7129970471625362182&cache_timeout=0&license_key=$API_KEY
+    url: https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
