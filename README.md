@@ -1,4 +1,4 @@
-# [Status page](https://tiktok-status.evelode.com) for [Evelode](https://evelode.com)
+# [Status page](https://tiktok-status.evelode.com) for [TikTok REST API](https://evelode.com/downloads/tiktok-rest-api/)
 
 This repository contains the open-source uptime monitor and status page for [Evelode](https://evelode.com), powered by [Upptime](https://github.com/upptime/upptime).
 
