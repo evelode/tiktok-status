@@ -12,7 +12,7 @@ Try our [Trial license plan](https://evelode.com/downloads/tiktok-rest-api/) and
 
 We created a modern API wrappers with detailed examples:
 
-- [TikTok REST API in Postman]([https://www.postman.com/nextpost-tech/workspace/nextpost-tech/api/e2ed8e20-0dbd-41a3-9363-092d810217ed](https://www.postman.com/evelode/workspace/evelode/api/e2ed8e20-0dbd-41a3-9363-092d810217ed?action=share&creator=24862082)
+- [TikTok REST API in Postman](https://www.postman.com/evelode/workspace/evelode/api/e2ed8e20-0dbd-41a3-9363-092d810217ed?action=share&creator=24862082)
 - [TikTok REST API wrapper for PHP on GitHub](https://github.com/evelode/tiktok-api-php)
 
 ## Choose the right plan for you
