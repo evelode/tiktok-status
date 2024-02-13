@@ -1,7 +1,7 @@
-url: https://tiktok.nextpost.tech/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY
+url: https://tiktok.evelode.com/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1857
-lastUpdated: 2024-02-12T23:12:55.963Z
+responseTime: 15
+lastUpdated: 2024-02-13T03:31:32.836Z
 startTime: 2022-10-26T23:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
