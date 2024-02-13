@@ -1,7 +1,7 @@
-url: https://tiktok.nextpost.tech/searchLive?keyword=apple&cache_timeout=0&license_key=$API_KEY
+url: https://tiktok.evelode.com/searchLive?keyword=apple&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 1775
-lastUpdated: 2024-02-12T23:13:05.816Z
+responseTime: 19
+lastUpdated: 2024-02-13T03:31:33.881Z
 startTime: 2022-10-28T22:21:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
