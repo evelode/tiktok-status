@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 2929
-lastUpdated: 2024-02-28T12:39:23.327Z
+status: up
+code: 200
+responseTime: 1615
+lastUpdated: 2024-02-28T13:11:18.124Z
 startTime: 2022-10-29T22:41:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
