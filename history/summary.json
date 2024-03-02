@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1496,
     "timeDay": 1035,
-    "timeWeek": 1265,
+    "timeWeek": 1146,
     "timeMonth": 1044,
     "timeYear": 1184,
     "dailyMinutesDown": {}
@@ -328,18 +328,20 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1746,
-    "timeDay": 1097,
-    "timeWeek": 1494,
-    "timeMonth": 1109,
+    "time": 1747,
+    "timeDay": 1471,
+    "timeWeek": 1529,
+    "timeMonth": 1129,
     "timeYear": 1822,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 1
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -407,7 +409,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2125,
-    "timeDay": 2391,
+    "timeDay": 2387,
     "timeWeek": 2363,
     "timeMonth": 2224,
     "timeYear": 2272,
@@ -425,7 +427,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2096,
-    "timeDay": 2351,
+    "timeDay": 2330,
     "timeWeek": 2356,
     "timeMonth": 2206,
     "timeYear": 2217,
@@ -481,7 +483,7 @@
     "time": 1767,
     "timeDay": 1234,
     "timeWeek": 1316,
-    "timeMonth": 1516,
+    "timeMonth": 1461,
     "timeYear": 1902,
     "dailyMinutesDown": {}
   },
@@ -499,7 +501,7 @@
     "time": 4390,
     "timeDay": 5517,
     "timeWeek": 4746,
-    "timeMonth": 4893,
+    "timeMonth": 4931,
     "timeYear": 4694,
     "dailyMinutesDown": {}
   },
@@ -546,17 +548,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3498,
     "timeDay": 5082,
     "timeWeek": 3692,
-    "timeMonth": 3769,
+    "timeMonth": 3771,
     "timeYear": 3608,
-    "dailyMinutesDown": {
-      "2024-03-02": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
