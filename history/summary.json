@@ -490,17 +490,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4381,
-    "timeDay": 6600,
-    "timeWeek": 4681,
-    "timeMonth": 4913,
-    "timeYear": 4697,
+    "time": 4383,
+    "timeDay": 6084,
+    "timeWeek": 4636,
+    "timeMonth": 4892,
+    "timeYear": 4695,
     "dailyMinutesDown": {}
   },
   {
@@ -508,18 +508,20 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3476,
-    "timeDay": 5028,
-    "timeWeek": 3667,
-    "timeMonth": 3613,
+    "time": 3479,
+    "timeDay": 4627,
+    "timeWeek": 3643,
+    "timeMonth": 3608,
     "timeYear": 3646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 1
+    }
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
@@ -553,7 +555,7 @@
     "time": 3494,
     "timeDay": 2989,
     "timeWeek": 2997,
-    "timeMonth": 3759,
+    "timeMonth": 3762,
     "timeYear": 3604,
     "dailyMinutesDown": {}
   }
