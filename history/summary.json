@@ -150,18 +150,16 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3800,
     "timeDay": 5231,
     "timeWeek": 4473,
     "timeMonth": 3362,
     "timeYear": 4280,
-    "dailyMinutesDown": {
-      "2024-03-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchMusic - Search for music by keyword",
@@ -404,17 +402,17 @@
     "url": "https://tiktok.evelode.com/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2164,
-    "timeDay": 2224,
-    "timeWeek": 2336,
-    "timeMonth": 2279,
-    "timeYear": 2285,
+    "time": 2166,
+    "timeDay": 2300,
+    "timeWeek": 2345,
+    "timeMonth": 2281,
+    "timeYear": 2286,
     "dailyMinutesDown": {}
   },
   {
@@ -422,17 +420,17 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2148,
-    "timeDay": 2197,
-    "timeWeek": 2281,
-    "timeMonth": 2247,
-    "timeYear": 2230,
+    "time": 2151,
+    "timeDay": 2324,
+    "timeWeek": 2294,
+    "timeMonth": 2251,
+    "timeYear": 2232,
     "dailyMinutesDown": {}
   },
   {
@@ -538,7 +536,7 @@
     "uptimeYear": "100.00%",
     "time": 1737,
     "timeDay": 1102,
-    "timeWeek": 2554,
+    "timeWeek": 1261,
     "timeMonth": 1516,
     "timeYear": 1779,
     "dailyMinutesDown": {}
@@ -557,7 +555,7 @@
     "time": 3498,
     "timeDay": 2699,
     "timeWeek": 3590,
-    "timeMonth": 3711,
+    "timeMonth": 3718,
     "timeYear": 3609,
     "dailyMinutesDown": {}
   }
