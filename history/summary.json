@@ -402,17 +402,17 @@
     "url": "https://tiktok.evelode.com/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2176,
-    "timeDay": 2469,
-    "timeWeek": 2393,
-    "timeMonth": 2315,
-    "timeYear": 2301,
+    "timeDay": 2391,
+    "timeWeek": 2388,
+    "timeMonth": 2313,
+    "timeYear": 2300,
     "dailyMinutesDown": {}
   },
   {
@@ -420,17 +420,17 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2147,
-    "timeDay": 2329,
-    "timeWeek": 2306,
-    "timeMonth": 2265,
-    "timeYear": 2239,
+    "timeDay": 2251,
+    "timeWeek": 2301,
+    "timeMonth": 2263,
+    "timeYear": 2224,
     "dailyMinutesDown": {}
   },
   {
@@ -448,7 +448,7 @@
     "timeDay": 1026,
     "timeWeek": 1088,
     "timeMonth": 1048,
-    "timeYear": 2031,
+    "timeYear": 2034,
     "dailyMinutesDown": {}
   },
   {
@@ -466,7 +466,7 @@
     "timeDay": 1033,
     "timeWeek": 1091,
     "timeMonth": 1017,
-    "timeYear": 1821,
+    "timeYear": 1824,
     "dailyMinutesDown": {}
   },
   {
@@ -484,7 +484,7 @@
     "timeDay": 1143,
     "timeWeek": 1301,
     "timeMonth": 1388,
-    "timeYear": 1897,
+    "timeYear": 1900,
     "dailyMinutesDown": {}
   },
   {
@@ -555,7 +555,7 @@
     "time": 3499,
     "timeDay": 3192,
     "timeWeek": 3663,
-    "timeMonth": 3642,
+    "timeMonth": 3636,
     "timeYear": 3609,
     "dailyMinutesDown": {}
   }
