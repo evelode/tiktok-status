@@ -420,17 +420,17 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2109,
-    "timeDay": 2319,
-    "timeWeek": 2293,
-    "timeMonth": 2271,
-    "timeYear": 2229,
+    "time": 2111,
+    "timeDay": 2345,
+    "timeWeek": 2297,
+    "timeMonth": 2273,
+    "timeYear": 2230,
     "dailyMinutesDown": {}
   },
   {
@@ -555,7 +555,7 @@
     "time": 3516,
     "timeDay": 2892,
     "timeWeek": 5589,
-    "timeMonth": 3765,
+    "timeMonth": 3764,
     "timeYear": 3625,
     "dailyMinutesDown": {}
   }
