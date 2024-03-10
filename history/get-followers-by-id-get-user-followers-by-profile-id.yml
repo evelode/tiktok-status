@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 3626
-lastUpdated: 2024-03-10T14:26:56.157Z
+status: up
+code: 200
+responseTime: 1166
+lastUpdated: 2024-03-10T14:33:43.033Z
 startTime: 2022-10-29T22:41:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
