@@ -402,17 +402,17 @@
     "url": "https://tiktok.evelode.com/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2232,
-    "timeDay": 2284,
-    "timeWeek": 2362,
-    "timeMonth": 2322,
-    "timeYear": 2305,
+    "timeDay": 2257,
+    "timeWeek": 2357,
+    "timeMonth": 2320,
+    "timeYear": 2304,
     "dailyMinutesDown": {}
   },
   {
@@ -555,7 +555,7 @@
     "time": 3521,
     "timeDay": 5024,
     "timeWeek": 5681,
-    "timeMonth": 3853,
+    "timeMonth": 3842,
     "timeYear": 3628,
     "dailyMinutesDown": {}
   }
