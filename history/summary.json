@@ -411,17 +411,17 @@
     "url": "https://tiktok.evelode.com/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2186,
-    "timeDay": 2367,
-    "timeWeek": 2365,
-    "timeMonth": 2324,
-    "timeYear": 2305,
+    "time": 2185,
+    "timeDay": 2167,
+    "timeWeek": 2359,
+    "timeMonth": 2322,
+    "timeYear": 2304,
     "dailyMinutesDown": {}
   },
   {
@@ -429,17 +429,17 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2160,
-    "timeDay": 2421,
-    "timeWeek": 2309,
-    "timeMonth": 2282,
-    "timeYear": 2236,
+    "timeDay": 2225,
+    "timeWeek": 2303,
+    "timeMonth": 2280,
+    "timeYear": 2235,
     "dailyMinutesDown": {}
   },
   {
@@ -520,10 +520,10 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "57.25%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "98.59%",
+    "uptime": "99.90%",
+    "uptimeDay": "56.26%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.88%",
     "time": 3531,
     "timeDay": 3596,
@@ -531,7 +531,7 @@
     "timeMonth": 3417,
     "timeYear": 3671,
     "dailyMinutesDown": {
-      "2024-03-12": 616
+      "2024-03-12": 630
     }
   },
   {
@@ -541,9 +541,9 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "57.26%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "56.27%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.88%",
     "time": 1740,
     "timeDay": 1207,
@@ -551,7 +551,7 @@
     "timeMonth": 1570,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-03-12": 616
+      "2024-03-12": 630
     }
   },
   {
@@ -561,9 +561,9 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "57.26%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "56.28%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.88%",
     "time": 3521,
     "timeDay": 4913,
@@ -571,7 +571,7 @@
     "timeMonth": 3991,
     "timeYear": 3628,
     "dailyMinutesDown": {
-      "2024-03-12": 615
+      "2024-03-12": 630
     }
   }
 ]
