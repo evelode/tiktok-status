@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 2054
-lastUpdated: 2024-03-11T23:13:50.580Z
+status: down
+code: 400
+responseTime: 2430
+lastUpdated: 2024-03-12T07:39:12.098Z
 startTime: 2022-10-28T22:21:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
