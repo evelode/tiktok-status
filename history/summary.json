@@ -418,7 +418,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2224,
-    "timeDay": 2450,
+    "timeDay": 2429,
     "timeWeek": 2353,
     "timeMonth": 2344,
     "timeYear": 2311,
@@ -429,17 +429,17 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2132,
-    "timeDay": 2212,
-    "timeWeek": 2325,
-    "timeMonth": 2305,
-    "timeYear": 2244,
+    "time": 2134,
+    "timeDay": 2246,
+    "timeWeek": 2334,
+    "timeMonth": 2308,
+    "timeYear": 2246,
     "dailyMinutesDown": {}
   },
   {
@@ -520,10 +520,10 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "93.80%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.48%",
     "time": 3535,
     "timeDay": 3336,
@@ -531,7 +531,7 @@
     "timeMonth": 3641,
     "timeYear": 3675,
     "dailyMinutesDown": {
-      "2024-03-14": 299,
+      "2024-03-14": 337,
       "2024-03-13": 1440,
       "2024-03-12": 975
     }
@@ -544,8 +544,8 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "93.80%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.48%",
     "time": 1741,
     "timeDay": 1219,
@@ -553,7 +553,7 @@
     "timeMonth": 1694,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-03-14": 299,
+      "2024-03-14": 337,
       "2024-03-13": 1440,
       "2024-03-12": 974
     }
@@ -566,8 +566,8 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "93.80%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.48%",
     "time": 3522,
     "timeDay": 3175,
@@ -575,7 +575,7 @@
     "timeMonth": 4037,
     "timeYear": 3629,
     "dailyMinutesDown": {
-      "2024-03-14": 299,
+      "2024-03-14": 337,
       "2024-03-13": 1440,
       "2024-03-12": 974
     }
