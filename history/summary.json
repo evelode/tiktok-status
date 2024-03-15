@@ -303,19 +303,19 @@
     "url": "https://tiktok.evelode.com/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2858,
-    "timeDay": 8730,
-    "timeWeek": 5604,
-    "timeMonth": 3940,
-    "timeYear": 3109,
+    "time": 2862,
+    "timeDay": 8124,
+    "timeWeek": 5538,
+    "timeMonth": 3954,
+    "timeYear": 3112,
     "dailyMinutesDown": {
-      "2024-03-15": 2
+      "2024-03-15": 9
     }
   },
   {
@@ -422,7 +422,7 @@
     "time": 2235,
     "timeDay": 2267,
     "timeWeek": 2343,
-    "timeMonth": 2342,
+    "timeMonth": 2344,
     "timeYear": 2310,
     "dailyMinutesDown": {}
   },
@@ -440,7 +440,7 @@
     "time": 2145,
     "timeDay": 2280,
     "timeWeek": 2347,
-    "timeMonth": 2306,
+    "timeMonth": 2308,
     "timeYear": 2245,
     "dailyMinutesDown": {}
   },
@@ -524,8 +524,8 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.25%",
-    "uptimeMonth": "89.93%",
+    "uptimeWeek": "56.16%",
+    "uptimeMonth": "89.91%",
     "uptimeYear": "99.16%",
     "time": 3537,
     "timeDay": 3674,
@@ -533,7 +533,7 @@
     "timeMonth": 3652,
     "timeYear": 3676,
     "dailyMinutesDown": {
-      "2024-03-15": 555,
+      "2024-03-15": 564,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 975
@@ -547,8 +547,8 @@
     "status": "up",
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.25%",
-    "uptimeMonth": "89.93%",
+    "uptimeWeek": "56.16%",
+    "uptimeMonth": "89.91%",
     "uptimeYear": "99.16%",
     "time": 1742,
     "timeDay": 1614,
@@ -556,7 +556,7 @@
     "timeMonth": 1709,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-03-15": 555,
+      "2024-03-15": 564,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 974
@@ -570,8 +570,8 @@
     "status": "up",
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.26%",
-    "uptimeMonth": "89.93%",
+    "uptimeWeek": "56.16%",
+    "uptimeMonth": "89.91%",
     "uptimeYear": "99.16%",
     "time": 3523,
     "timeDay": 4219,
@@ -579,7 +579,7 @@
     "timeMonth": 4068,
     "timeYear": 3630,
     "dailyMinutesDown": {
-      "2024-03-15": 555,
+      "2024-03-15": 564,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 974
