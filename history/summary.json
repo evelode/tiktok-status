@@ -6,18 +6,16 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2049,
     "timeDay": 2489,
     "timeWeek": 2050,
     "timeMonth": 1773,
     "timeYear": 2202,
-    "dailyMinutesDown": {
-      "2024-03-15": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getNoWatermarkUrlByID - Get non watermarked video url by video ID",
@@ -421,7 +419,7 @@
     "uptimeYear": "100.00%",
     "time": 2235,
     "timeDay": 2182,
-    "timeWeek": 2341,
+    "timeWeek": 2337,
     "timeMonth": 2342,
     "timeYear": 2310,
     "dailyMinutesDown": {}
@@ -439,7 +437,7 @@
     "uptimeYear": "100.00%",
     "time": 2145,
     "timeDay": 2258,
-    "timeWeek": 2344,
+    "timeWeek": 2340,
     "timeMonth": 2307,
     "timeYear": 2245,
     "dailyMinutesDown": {}
@@ -503,16 +501,16 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4511,
-    "timeDay": 4326,
-    "timeWeek": 5130,
-    "timeMonth": 5216,
+    "time": 4500,
+    "timeDay": 4398,
+    "timeWeek": 5103,
+    "timeMonth": 5210,
     "timeYear": 4759,
     "dailyMinutesDown": {}
   },
@@ -524,8 +522,8 @@
     "status": "up",
     "uptime": "99.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.88%",
-    "uptimeMonth": "90.54%",
+    "uptimeWeek": "58.83%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "99.21%",
     "time": 3537,
     "timeDay": 3674,
@@ -533,7 +531,7 @@
     "timeMonth": 3652,
     "timeYear": 3676,
     "dailyMinutesDown": {
-      "2024-03-15": 290,
+      "2024-03-15": 296,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 975
@@ -547,8 +545,8 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.89%",
-    "uptimeMonth": "90.54%",
+    "uptimeWeek": "58.83%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "99.21%",
     "time": 1742,
     "timeDay": 1614,
@@ -556,7 +554,7 @@
     "timeMonth": 1709,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-03-15": 290,
+      "2024-03-15": 296,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 974
@@ -570,8 +568,8 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.89%",
-    "uptimeMonth": "90.54%",
+    "uptimeWeek": "58.83%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "99.21%",
     "time": 3523,
     "timeDay": 4219,
@@ -579,7 +577,7 @@
     "timeMonth": 4068,
     "timeYear": 3630,
     "dailyMinutesDown": {
-      "2024-03-15": 290,
+      "2024-03-15": 296,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 974
