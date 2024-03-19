@@ -267,18 +267,20 @@
     "url": "https://tiktok.evelode.com/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1628,
-    "timeDay": 1075,
-    "timeWeek": 1435,
-    "timeMonth": 1875,
-    "timeYear": 1628,
-    "dailyMinutesDown": {}
+    "time": 1633,
+    "timeDay": 1887,
+    "timeWeek": 1593,
+    "timeMonth": 1901,
+    "timeYear": 1633,
+    "dailyMinutesDown": {
+      "2024-03-19": 2
+    }
   },
   {
     "name": "/getUserFeed - Get user feed by profile URL or nickname",
