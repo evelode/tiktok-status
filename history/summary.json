@@ -40,19 +40,19 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-video-by-id-get-video-info-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1684,
-    "timeDay": 4091,
-    "timeWeek": 2100,
-    "timeMonth": 1644,
+    "time": 1685,
+    "timeDay": 3304,
+    "timeWeek": 2059,
+    "timeMonth": 1647,
     "timeYear": 1749,
     "dailyMinutesDown": {
-      "2024-03-29": 2
+      "2024-03-29": 6
     }
   },
   {
