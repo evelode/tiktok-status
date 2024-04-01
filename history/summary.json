@@ -60,18 +60,16 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1694,
     "timeDay": 3999,
     "timeWeek": 2256,
     "timeMonth": 1731,
     "timeYear": 1769,
-    "dailyMinutesDown": {
-      "2024-04-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -424,7 +422,7 @@
     "time": 2364,
     "timeDay": 1840,
     "timeWeek": 1623,
-    "timeMonth": 2525,
+    "timeMonth": 2526,
     "timeYear": 2419,
     "dailyMinutesDown": {}
   },
@@ -451,17 +449,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2041,
-    "timeDay": 6088,
-    "timeWeek": 5406,
-    "timeMonth": 3765,
-    "timeYear": 2226,
+    "time": 2051,
+    "timeDay": 6269,
+    "timeWeek": 5478,
+    "timeMonth": 3839,
+    "timeYear": 2238,
     "dailyMinutesDown": {}
   },
   {
