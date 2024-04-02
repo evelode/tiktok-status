@@ -14,7 +14,7 @@
     "timeDay": 1702,
     "timeWeek": 1842,
     "timeMonth": 2106,
-    "timeYear": 2224,
+    "timeYear": 2180,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1435,
     "timeWeek": 1456,
     "timeMonth": 1480,
-    "timeYear": 1511,
+    "timeYear": 1515,
     "dailyMinutesDown": {}
   },
   {
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1694,
-    "timeDay": 3998,
+    "timeDay": 1437,
     "timeWeek": 2271,
     "timeMonth": 1734,
     "timeYear": 1768,
@@ -441,7 +441,7 @@
     "time": 2278,
     "timeDay": 1824,
     "timeWeek": 1694,
-    "timeMonth": 2449,
+    "timeMonth": 2451,
     "timeYear": 2344,
     "dailyMinutesDown": {}
   },
@@ -450,17 +450,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2114,
-    "timeDay": 5989,
-    "timeWeek": 5652,
-    "timeMonth": 4181,
-    "timeYear": 2310,
+    "time": 2126,
+    "timeDay": 6277,
+    "timeWeek": 5738,
+    "timeMonth": 4263,
+    "timeYear": 2324,
     "dailyMinutesDown": {}
   },
   {
