@@ -14,7 +14,7 @@
     "timeDay": 1643,
     "timeWeek": 1616,
     "timeMonth": 2104,
-    "timeYear": 2180,
+    "timeYear": 2159,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1519,
     "timeWeek": 1477,
     "timeMonth": 1482,
-    "timeYear": 1516,
+    "timeYear": 1518,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1483,
     "timeWeek": 2075,
     "timeMonth": 1642,
-    "timeYear": 1748,
+    "timeYear": 1750,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 1610,
     "timeWeek": 2296,
     "timeMonth": 1742,
-    "timeYear": 1768,
+    "timeYear": 1769,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 1913,
     "timeWeek": 2127,
     "timeMonth": 2563,
-    "timeYear": 3424,
+    "timeYear": 3432,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 3057,
     "timeWeek": 2349,
     "timeMonth": 2533,
-    "timeYear": 3451,
+    "timeYear": 3455,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 2382,
     "timeWeek": 2242,
     "timeMonth": 2243,
-    "timeYear": 3093,
+    "timeYear": 3098,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 3832,
     "timeWeek": 2709,
     "timeMonth": 2206,
-    "timeYear": 2917,
+    "timeYear": 2920,
     "dailyMinutesDown": {
       "2024-03-12": 15
     }
@@ -152,12 +152,12 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 3877,
-    "timeDay": 6020,
+    "timeDay": 3986,
     "timeWeek": 4492,
     "timeMonth": 4690,
     "timeYear": 4380,
@@ -239,7 +239,7 @@
     "time": 1516,
     "timeDay": 1208,
     "timeWeek": 1204,
-    "timeMonth": 1648,
+    "timeMonth": 1339,
     "timeYear": 1259,
     "dailyMinutesDown": {}
   },
@@ -450,17 +450,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2142,
-    "timeDay": 5986,
-    "timeWeek": 5699,
-    "timeMonth": 4297,
-    "timeYear": 2339,
+    "time": 2148,
+    "timeDay": 6108,
+    "timeWeek": 5740,
+    "timeMonth": 4346,
+    "timeYear": 2350,
     "dailyMinutesDown": {}
   },
   {
@@ -511,9 +511,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4655,
-    "timeDay": 5823,
+    "timeDay": 4978,
     "timeWeek": 5274,
-    "timeMonth": 5446,
+    "timeMonth": 5539,
     "timeYear": 4825,
     "dailyMinutesDown": {}
   },
@@ -531,7 +531,7 @@
     "time": 3580,
     "timeDay": 3691,
     "timeWeek": 3356,
-    "timeMonth": 3552,
+    "timeMonth": 3600,
     "timeYear": 3670,
     "dailyMinutesDown": {
       "2024-03-17": 194,
