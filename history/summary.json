@@ -32,7 +32,7 @@
     "timeDay": 1398,
     "timeWeek": 1466,
     "timeMonth": 1484,
-    "timeYear": 1520,
+    "timeYear": 1523,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 1504,
     "timeWeek": 2084,
     "timeMonth": 1646,
-    "timeYear": 1754,
+    "timeYear": 1755,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 1482,
     "timeWeek": 2307,
     "timeMonth": 1748,
-    "timeYear": 1762,
+    "timeYear": 1763,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 2501,
     "timeWeek": 2404,
     "timeMonth": 2390,
-    "timeYear": 3461,
+    "timeYear": 3462,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 2395,
     "timeWeek": 2274,
     "timeMonth": 2220,
-    "timeYear": 3103,
+    "timeYear": 3102,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 1992,
     "timeWeek": 2606,
     "timeMonth": 2208,
-    "timeYear": 2930,
+    "timeYear": 2931,
     "dailyMinutesDown": {
       "2024-03-12": 15
     }
@@ -181,7 +181,7 @@
     "timeDay": 1773,
     "timeWeek": 1777,
     "timeMonth": 2273,
-    "timeYear": 2673,
+    "timeYear": 2674,
     "dailyMinutesDown": {
       "2024-03-12": 15,
       "2024-03-06": 24
@@ -202,7 +202,7 @@
     "timeDay": 2083,
     "timeWeek": 2433,
     "timeMonth": 2214,
-    "timeYear": 2513,
+    "timeYear": 2512,
     "dailyMinutesDown": {}
   },
   {
@@ -220,7 +220,7 @@
     "timeDay": 1537,
     "timeWeek": 1418,
     "timeMonth": 1423,
-    "timeYear": 1750,
+    "timeYear": 1749,
     "dailyMinutesDown": {
       "2024-03-12": 15
     }
@@ -296,7 +296,7 @@
     "timeDay": 5500,
     "timeWeek": 3978,
     "timeMonth": 3231,
-    "timeYear": 2758,
+    "timeYear": 2761,
     "dailyMinutesDown": {}
   },
   {
@@ -314,7 +314,7 @@
     "timeDay": 3307,
     "timeWeek": 3140,
     "timeMonth": 4345,
-    "timeYear": 3199,
+    "timeYear": 3201,
     "dailyMinutesDown": {}
   },
   {
@@ -350,7 +350,7 @@
     "timeDay": 1271,
     "timeWeek": 2673,
     "timeMonth": 1700,
-    "timeYear": 1830,
+    "timeYear": 1829,
     "dailyMinutesDown": {
       "2024-03-19": 16
     }
@@ -406,7 +406,7 @@
     "timeDay": 1026,
     "timeWeek": 1045,
     "timeMonth": 1385,
-    "timeYear": 1919,
+    "timeYear": 1920,
     "dailyMinutesDown": {}
   },
   {
@@ -424,7 +424,7 @@
     "timeDay": 1838,
     "timeWeek": 1754,
     "timeMonth": 2538,
-    "timeYear": 2423,
+    "timeYear": 2421,
     "dailyMinutesDown": {}
   },
   {
@@ -460,7 +460,7 @@
     "timeDay": 6028,
     "timeWeek": 5864,
     "timeMonth": 4711,
-    "timeYear": 2485,
+    "timeYear": 2487,
     "dailyMinutesDown": {}
   },
   {
@@ -478,7 +478,7 @@
     "timeDay": 1022,
     "timeWeek": 1061,
     "timeMonth": 1090,
-    "timeYear": 1829,
+    "timeYear": 1831,
     "dailyMinutesDown": {}
   },
   {
@@ -504,17 +504,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4678,
-    "timeDay": 11624,
-    "timeWeek": 5833,
-    "timeMonth": 5588,
-    "timeYear": 4877,
+    "time": 4680,
+    "timeDay": 9253,
+    "timeWeek": 5780,
+    "timeMonth": 5573,
+    "timeYear": 4875,
     "dailyMinutesDown": {}
   },
   {
@@ -532,7 +532,7 @@
     "timeDay": 3922,
     "timeWeek": 3327,
     "timeMonth": 3640,
-    "timeYear": 3692,
+    "timeYear": 3693,
     "dailyMinutesDown": {
       "2024-03-17": 194,
       "2024-03-16": 1440,
@@ -557,7 +557,7 @@
     "timeDay": 1177,
     "timeWeek": 1319,
     "timeMonth": 1447,
-    "timeYear": 1763,
+    "timeYear": 1764,
     "dailyMinutesDown": {
       "2024-03-17": 299,
       "2024-03-16": 1440,
@@ -582,7 +582,7 @@
     "timeDay": 3437,
     "timeWeek": 3122,
     "timeMonth": 4196,
-    "timeYear": 3641,
+    "timeYear": 3642,
     "dailyMinutesDown": {
       "2024-03-15": 1060,
       "2024-03-14": 1440,
