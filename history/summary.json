@@ -14,7 +14,7 @@
     "timeDay": 1444,
     "timeWeek": 2379,
     "timeMonth": 2269,
-    "timeYear": 2173,
+    "timeYear": 2175,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1243,
     "timeWeek": 1455,
     "timeMonth": 1478,
-    "timeYear": 1524,
+    "timeYear": 1527,
     "dailyMinutesDown": {}
   },
   {
@@ -159,7 +159,7 @@
     "time": 3882,
     "timeDay": 2859,
     "timeWeek": 4489,
-    "timeMonth": 4675,
+    "timeMonth": 4609,
     "timeYear": 4383,
     "dailyMinutesDown": {
       "2024-04-02": 16,
@@ -286,17 +286,17 @@
     "url": "https://tiktok.evelode.com/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2567,
-    "timeDay": 2488,
-    "timeWeek": 3943,
-    "timeMonth": 3211,
-    "timeYear": 2760,
+    "time": 2578,
+    "timeDay": 5249,
+    "timeWeek": 4350,
+    "timeMonth": 3356,
+    "timeYear": 2771,
     "dailyMinutesDown": {}
   },
   {
@@ -347,7 +347,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1778,
-    "timeDay": 2756,
+    "timeDay": 924,
     "timeWeek": 1654,
     "timeMonth": 1790,
     "timeYear": 1836,
