@@ -353,7 +353,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1862,
-    "timeDay": 1177,
+    "timeDay": 1064,
     "timeWeek": 1224,
     "timeMonth": 1256,
     "timeYear": 1918,
@@ -508,19 +508,19 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 3607,
-    "timeDay": 2269,
-    "timeWeek": 3545,
-    "timeMonth": 3435,
-    "timeYear": 3718,
+    "time": 3610,
+    "timeDay": 2467,
+    "timeWeek": 3493,
+    "timeMonth": 3421,
+    "timeYear": 3717,
     "dailyMinutesDown": {
-      "2024-04-18": 1
+      "2024-04-18": 14
     }
   },
   {
