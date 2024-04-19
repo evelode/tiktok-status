@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1485,
     "timeDay": 909,
-    "timeWeek": 1249,
+    "timeWeek": 1300,
     "timeMonth": 1152,
     "timeYear": 1248,
     "dailyMinutesDown": {}
@@ -265,7 +265,7 @@
     "time": 1580,
     "timeDay": 940,
     "timeWeek": 1534,
-    "timeMonth": 1316,
+    "timeMonth": 1267,
     "timeYear": 1580,
     "dailyMinutesDown": {}
   },
@@ -337,7 +337,7 @@
     "time": 1765,
     "timeDay": 942,
     "timeWeek": 1087,
-    "timeMonth": 1668,
+    "timeMonth": 1673,
     "timeYear": 1814,
     "dailyMinutesDown": {}
   },
@@ -409,7 +409,7 @@
     "time": 2369,
     "timeDay": 1507,
     "timeWeek": 1835,
-    "timeMonth": 2829,
+    "timeMonth": 2853,
     "timeYear": 2423,
     "dailyMinutesDown": {}
   },
@@ -427,7 +427,7 @@
     "time": 2285,
     "timeDay": 1492,
     "timeWeek": 1818,
-    "timeMonth": 2732,
+    "timeMonth": 2748,
     "timeYear": 2354,
     "dailyMinutesDown": {}
   },
@@ -436,17 +436,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2773,
-    "timeDay": 6405,
-    "timeWeek": 5031,
-    "timeMonth": 5536,
-    "timeYear": 2956,
+    "time": 2782,
+    "timeDay": 6616,
+    "timeWeek": 5115,
+    "timeMonth": 5548,
+    "timeYear": 2964,
     "dailyMinutesDown": {}
   },
   {
@@ -553,7 +553,7 @@
     "time": 3560,
     "timeDay": 2526,
     "timeWeek": 2498,
-    "timeMonth": 3105,
+    "timeMonth": 3109,
     "timeYear": 3648,
     "dailyMinutesDown": {}
   }
