@@ -140,7 +140,7 @@
     "timeDay": 1939,
     "timeWeek": 1973,
     "timeMonth": 2194,
-    "timeYear": 2795,
+    "timeYear": 2706,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 2903,
     "timeWeek": 3327,
     "timeMonth": 3672,
-    "timeYear": 4311,
+    "timeYear": 4276,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 1637,
     "timeWeek": 1768,
     "timeMonth": 1857,
-    "timeYear": 2545,
+    "timeYear": 2473,
     "dailyMinutesDown": {}
   },
   {
@@ -328,18 +328,20 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1764,
-    "timeDay": 991,
-    "timeWeek": 1059,
-    "timeMonth": 1655,
-    "timeYear": 1813,
-    "dailyMinutesDown": {}
+    "time": 1763,
+    "timeDay": 992,
+    "timeWeek": 1051,
+    "timeMonth": 1639,
+    "timeYear": 1812,
+    "dailyMinutesDown": {
+      "2024-04-20": 1
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -409,7 +411,7 @@
     "time": 2369,
     "timeDay": 1570,
     "timeWeek": 1790,
-    "timeMonth": 2907,
+    "timeMonth": 2918,
     "timeYear": 2423,
     "dailyMinutesDown": {}
   },
@@ -427,7 +429,7 @@
     "time": 2285,
     "timeDay": 1551,
     "timeWeek": 1764,
-    "timeMonth": 2823,
+    "timeMonth": 2829,
     "timeYear": 2354,
     "dailyMinutesDown": {}
   },
@@ -497,7 +499,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4745,
-    "timeDay": 3460,
+    "timeDay": 4226,
     "timeWeek": 5463,
     "timeMonth": 4942,
     "timeYear": 4910,
