@@ -292,19 +292,19 @@
     "url": "https://tiktok.evelode.com/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2943,
-    "timeDay": 4952,
-    "timeWeek": 3681,
-    "timeMonth": 3096,
-    "timeYear": 3252,
+    "time": 2945,
+    "timeDay": 4594,
+    "timeWeek": 3633,
+    "timeMonth": 3098,
+    "timeYear": 3251,
     "dailyMinutesDown": {
-      "2024-04-22": 1
+      "2024-04-22": 7
     }
   },
   {
