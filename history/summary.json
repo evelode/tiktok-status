@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2167,
-    "timeDay": 2315,
+    "timeDay": 2587,
     "timeWeek": 2165,
     "timeMonth": 2135,
     "timeYear": 2194,
@@ -240,18 +240,16 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1327,
     "timeDay": 1175,
     "timeWeek": 1091,
     "timeMonth": 1120,
     "timeYear": 1233,
-    "dailyMinutesDown": {
-      "2024-04-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -301,7 +299,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2946,
-    "timeDay": 4348,
+    "timeDay": 2531,
     "timeWeek": 3566,
     "timeMonth": 3093,
     "timeYear": 3253,
@@ -332,18 +330,16 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1759,
     "timeDay": 984,
     "timeWeek": 975,
     "timeMonth": 1583,
     "timeYear": 1809,
-    "dailyMinutesDown": {
-      "2024-04-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -413,7 +409,7 @@
     "time": 2370,
     "timeDay": 1665,
     "timeWeek": 1627,
-    "timeMonth": 3260,
+    "timeMonth": 3238,
     "timeYear": 2426,
     "dailyMinutesDown": {}
   },
@@ -431,7 +427,7 @@
     "time": 2284,
     "timeDay": 1556,
     "timeWeek": 1560,
-    "timeMonth": 3158,
+    "timeMonth": 3134,
     "timeYear": 2356,
     "dailyMinutesDown": {}
   },
@@ -440,17 +436,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2742,
-    "timeDay": 3857,
-    "timeWeek": 5454,
-    "timeMonth": 5598,
-    "timeYear": 3082,
+    "time": 2750,
+    "timeDay": 4854,
+    "timeWeek": 5502,
+    "timeMonth": 5608,
+    "timeYear": 3089,
     "dailyMinutesDown": {}
   },
   {
@@ -483,7 +479,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1841,
-    "timeDay": 1095,
+    "timeDay": 1206,
     "timeWeek": 1155,
     "timeMonth": 1372,
     "timeYear": 1912,
@@ -503,7 +499,7 @@
     "time": 4564,
     "timeDay": 3240,
     "timeWeek": 3926,
-    "timeMonth": 4855,
+    "timeMonth": 4761,
     "timeYear": 4900,
     "dailyMinutesDown": {}
   },
