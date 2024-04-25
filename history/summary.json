@@ -6,18 +6,16 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2172,
     "timeDay": 1659,
     "timeWeek": 2112,
     "timeMonth": 2114,
     "timeYear": 2193,
-    "dailyMinutesDown": {
-      "2024-04-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getNoWatermarkUrlByID - Get non watermarked video url by video ID",
@@ -548,17 +546,19 @@
     "url": "https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3559,
-    "timeDay": 1997,
-    "timeWeek": 2234,
-    "timeMonth": 2670,
-    "timeYear": 3652,
-    "dailyMinutesDown": {}
+    "time": 3558,
+    "timeDay": 1538,
+    "timeWeek": 2118,
+    "timeMonth": 2626,
+    "timeYear": 3650,
+    "dailyMinutesDown": {
+      "2024-04-25": 1
+    }
   }
 ]
