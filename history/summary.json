@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2169,
     "timeDay": 1572,
-    "timeWeek": 2111,
+    "timeWeek": 2130,
     "timeMonth": 2072,
     "timeYear": 2196,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1400,
     "timeDay": 1307,
-    "timeWeek": 1817,
+    "timeWeek": 1834,
     "timeMonth": 1647,
     "timeYear": 1600,
     "dailyMinutesDown": {}
@@ -240,18 +240,20 @@
     "url": "https://tiktok.evelode.com/getUserInfoByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1322,
-    "timeDay": 990,
-    "timeWeek": 1115,
-    "timeMonth": 1120,
-    "timeYear": 1229,
-    "dailyMinutesDown": {}
+    "time": 1321,
+    "timeDay": 986,
+    "timeWeek": 1072,
+    "timeMonth": 1117,
+    "timeYear": 1228,
+    "dailyMinutesDown": {
+      "2024-04-28": 1
+    }
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -492,17 +494,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4649,
-    "timeDay": 3770,
-    "timeWeek": 4218,
-    "timeMonth": 4651,
-    "timeYear": 4884,
+    "time": 4647,
+    "timeDay": 3544,
+    "timeWeek": 4162,
+    "timeMonth": 4622,
+    "timeYear": 4878,
     "dailyMinutesDown": {}
   },
   {
@@ -530,18 +532,16 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1751,
     "timeDay": 1483,
     "timeWeek": 2488,
     "timeMonth": 2007,
     "timeYear": 1817,
-    "dailyMinutesDown": {
-      "2024-04-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
