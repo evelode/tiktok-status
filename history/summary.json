@@ -391,7 +391,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1858,
-    "timeDay": 993,
+    "timeDay": 972,
     "timeWeek": 1175,
     "timeMonth": 1094,
     "timeYear": 1863,
@@ -446,7 +446,7 @@
     "uptimeYear": "100.00%",
     "time": 2876,
     "timeDay": 4385,
-    "timeWeek": 5004,
+    "timeWeek": 4937,
     "timeMonth": 5665,
     "timeYear": 3180,
     "dailyMinutesDown": {}
@@ -492,17 +492,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4647,
-    "timeDay": 2775,
-    "timeWeek": 4013,
-    "timeMonth": 4539,
-    "timeYear": 4862,
+    "timeDay": 3229,
+    "timeWeek": 4007,
+    "timeMonth": 4533,
+    "timeYear": 4861,
     "dailyMinutesDown": {}
   },
   {
@@ -512,18 +512,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3602,
     "timeDay": 2262,
     "timeWeek": 2791,
     "timeMonth": 3238,
     "timeYear": 3692,
-    "dailyMinutesDown": {
-      "2024-04-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
