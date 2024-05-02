@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getInstagramUsername?query=6745191554350760966&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 2141
-lastUpdated: 2024-05-02T18:38:49.860Z
+status: up
+code: 200
+responseTime: 1206
+lastUpdated: 2024-05-02T18:54:33.090Z
 startTime: 2022-10-29T22:41:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
