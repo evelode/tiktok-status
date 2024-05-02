@@ -6,18 +6,16 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2176,
     "timeDay": 1996,
     "timeWeek": 1704,
     "timeMonth": 2088,
     "timeYear": 2200,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getNoWatermarkUrlByID - Get non watermarked video url by video ID",
@@ -44,18 +42,16 @@
     "slug": "get-video-by-id-get-video-info-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1732,
     "timeDay": 2779,
     "timeWeek": 2049,
     "timeMonth": 1932,
     "timeYear": 1792,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getVideoByUrl - Get video info by URL",
@@ -64,18 +60,16 @@
     "slug": "get-video-by-url-get-video-info-by-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1721,
     "timeDay": 1915,
     "timeWeek": 1528,
     "timeMonth": 1648,
     "timeYear": 1784,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL",
@@ -102,18 +96,16 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3246,
     "timeDay": 2443,
     "timeWeek": 2205,
     "timeMonth": 2251,
     "timeYear": 3453,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -122,18 +114,16 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2957,
     "timeDay": 2166,
     "timeWeek": 2171,
     "timeMonth": 2168,
     "timeYear": 3087,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -142,18 +132,16 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2827,
     "timeDay": 2058,
     "timeWeek": 1886,
     "timeMonth": 1980,
     "timeYear": 2524,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchVideo - Search for video by keyword",
@@ -162,9 +150,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 4206,
     "timeDay": 3199,
@@ -172,7 +160,6 @@
     "timeMonth": 3299,
     "timeYear": 4180,
     "dailyMinutesDown": {
-      "2024-05-02": 6,
       "2024-04-24": 28
     }
   },
@@ -183,18 +170,16 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2574,
     "timeDay": 3259,
     "timeWeek": 2414,
     "timeMonth": 2066,
     "timeYear": 2329,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -221,18 +206,16 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1725,
     "timeDay": 6316,
     "timeWeek": 2899,
     "timeMonth": 1759,
     "timeYear": 1772,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserInfo - Get user info by profile URL or nickname",
@@ -259,18 +242,16 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1365,
     "timeDay": 6232,
     "timeWeek": 2444,
     "timeMonth": 1455,
     "timeYear": 1281,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -279,18 +260,16 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1598,
     "timeDay": 6269,
     "timeWeek": 2257,
     "timeMonth": 1559,
     "timeYear": 1598,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserFeed - Get user feed by profile URL or nickname",
@@ -317,18 +296,16 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2978,
     "timeDay": 6758,
     "timeWeek": 3953,
     "timeMonth": 3347,
     "timeYear": 3298,
-    "dailyMinutesDown": {
-      "2024-05-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -353,19 +330,18 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 1753,
-    "timeDay": 1561,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
+    "time": 1752,
+    "timeDay": 1397,
     "timeWeek": 1067,
-    "timeMonth": 1207,
-    "timeYear": 1793,
+    "timeMonth": 1203,
+    "timeYear": 1791,
     "dailyMinutesDown": {
-      "2024-05-02": 9,
       "2024-05-01": 18
     }
   },
@@ -374,17 +350,17 @@
     "url": "https://tiktok.evelode.com/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-twitter-username-get-twitter-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1848,
-    "timeDay": 1287,
+    "time": 1847,
+    "timeDay": 1294,
     "timeWeek": 1324,
-    "timeMonth": 1227,
-    "timeYear": 1902,
+    "timeMonth": 1229,
+    "timeYear": 1901,
     "dailyMinutesDown": {}
   },
   {
@@ -392,17 +368,17 @@
     "url": "https://tiktok.evelode.com/getInstagramUsername?query=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-instagram-username-get-instagram-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1763,
-    "timeDay": 1140,
-    "timeWeek": 1071,
+    "time": 1762,
+    "timeDay": 1153,
+    "timeWeek": 1080,
     "timeMonth": 1200,
-    "timeYear": 1762,
+    "timeYear": 1761,
     "dailyMinutesDown": {}
   },
   {
@@ -410,17 +386,17 @@
     "url": "https://tiktok.evelode.com/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-youtube-channel-get-you-tube-channel-info-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1856,
-    "timeDay": 1497,
-    "timeWeek": 1239,
-    "timeMonth": 1115,
-    "timeYear": 1858,
+    "time": 1855,
+    "timeDay": 1349,
+    "timeWeek": 1224,
+    "timeMonth": 1113,
+    "timeYear": 1857,
     "dailyMinutesDown": {}
   },
   {
@@ -428,17 +404,17 @@
     "url": "https://tiktok.evelode.com/getFollowers?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-get-user-followers-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2373,
-    "timeDay": 1875,
-    "timeWeek": 1963,
-    "timeMonth": 1820,
-    "timeYear": 2428,
+    "timeDay": 1830,
+    "timeWeek": 1938,
+    "timeMonth": 1818,
+    "timeYear": 2427,
     "dailyMinutesDown": {}
   },
   {
@@ -446,16 +422,16 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6809782522139870213&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2287,
-    "timeDay": 1851,
-    "timeWeek": 1764,
-    "timeMonth": 1743,
+    "time": 2288,
+    "timeDay": 1916,
+    "timeWeek": 1796,
+    "timeMonth": 1753,
     "timeYear": 2356,
     "dailyMinutesDown": {}
   },
@@ -473,7 +449,7 @@
     "time": 2994,
     "timeDay": 6022,
     "timeWeek": 5099,
-    "timeMonth": 5573,
+    "timeMonth": 5567,
     "timeYear": 3286,
     "dailyMinutesDown": {}
   },
@@ -482,17 +458,17 @@
     "url": "https://tiktok.evelode.com/getFollowingByID?user_id=7073801364823966762&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-by-id-get-user-following-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1696,
-    "timeDay": 1468,
-    "timeWeek": 1025,
+    "timeDay": 1310,
+    "timeWeek": 1021,
     "timeMonth": 1009,
-    "timeYear": 1828,
+    "timeYear": 1827,
     "dailyMinutesDown": {}
   },
   {
@@ -538,18 +514,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3592,
     "timeDay": 3563,
     "timeWeek": 2878,
     "timeMonth": 3247,
     "timeYear": 3702,
-    "dailyMinutesDown": {
-      "2024-05-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
