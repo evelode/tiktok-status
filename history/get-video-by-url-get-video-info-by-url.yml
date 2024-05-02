@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getVideoByUrl?video_url=https://www.tiktok.com/@therock/video/7106855913906081070%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 1508
-lastUpdated: 2024-05-01T23:14:14.891Z
+status: down
+code: 400
+responseTime: 2214
+lastUpdated: 2024-05-02T18:37:02.934Z
 startTime: 2022-10-26T23:16:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
