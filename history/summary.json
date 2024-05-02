@@ -140,7 +140,7 @@
     "timeDay": 2053,
     "timeWeek": 1835,
     "timeMonth": 2136,
-    "timeYear": 2536,
+    "timeYear": 2531,
     "dailyMinutesDown": {}
   },
   {
@@ -440,17 +440,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2965,
-    "timeDay": 6050,
-    "timeWeek": 4778,
-    "timeMonth": 5579,
-    "timeYear": 3266,
+    "time": 2967,
+    "timeDay": 5860,
+    "timeWeek": 4724,
+    "timeMonth": 5564,
+    "timeYear": 3265,
     "dailyMinutesDown": {}
   },
   {
@@ -522,7 +522,7 @@
     "timeDay": 3182,
     "timeWeek": 2719,
     "timeMonth": 3224,
-    "timeYear": 3700,
+    "timeYear": 3702,
     "dailyMinutesDown": {}
   },
   {
