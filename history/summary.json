@@ -168,18 +168,20 @@
     "url": "https://tiktok.evelode.com/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2573,
-    "timeDay": 3253,
-    "timeWeek": 2408,
-    "timeMonth": 2065,
-    "timeYear": 2329,
-    "dailyMinutesDown": {}
+    "time": 2584,
+    "timeDay": 3995,
+    "timeWeek": 2849,
+    "timeMonth": 2226,
+    "timeYear": 2340,
+    "dailyMinutesDown": {
+      "2024-05-03": 6
+    }
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -206,18 +208,16 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1734,
     "timeDay": 5249,
     "timeWeek": 3030,
     "timeMonth": 1865,
     "timeYear": 1780,
-    "dailyMinutesDown": {
-      "2024-05-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserInfo - Get user info by profile URL or nickname",
@@ -442,17 +442,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3073,
-    "timeDay": 6410,
-    "timeWeek": 5518,
-    "timeMonth": 5610,
-    "timeYear": 3352,
+    "time": 3089,
+    "timeDay": 6779,
+    "timeWeek": 5677,
+    "timeMonth": 5654,
+    "timeYear": 3367,
     "dailyMinutesDown": {}
   },
   {
