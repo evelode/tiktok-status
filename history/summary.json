@@ -499,17 +499,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4658,
-    "timeDay": 3418,
-    "timeWeek": 3750,
-    "timeMonth": 4160,
-    "timeYear": 4810,
+    "timeDay": 3449,
+    "timeWeek": 3755,
+    "timeMonth": 4159,
+    "timeYear": 4809,
     "dailyMinutesDown": {}
   },
   {
@@ -517,19 +517,19 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 3562,
-    "timeDay": 3018,
-    "timeWeek": 2817,
-    "timeMonth": 3145,
-    "timeYear": 3691,
+    "timeDay": 2997,
+    "timeWeek": 2820,
+    "timeMonth": 3140,
+    "timeYear": 3689,
     "dailyMinutesDown": {
-      "2024-05-04": 14
+      "2024-05-04": 18
     }
   },
   {
@@ -560,9 +560,9 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 3560,
     "timeDay": 1677,
@@ -570,7 +570,7 @@
     "timeMonth": 2277,
     "timeYear": 3642,
     "dailyMinutesDown": {
-      "2024-05-04": 1,
+      "2024-05-04": 6,
       "2024-05-01": 18
     }
   }
