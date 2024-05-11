@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 2114,
     "timeDay": 1679,
-    "timeWeek": 2147,
+    "timeWeek": 2345,
     "timeMonth": 1953,
     "timeYear": 2201,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 1422,
     "timeDay": 1443,
-    "timeWeek": 2327,
+    "timeWeek": 1490,
     "timeMonth": 1903,
     "timeYear": 1648,
     "dailyMinutesDown": {}
@@ -143,7 +143,7 @@
     "timeDay": 1823,
     "timeWeek": 1784,
     "timeMonth": 1877,
-    "timeYear": 2520,
+    "timeYear": 2523,
     "dailyMinutesDown": {}
   },
   {
@@ -161,7 +161,7 @@
     "timeDay": 3040,
     "timeWeek": 3081,
     "timeMonth": 3344,
-    "timeYear": 4189,
+    "timeYear": 4194,
     "dailyMinutesDown": {
       "2024-04-24": 28
     }
@@ -181,7 +181,7 @@
     "timeDay": 1863,
     "timeWeek": 1819,
     "timeMonth": 2152,
-    "timeYear": 2338,
+    "timeYear": 2341,
     "dailyMinutesDown": {}
   },
   {
@@ -233,7 +233,7 @@
     "uptimeYear": "100.00%",
     "time": 1501,
     "timeDay": 970,
-    "timeWeek": 1631,
+    "timeWeek": 1151,
     "timeMonth": 1533,
     "timeYear": 1307,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "uptimeYear": "100.00%",
     "time": 1851,
     "timeDay": 1017,
-    "timeWeek": 1549,
+    "timeWeek": 1187,
     "timeMonth": 1335,
     "timeYear": 1888,
     "dailyMinutesDown": {}
@@ -382,7 +382,7 @@
     "uptimeYear": "100.00%",
     "time": 1718,
     "timeDay": 1004,
-    "timeWeek": 1152,
+    "timeWeek": 1164,
     "timeMonth": 1286,
     "timeYear": 1745,
     "dailyMinutesDown": {}
@@ -400,7 +400,7 @@
     "uptimeYear": "100.00%",
     "time": 1836,
     "timeDay": 890,
-    "timeWeek": 1046,
+    "timeWeek": 1043,
     "timeMonth": 1091,
     "timeYear": 1820,
     "dailyMinutesDown": {}
@@ -446,17 +446,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3317,
-    "timeDay": 6255,
-    "timeWeek": 5746,
-    "timeMonth": 5565,
-    "timeYear": 3659,
+    "time": 3325,
+    "timeDay": 6277,
+    "timeWeek": 5931,
+    "timeMonth": 5587,
+    "timeYear": 3667,
     "dailyMinutesDown": {}
   },
   {
@@ -490,7 +490,7 @@
     "uptimeYear": "100.00%",
     "time": 1785,
     "timeDay": 1285,
-    "timeWeek": 1231,
+    "timeWeek": 1226,
     "timeMonth": 1492,
     "timeYear": 1892,
     "dailyMinutesDown": {}
@@ -508,9 +508,9 @@
     "uptimeYear": "100.00%",
     "time": 4538,
     "timeDay": 3717,
-    "timeWeek": 3422,
+    "timeWeek": 3451,
     "timeMonth": 4020,
-    "timeYear": 4766,
+    "timeYear": 4769,
     "dailyMinutesDown": {}
   },
   {
@@ -521,14 +521,14 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 3581,
     "timeDay": 2953,
-    "timeWeek": 3394,
+    "timeWeek": 3524,
     "timeMonth": 3142,
-    "timeYear": 3696,
+    "timeYear": 3700,
     "dailyMinutesDown": {
       "2024-05-04": 18
     }
@@ -546,7 +546,7 @@
     "uptimeYear": "99.98%",
     "time": 1753,
     "timeDay": 1609,
-    "timeWeek": 1198,
+    "timeWeek": 1212,
     "timeMonth": 1702,
     "timeYear": 1790,
     "dailyMinutesDown": {
@@ -563,12 +563,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 3567,
     "timeDay": 2163,
-    "timeWeek": 2851,
+    "timeWeek": 3015,
     "timeMonth": 2464,
     "timeYear": 3642,
     "dailyMinutesDown": {
