@@ -98,18 +98,18 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 3244,
     "timeDay": 2186,
     "timeWeek": 2139,
     "timeMonth": 2136,
     "timeYear": 3445,
     "dailyMinutesDown": {
-      "2024-05-19": 18
+      "2024-05-19": 44
     }
   },
   {
@@ -449,17 +449,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3461,
-    "timeDay": 6876,
-    "timeWeek": 6364,
-    "timeMonth": 5824,
-    "timeYear": 3896,
+    "time": 3466,
+    "timeDay": 6865,
+    "timeWeek": 6370,
+    "timeMonth": 5811,
+    "timeYear": 3900,
     "dailyMinutesDown": {}
   },
   {
