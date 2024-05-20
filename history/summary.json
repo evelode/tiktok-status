@@ -100,8 +100,8 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.84%",
-    "uptimeMonth": "95.13%",
+    "uptimeWeek": "78.76%",
+    "uptimeMonth": "95.11%",
     "uptimeYear": "99.59%",
     "time": 3244,
     "timeDay": 2255,
@@ -109,7 +109,7 @@
     "timeMonth": 2142,
     "timeYear": 3445,
     "dailyMinutesDown": {
-      "2024-05-20": 1274,
+      "2024-05-20": 1282,
       "2024-05-19": 858
     }
   },
@@ -175,19 +175,19 @@
     "url": "https://tiktok.evelode.com/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "36.01%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "35.59%",
+    "uptimeWeek": "90.80%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "99.82%",
     "time": 2592,
-    "timeDay": 4672,
-    "timeWeek": 2480,
-    "timeMonth": 2295,
-    "timeYear": 2350,
+    "timeDay": 3727,
+    "timeWeek": 2408,
+    "timeMonth": 2283,
+    "timeYear": 2349,
     "dailyMinutesDown": {
-      "2024-05-20": 921
+      "2024-05-20": 928
     }
   },
   {
@@ -215,9 +215,9 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "31.33%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "97.74%",
+    "uptimeDay": "30.77%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.81%",
     "time": 1730,
     "timeDay": 1182,
@@ -225,7 +225,7 @@
     "timeMonth": 1781,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2024-05-20": 989
+      "2024-05-20": 997
     }
   },
   {
@@ -346,10 +346,10 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "27.99%",
-    "uptimeWeek": "89.71%",
-    "uptimeMonth": "97.48%",
+    "uptime": "99.86%",
+    "uptimeDay": "27.44%",
+    "uptimeWeek": "89.63%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.79%",
     "time": 1697,
     "timeDay": 995,
@@ -357,7 +357,7 @@
     "timeMonth": 1146,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2024-05-20": 1037,
+      "2024-05-20": 1045,
       "2024-05-04": 51,
       "2024-05-01": 18
     }
