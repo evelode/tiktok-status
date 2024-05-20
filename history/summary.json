@@ -100,8 +100,8 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.71%",
-    "uptimeMonth": "95.10%",
+    "uptimeWeek": "78.65%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "99.59%",
     "time": 3244,
     "timeDay": 2255,
@@ -109,7 +109,7 @@
     "timeMonth": 2142,
     "timeYear": 3445,
     "dailyMinutesDown": {
-      "2024-05-20": 1288,
+      "2024-05-20": 1294,
       "2024-05-19": 858
     }
   },
@@ -215,9 +215,9 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "30.36%",
-    "uptimeWeek": "90.05%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "29.97%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "99.81%",
     "time": 1730,
     "timeDay": 1182,
@@ -225,7 +225,7 @@
     "timeMonth": 1781,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2024-05-20": 1003
+      "2024-05-20": 1008
     }
   },
   {
@@ -347,9 +347,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "27.03%",
-    "uptimeWeek": "89.58%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "26.63%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "97.43%",
     "uptimeYear": "99.79%",
     "time": 1697,
     "timeDay": 995,
@@ -357,7 +357,7 @@
     "timeMonth": 1146,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2024-05-20": 1051,
+      "2024-05-20": 1057,
       "2024-05-04": 51,
       "2024-05-01": 18
     }
@@ -403,17 +403,17 @@
     "url": "https://tiktok.evelode.com/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-youtube-channel-get-you-tube-channel-info-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1848,
-    "timeDay": 4934,
-    "timeWeek": 2557,
-    "timeMonth": 1335,
-    "timeYear": 1809,
+    "time": 1847,
+    "timeDay": 4139,
+    "timeWeek": 2411,
+    "timeMonth": 1329,
+    "timeYear": 1807,
     "dailyMinutesDown": {}
   },
   {
