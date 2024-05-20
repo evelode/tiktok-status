@@ -99,9 +99,9 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "15.92%",
-    "uptimeWeek": "87.99%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "15.27%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.77%",
     "time": 3244,
     "timeDay": 2255,
@@ -109,7 +109,7 @@
     "timeMonth": 2142,
     "timeYear": 3445,
     "dailyMinutesDown": {
-      "2024-05-20": 353,
+      "2024-05-20": 362,
       "2024-05-19": 858
     }
   },
@@ -136,19 +136,19 @@
     "url": "https://tiktok.evelode.com/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2846,
-    "timeDay": 6456,
-    "timeWeek": 3074,
-    "timeMonth": 2527,
-    "timeYear": 2556,
+    "time": 2848,
+    "timeDay": 4969,
+    "timeWeek": 2954,
+    "timeMonth": 2512,
+    "timeYear": 2555,
     "dailyMinutesDown": {
-      "2024-05-20": 4
+      "2024-05-20": 10
     }
   },
   {
@@ -179,16 +179,18 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2583,
     "timeDay": 2244,
     "timeWeek": 1820,
     "timeMonth": 2162,
     "timeYear": 2340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-20": 9
+    }
   },
   {
     "name": "/searchLive - Search for live by keyword",
@@ -215,9 +217,9 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 1730,
     "timeDay": 1182,
@@ -225,7 +227,7 @@
     "timeMonth": 1781,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2024-05-20": 67
+      "2024-05-20": 76
     }
   },
   {
@@ -347,17 +349,17 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.02%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 1697,
     "timeDay": 995,
     "timeWeek": 995,
     "timeMonth": 1146,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2024-05-20": 115,
+      "2024-05-20": 124,
       "2024-05-04": 51,
       "2024-05-01": 18
     }
@@ -457,17 +459,17 @@
     "url": "https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-following-get-user-following-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3584,
-    "timeDay": 7741,
-    "timeWeek": 6934,
-    "timeMonth": 5995,
-    "timeYear": 4007,
+    "time": 3591,
+    "timeDay": 7755,
+    "timeWeek": 6951,
+    "timeMonth": 6003,
+    "timeYear": 4012,
     "dailyMinutesDown": {}
   },
   {
@@ -493,17 +495,17 @@
     "url": "https://tiktok.evelode.com/getHashtagInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-info-get-hashtag-info-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1798,
-    "timeDay": 6392,
-    "timeWeek": 2236,
-    "timeMonth": 1602,
-    "timeYear": 1903,
+    "time": 1803,
+    "timeDay": 5758,
+    "timeWeek": 2441,
+    "timeMonth": 1644,
+    "timeYear": 1908,
     "dailyMinutesDown": {}
   },
   {
