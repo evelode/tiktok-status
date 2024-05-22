@@ -100,7 +100,7 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "59.52%",
+    "uptimeDay": "59.92%",
     "uptimeWeek": "59.19%",
     "uptimeMonth": "90.61%",
     "uptimeYear": "99.22%",
@@ -139,19 +139,19 @@
     "url": "https://tiktok.evelode.com/searchUser?keyword=apple&date_posted=all-time&sort_by=relevance&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-user-search-for-user-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2869,
-    "timeDay": 4855,
-    "timeWeek": 3657,
-    "timeMonth": 2768,
-    "timeYear": 2573,
+    "time": 2870,
+    "timeDay": 4253,
+    "timeWeek": 3518,
+    "timeMonth": 2745,
+    "timeYear": 2572,
     "dailyMinutesDown": {
-      "2024-05-22": 1
+      "2024-05-22": 5
     }
   },
   {
@@ -280,8 +280,8 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.31%",
-    "uptimeMonth": "95.19%",
+    "uptimeWeek": "79.25%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "99.42%",
     "time": 1562,
     "timeDay": 996,
@@ -289,7 +289,7 @@
     "timeMonth": 1511,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2024-05-22": 1233,
+      "2024-05-22": 1239,
       "2024-05-21": 852,
       "2024-05-04": 20
     }
@@ -358,8 +358,8 @@
     "status": "up",
     "uptime": "99.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.56%",
-    "uptimeMonth": "91.00%",
+    "uptimeWeek": "61.50%",
+    "uptimeMonth": "90.98%",
     "uptimeYear": "99.25%",
     "time": 1696,
     "timeDay": 894,
@@ -367,7 +367,7 @@
     "timeMonth": 1143,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2024-05-22": 1233,
+      "2024-05-22": 1239,
       "2024-05-21": 1440,
       "2024-05-20": 1202,
       "2024-05-04": 51,
