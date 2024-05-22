@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getFollowing?query=mouse11121&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 2584
-lastUpdated: 2024-05-22T12:44:35.305Z
+status: up
+code: 200
+responseTime: 7145
+lastUpdated: 2024-05-22T18:49:49.924Z
 startTime: 2022-10-29T22:41:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
