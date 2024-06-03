@@ -240,18 +240,16 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1437,
     "timeDay": 757,
     "timeWeek": 841,
     "timeMonth": 1795,
     "timeYear": 1378,
-    "dailyMinutesDown": {
-      "2024-06-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -447,7 +445,7 @@
     "time": 3869,
     "timeDay": 1029,
     "timeWeek": 4224,
-    "timeMonth": 5983,
+    "timeMonth": 5994,
     "timeYear": 4274,
     "dailyMinutesDown": {}
   },
@@ -492,17 +490,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4636,
-    "timeDay": 3439,
-    "timeWeek": 4118,
-    "timeMonth": 4285,
-    "timeYear": 4811,
+    "time": 4633,
+    "timeDay": 3264,
+    "timeWeek": 4000,
+    "timeMonth": 4253,
+    "timeYear": 4806,
     "dailyMinutesDown": {}
   },
   {
@@ -510,19 +508,19 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 3600,
-    "timeDay": 1605,
-    "timeWeek": 3836,
-    "timeMonth": 3502,
-    "timeYear": 3743,
+    "time": 3601,
+    "timeDay": 1929,
+    "timeWeek": 3722,
+    "timeMonth": 3483,
+    "timeYear": 3741,
     "dailyMinutesDown": {
-      "2024-06-03": 1
+      "2024-06-03": 12
     }
   },
   {
