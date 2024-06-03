@@ -259,18 +259,16 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1440,
     "timeDay": 643,
     "timeWeek": 811,
     "timeMonth": 1820,
     "timeYear": 1380,
-    "dailyMinutesDown": {
-      "2024-06-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -280,7 +278,7 @@
     "status": "up",
     "uptime": "95.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.22%",
+    "uptimeWeek": "19.88%",
     "uptimeMonth": "63.05%",
     "uptimeYear": "95.75%",
     "time": 1535,
@@ -492,7 +490,7 @@
     "time": 3869,
     "timeDay": 1029,
     "timeWeek": 4281,
-    "timeMonth": 6049,
+    "timeMonth": 6054,
     "timeYear": 4274,
     "dailyMinutesDown": {}
   },
@@ -585,7 +583,7 @@
     "timeDay": 1085,
     "timeWeek": 1071,
     "timeMonth": 1953,
-    "timeYear": 1868,
+    "timeYear": 1870,
     "dailyMinutesDown": {
       "2024-05-20": 17,
       "2024-05-06": 62,
