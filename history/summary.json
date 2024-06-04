@@ -13,7 +13,7 @@
     "time": 2205,
     "timeDay": 2993,
     "timeWeek": 1853,
-    "timeMonth": 2882,
+    "timeMonth": 2930,
     "timeYear": 2337,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 1550,
     "timeDay": 1287,
     "timeWeek": 1035,
-    "timeMonth": 1794,
+    "timeMonth": 1835,
     "timeYear": 1384,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 1433,
     "timeDay": 970,
     "timeWeek": 852,
-    "timeMonth": 1766,
+    "timeMonth": 1789,
     "timeYear": 1374,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 1528,
     "timeDay": 943,
     "timeWeek": 939,
-    "timeMonth": 1214,
+    "timeMonth": 1247,
     "timeYear": 1528,
     "dailyMinutesDown": {}
   },
@@ -328,18 +328,20 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1682,
-    "timeDay": 758,
-    "timeWeek": 817,
-    "timeMonth": 1085,
-    "timeYear": 1730,
-    "dailyMinutesDown": {}
+    "time": 1681,
+    "timeDay": 700,
+    "timeWeek": 786,
+    "timeMonth": 1034,
+    "timeYear": 1727,
+    "dailyMinutesDown": {
+      "2024-06-04": 1
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -355,7 +357,7 @@
     "time": 1828,
     "timeDay": 1008,
     "timeWeek": 1146,
-    "timeMonth": 1305,
+    "timeMonth": 1315,
     "timeYear": 1855,
     "dailyMinutesDown": {}
   },
@@ -373,7 +375,7 @@
     "time": 1715,
     "timeDay": 685,
     "timeWeek": 777,
-    "timeMonth": 1183,
+    "timeMonth": 1187,
     "timeYear": 1706,
     "dailyMinutesDown": {}
   },
@@ -391,7 +393,7 @@
     "time": 1859,
     "timeDay": 843,
     "timeWeek": 913,
-    "timeMonth": 1714,
+    "timeMonth": 1774,
     "timeYear": 1825,
     "dailyMinutesDown": {}
   },
@@ -444,8 +446,8 @@
     "uptimeYear": "100.00%",
     "time": 3869,
     "timeDay": 1633,
-    "timeWeek": 4197,
-    "timeMonth": 6010,
+    "timeWeek": 4150,
+    "timeMonth": 6006,
     "timeYear": 4275,
     "dailyMinutesDown": {}
   },
@@ -481,7 +483,7 @@
     "time": 1816,
     "timeDay": 1087,
     "timeWeek": 1057,
-    "timeMonth": 1621,
+    "timeMonth": 1662,
     "timeYear": 1909,
     "dailyMinutesDown": {}
   },
@@ -499,7 +501,7 @@
     "time": 4628,
     "timeDay": 2928,
     "timeWeek": 3828,
-    "timeMonth": 4091,
+    "timeMonth": 4271,
     "timeYear": 4790,
     "dailyMinutesDown": {}
   },
@@ -517,7 +519,7 @@
     "time": 3600,
     "timeDay": 1930,
     "timeWeek": 3744,
-    "timeMonth": 3486,
+    "timeMonth": 3565,
     "timeYear": 3741,
     "dailyMinutesDown": {}
   },
@@ -535,7 +537,7 @@
     "time": 1782,
     "timeDay": 4038,
     "timeWeek": 1510,
-    "timeMonth": 2038,
+    "timeMonth": 2088,
     "timeYear": 1900,
     "dailyMinutesDown": {}
   },
