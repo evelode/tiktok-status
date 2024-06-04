@@ -13,7 +13,7 @@
     "time": 2205,
     "timeDay": 2993,
     "timeWeek": 1853,
-    "timeMonth": 2930,
+    "timeMonth": 3109,
     "timeYear": 2337,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1463,
     "timeDay": 1480,
     "timeWeek": 1476,
-    "timeMonth": 1701,
+    "timeMonth": 1431,
     "timeYear": 1684,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 1550,
     "timeDay": 1287,
     "timeWeek": 1035,
-    "timeMonth": 1859,
+    "timeMonth": 1795,
     "timeYear": 1384,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 1433,
     "timeDay": 970,
     "timeWeek": 852,
-    "timeMonth": 1789,
+    "timeMonth": 1821,
     "timeYear": 1374,
     "dailyMinutesDown": {}
   },
@@ -330,18 +330,16 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1680,
     "timeDay": 765,
     "timeWeek": 793,
     "timeMonth": 1031,
     "timeYear": 1725,
-    "dailyMinutesDown": {
-      "2024-06-04": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -357,7 +355,7 @@
     "time": 1828,
     "timeDay": 1008,
     "timeWeek": 1146,
-    "timeMonth": 1285,
+    "timeMonth": 1175,
     "timeYear": 1855,
     "dailyMinutesDown": {}
   },
@@ -373,9 +371,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1715,
-    "timeDay": 685,
+    "timeDay": 688,
     "timeWeek": 777,
-    "timeMonth": 1187,
+    "timeMonth": 1193,
     "timeYear": 1706,
     "dailyMinutesDown": {}
   },
@@ -393,7 +391,7 @@
     "time": 1859,
     "timeDay": 843,
     "timeWeek": 913,
-    "timeMonth": 1774,
+    "timeMonth": 1805,
     "timeYear": 1825,
     "dailyMinutesDown": {}
   },
@@ -446,8 +444,8 @@
     "uptimeYear": "100.00%",
     "time": 3869,
     "timeDay": 1633,
-    "timeWeek": 4150,
-    "timeMonth": 6020,
+    "timeWeek": 4052,
+    "timeMonth": 6055,
     "timeYear": 4275,
     "dailyMinutesDown": {}
   },
@@ -483,7 +481,7 @@
     "time": 1816,
     "timeDay": 1087,
     "timeWeek": 1057,
-    "timeMonth": 1662,
+    "timeMonth": 1672,
     "timeYear": 1909,
     "dailyMinutesDown": {}
   },
@@ -499,9 +497,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4628,
-    "timeDay": 2928,
+    "timeDay": 3036,
     "timeWeek": 3828,
-    "timeMonth": 4271,
+    "timeMonth": 4392,
     "timeYear": 4790,
     "dailyMinutesDown": {}
   },
@@ -519,7 +517,7 @@
     "time": 3600,
     "timeDay": 1930,
     "timeWeek": 3744,
-    "timeMonth": 3565,
+    "timeMonth": 3664,
     "timeYear": 3741,
     "dailyMinutesDown": {}
   },
@@ -537,8 +535,8 @@
     "time": 1782,
     "timeDay": 4038,
     "timeWeek": 1510,
-    "timeMonth": 2088,
-    "timeYear": 1900,
+    "timeMonth": 2171,
+    "timeYear": 1904,
     "dailyMinutesDown": {}
   },
   {
@@ -546,17 +544,19 @@
     "url": "https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3578,
-    "timeDay": 2312,
-    "timeWeek": 2953,
-    "timeMonth": 2922,
-    "timeYear": 3647,
-    "dailyMinutesDown": {}
+    "time": 3571,
+    "timeDay": 1668,
+    "timeWeek": 2760,
+    "timeMonth": 2926,
+    "timeYear": 3646,
+    "dailyMinutesDown": {
+      "2024-06-04": 1
+    }
   }
 ]
