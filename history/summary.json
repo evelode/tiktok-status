@@ -330,18 +330,20 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 941,
-    "timeWeek": 796,
-    "timeMonth": 924,
-    "timeYear": 1724,
-    "dailyMinutesDown": {}
+    "time": 1678,
+    "timeDay": 655,
+    "timeWeek": 769,
+    "timeMonth": 911,
+    "timeYear": 1721,
+    "dailyMinutesDown": {
+      "2024-06-05": 1
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
@@ -447,7 +449,7 @@
     "time": 3877,
     "timeDay": 3930,
     "timeWeek": 3984,
-    "timeMonth": 6015,
+    "timeMonth": 6040,
     "timeYear": 4277,
     "dailyMinutesDown": {}
   },
@@ -499,7 +501,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4628,
-    "timeDay": 3476,
+    "timeDay": 3588,
     "timeWeek": 3758,
     "timeMonth": 4412,
     "timeYear": 4769,
