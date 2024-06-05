@@ -13,7 +13,7 @@
     "time": 2205,
     "timeDay": 1438,
     "timeWeek": 1837,
-    "timeMonth": 3185,
+    "timeMonth": 3308,
     "timeYear": 2338,
     "dailyMinutesDown": {}
   },
@@ -158,7 +158,7 @@
     "timeDay": 2941,
     "timeWeek": 3920,
     "timeMonth": 3909,
-    "timeYear": 4227,
+    "timeYear": 4221,
     "dailyMinutesDown": {}
   },
   {
@@ -220,17 +220,17 @@
     "url": "https://tiktok.evelode.com/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-get-user-info-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1549,
-    "timeDay": 944,
-    "timeWeek": 1012,
-    "timeMonth": 1794,
-    "timeYear": 1383,
+    "time": 1546,
+    "timeDay": 671,
+    "timeWeek": 961,
+    "timeMonth": 1805,
+    "timeYear": 1380,
     "dailyMinutesDown": {}
   },
   {
@@ -247,7 +247,7 @@
     "time": 1432,
     "timeDay": 921,
     "timeWeek": 853,
-    "timeMonth": 1822,
+    "timeMonth": 1901,
     "timeYear": 1372,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 1524,
     "timeDay": 1074,
     "timeWeek": 959,
-    "timeMonth": 1262,
+    "timeMonth": 1285,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2024-06-04": 19
@@ -284,7 +284,7 @@
     "uptimeYear": "100.00%",
     "time": 2853,
     "timeDay": 2487,
-    "timeWeek": 3190,
+    "timeWeek": 2580,
     "timeMonth": 4084,
     "timeYear": 3080,
     "dailyMinutesDown": {}
@@ -337,9 +337,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1680,
-    "timeDay": 740,
+    "timeDay": 941,
     "timeWeek": 796,
-    "timeMonth": 1025,
+    "timeMonth": 924,
     "timeYear": 1724,
     "dailyMinutesDown": {}
   },
@@ -357,7 +357,7 @@
     "time": 1827,
     "timeDay": 1100,
     "timeWeek": 1145,
-    "timeMonth": 1176,
+    "timeMonth": 1185,
     "timeYear": 1853,
     "dailyMinutesDown": {}
   },
@@ -393,7 +393,7 @@
     "time": 1858,
     "timeDay": 918,
     "timeWeek": 912,
-    "timeMonth": 1803,
+    "timeMonth": 1842,
     "timeYear": 1823,
     "dailyMinutesDown": {}
   },
@@ -483,7 +483,7 @@
     "time": 1815,
     "timeDay": 1245,
     "timeWeek": 1062,
-    "timeMonth": 1674,
+    "timeMonth": 1734,
     "timeYear": 1905,
     "dailyMinutesDown": {}
   },
@@ -501,7 +501,7 @@
     "time": 4627,
     "timeDay": 3431,
     "timeWeek": 3741,
-    "timeMonth": 4360,
+    "timeMonth": 4443,
     "timeYear": 4776,
     "dailyMinutesDown": {}
   },
@@ -519,7 +519,7 @@
     "time": 3602,
     "timeDay": 3655,
     "timeWeek": 3757,
-    "timeMonth": 3687,
+    "timeMonth": 3786,
     "timeYear": 3742,
     "dailyMinutesDown": {}
   },
@@ -537,7 +537,7 @@
     "time": 1782,
     "timeDay": 1034,
     "timeWeek": 1508,
-    "timeMonth": 2238,
+    "timeMonth": 2292,
     "timeYear": 1913,
     "dailyMinutesDown": {}
   },
