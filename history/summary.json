@@ -140,7 +140,7 @@
     "timeDay": 1887,
     "timeWeek": 1564,
     "timeMonth": 2709,
-    "timeYear": 2551,
+    "timeYear": 2533,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 2941,
     "timeWeek": 3920,
     "timeMonth": 3909,
-    "timeYear": 4216,
+    "timeYear": 4214,
     "dailyMinutesDown": {}
   },
   {
@@ -302,7 +302,7 @@
     "uptimeYear": "100.00%",
     "time": 3109,
     "timeDay": 2600,
-    "timeWeek": 3478,
+    "timeWeek": 2710,
     "timeMonth": 4001,
     "timeYear": 3442,
     "dailyMinutesDown": {}
@@ -447,7 +447,7 @@
     "time": 3877,
     "timeDay": 3930,
     "timeWeek": 3984,
-    "timeMonth": 6015,
+    "timeMonth": 6004,
     "timeYear": 4277,
     "dailyMinutesDown": {}
   },
@@ -492,17 +492,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4626,
-    "timeDay": 3401,
-    "timeWeek": 3722,
-    "timeMonth": 4420,
-    "timeYear": 4772,
+    "time": 4625,
+    "timeDay": 3285,
+    "timeWeek": 3689,
+    "timeMonth": 4397,
+    "timeYear": 4769,
     "dailyMinutesDown": {}
   },
   {
@@ -548,13 +548,13 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 3569,
-    "timeDay": 1687,
-    "timeWeek": 2525,
+    "timeDay": 1709,
+    "timeWeek": 2044,
     "timeMonth": 2848,
     "timeYear": 3642,
     "dailyMinutesDown": {
