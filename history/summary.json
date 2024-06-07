@@ -158,7 +158,7 @@
     "timeDay": 5967,
     "timeWeek": 4405,
     "timeMonth": 4158,
-    "timeYear": 4206,
+    "timeYear": 4203,
     "dailyMinutesDown": {}
   },
   {
@@ -256,19 +256,19 @@
     "url": "https://tiktok.evelode.com/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1530,
-    "timeDay": 678,
-    "timeWeek": 1218,
-    "timeMonth": 1314,
-    "timeYear": 1530,
+    "time": 1537,
+    "timeDay": 1731,
+    "timeWeek": 1349,
+    "timeMonth": 1366,
+    "timeYear": 1537,
     "dailyMinutesDown": {
-      "2024-06-07": 1,
+      "2024-06-07": 6,
       "2024-06-04": 19
     }
   },
@@ -493,17 +493,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4633,
-    "timeDay": 4256,
-    "timeWeek": 3505,
-    "timeMonth": 4480,
-    "timeYear": 4756,
+    "timeDay": 4241,
+    "timeWeek": 3515,
+    "timeMonth": 4477,
+    "timeYear": 4755,
     "dailyMinutesDown": {}
   },
   {
@@ -521,7 +521,7 @@
     "timeDay": 6784,
     "timeWeek": 3792,
     "timeMonth": 4039,
-    "timeYear": 3745,
+    "timeYear": 3746,
     "dailyMinutesDown": {}
   },
   {
@@ -539,7 +539,7 @@
     "timeDay": 1046,
     "timeWeek": 1365,
     "timeMonth": 2253,
-    "timeYear": 1890,
+    "timeYear": 1888,
     "dailyMinutesDown": {}
   },
   {
