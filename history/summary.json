@@ -140,7 +140,7 @@
     "timeDay": 4013,
     "timeWeek": 1922,
     "timeMonth": 2772,
-    "timeYear": 2533,
+    "timeYear": 2515,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 5967,
     "timeWeek": 4405,
     "timeMonth": 4158,
-    "timeYear": 4226,
+    "timeYear": 4218,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 1849,
     "timeWeek": 1653,
     "timeMonth": 2612,
-    "timeYear": 2382,
+    "timeYear": 2371,
     "dailyMinutesDown": {}
   },
   {
@@ -245,7 +245,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1427,
-    "timeDay": 974,
+    "timeDay": 1447,
     "timeWeek": 865,
     "timeMonth": 1875,
     "timeYear": 1368,
@@ -257,11 +257,11 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1534,
     "timeDay": 992,
     "timeWeek": 1266,
@@ -445,8 +445,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3948,
-    "timeDay": 6016,
-    "timeWeek": 4938,
+    "timeDay": 6491,
+    "timeWeek": 4952,
     "timeMonth": 6033,
     "timeYear": 4310,
     "dailyMinutesDown": {}
@@ -492,17 +492,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4637,
-    "timeDay": 6628,
-    "timeWeek": 3591,
-    "timeMonth": 4553,
-    "timeYear": 4768,
+    "time": 4635,
+    "timeDay": 5410,
+    "timeWeek": 3559,
+    "timeMonth": 4527,
+    "timeYear": 4763,
     "dailyMinutesDown": {}
   },
   {
@@ -520,7 +520,7 @@
     "timeDay": 6784,
     "timeWeek": 3792,
     "timeMonth": 4039,
-    "timeYear": 3759,
+    "timeYear": 3756,
     "dailyMinutesDown": {}
   },
   {
@@ -538,7 +538,7 @@
     "timeDay": 1046,
     "timeWeek": 1365,
     "timeMonth": 2253,
-    "timeYear": 1912,
+    "timeYear": 1901,
     "dailyMinutesDown": {}
   },
   {
@@ -556,7 +556,7 @@
     "timeDay": 2089,
     "timeWeek": 1982,
     "timeMonth": 2919,
-    "timeYear": 3641,
+    "timeYear": 3640,
     "dailyMinutesDown": {
       "2024-06-04": 16
     }
