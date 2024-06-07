@@ -140,7 +140,7 @@
     "timeDay": 4013,
     "timeWeek": 1922,
     "timeMonth": 2772,
-    "timeYear": 2515,
+    "timeYear": 2501,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 5967,
     "timeWeek": 4405,
     "timeMonth": 4158,
-    "timeYear": 4218,
+    "timeYear": 4206,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 1849,
     "timeWeek": 1653,
     "timeMonth": 2612,
-    "timeYear": 2371,
+    "timeYear": 2349,
     "dailyMinutesDown": {}
   },
   {
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1543,
     "timeDay": 1382,
-    "timeWeek": 982,
+    "timeWeek": 1034,
     "timeMonth": 1799,
     "timeYear": 1378,
     "dailyMinutesDown": {}
@@ -256,18 +256,19 @@
     "url": "https://tiktok.evelode.com/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 1534,
-    "timeDay": 992,
-    "timeWeek": 1266,
-    "timeMonth": 1334,
-    "timeYear": 1534,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1530,
+    "timeDay": 678,
+    "timeWeek": 1218,
+    "timeMonth": 1314,
+    "timeYear": 1530,
     "dailyMinutesDown": {
+      "2024-06-07": 1,
       "2024-06-04": 19
     }
   },
@@ -482,7 +483,7 @@
     "uptimeYear": "100.00%",
     "time": 1815,
     "timeDay": 1047,
-    "timeWeek": 1110,
+    "timeWeek": 1158,
     "timeMonth": 1790,
     "timeYear": 1900,
     "dailyMinutesDown": {}
@@ -492,17 +493,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4636,
-    "timeDay": 5035,
-    "timeWeek": 3559,
-    "timeMonth": 4518,
-    "timeYear": 4761,
+    "time": 4633,
+    "timeDay": 4256,
+    "timeWeek": 3505,
+    "timeMonth": 4480,
+    "timeYear": 4756,
     "dailyMinutesDown": {}
   },
   {
@@ -520,7 +521,7 @@
     "timeDay": 6784,
     "timeWeek": 3792,
     "timeMonth": 4039,
-    "timeYear": 3756,
+    "timeYear": 3745,
     "dailyMinutesDown": {}
   },
   {
@@ -538,7 +539,7 @@
     "timeDay": 1046,
     "timeWeek": 1365,
     "timeMonth": 2253,
-    "timeYear": 1901,
+    "timeYear": 1890,
     "dailyMinutesDown": {}
   },
   {
@@ -556,7 +557,7 @@
     "timeDay": 2089,
     "timeWeek": 1982,
     "timeMonth": 2919,
-    "timeYear": 3640,
+    "timeYear": 3636,
     "dailyMinutesDown": {
       "2024-06-04": 16
     }
