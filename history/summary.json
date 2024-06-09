@@ -238,18 +238,20 @@
     "url": "https://tiktok.evelode.com/getUserInfoByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1429,
-    "timeDay": 972,
-    "timeWeek": 978,
-    "timeMonth": 1910,
-    "timeYear": 1371,
-    "dailyMinutesDown": {}
+    "time": 1428,
+    "timeDay": 959,
+    "timeWeek": 976,
+    "timeMonth": 1892,
+    "timeYear": 1369,
+    "dailyMinutesDown": {
+      "2024-06-09": 1
+    }
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -445,7 +447,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3963,
-    "timeDay": 5134,
+    "timeDay": 2458,
     "timeWeek": 5022,
     "timeMonth": 6016,
     "timeYear": 4316,
@@ -501,7 +503,7 @@
     "time": 4621,
     "timeDay": 3192,
     "timeWeek": 3391,
-    "timeMonth": 4279,
+    "timeMonth": 4231,
     "timeYear": 4727,
     "dailyMinutesDown": {}
   },
@@ -519,7 +521,7 @@
     "time": 3657,
     "timeDay": 3038,
     "timeWeek": 5318,
-    "timeMonth": 4461,
+    "timeMonth": 4308,
     "timeYear": 3778,
     "dailyMinutesDown": {}
   },
@@ -555,7 +557,7 @@
     "time": 3565,
     "timeDay": 2830,
     "timeWeek": 2361,
-    "timeMonth": 3019,
+    "timeMonth": 2791,
     "timeYear": 3637,
     "dailyMinutesDown": {
       "2024-06-04": 16
