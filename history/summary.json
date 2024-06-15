@@ -6,18 +6,16 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2214,
     "timeDay": 3138,
     "timeWeek": 2120,
     "timeMonth": 3034,
     "timeYear": 2335,
-    "dailyMinutesDown": {
-      "2024-06-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getNoWatermarkUrlByID - Get non watermarked video url by video ID",
@@ -96,19 +94,19 @@
     "url": "https://tiktok.evelode.com/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 3260,
-    "timeDay": 7197,
-    "timeWeek": 2956,
-    "timeMonth": 2735,
-    "timeYear": 3428,
+    "timeDay": 5652,
+    "timeWeek": 2926,
+    "timeMonth": 2731,
+    "timeYear": 3426,
     "dailyMinutesDown": {
-      "2024-06-15": 3
+      "2024-06-15": 4
     }
   },
   {
@@ -550,17 +548,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3565,
     "timeDay": 3874,
     "timeWeek": 2648,
     "timeMonth": 2842,
     "timeYear": 3634,
-    "dailyMinutesDown": {
-      "2024-06-15": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
