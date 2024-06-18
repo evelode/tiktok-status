@@ -148,19 +148,19 @@
     "url": "https://tiktok.evelode.com/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 4269,
-    "timeDay": 5498,
-    "timeWeek": 3713,
-    "timeMonth": 4107,
-    "timeYear": 4161,
+    "time": 4265,
+    "timeDay": 6088,
+    "timeWeek": 4059,
+    "timeMonth": 4182,
+    "timeYear": 4168,
     "dailyMinutesDown": {
-      "2024-06-18": 30
+      "2024-06-18": 32
     }
   },
   {
@@ -296,18 +296,16 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3100,
     "timeDay": 4434,
     "timeWeek": 3079,
     "timeMonth": 3880,
     "timeYear": 3441,
-    "dailyMinutesDown": {
-      "2024-06-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
