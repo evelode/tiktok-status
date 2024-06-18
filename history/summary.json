@@ -260,9 +260,9 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1519,
     "timeDay": 1134,
@@ -270,7 +270,7 @@
     "timeMonth": 1375,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2024-06-18": 14
+      "2024-06-18": 20
     }
   },
   {
@@ -298,18 +298,16 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3114,
     "timeDay": 5257,
     "timeWeek": 3604,
     "timeMonth": 3987,
     "timeYear": 3452,
-    "dailyMinutesDown": {
-      "2024-06-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -514,18 +512,20 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3719,
-    "timeDay": 7068,
-    "timeWeek": 5050,
-    "timeMonth": 4686,
-    "timeYear": 3789,
-    "dailyMinutesDown": {}
+    "time": 3728,
+    "timeDay": 7254,
+    "timeWeek": 5266,
+    "timeMonth": 4762,
+    "timeYear": 3798,
+    "dailyMinutesDown": {
+      "2024-06-18": 2
+    }
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
