@@ -276,17 +276,17 @@
     "url": "https://tiktok.evelode.com/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2898,
-    "timeDay": 6422,
-    "timeWeek": 3930,
-    "timeMonth": 4242,
-    "timeYear": 3108,
+    "time": 2905,
+    "timeDay": 6252,
+    "timeWeek": 4056,
+    "timeMonth": 4269,
+    "timeYear": 3113,
     "dailyMinutesDown": {}
   },
   {
@@ -512,18 +512,16 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3707,
     "timeDay": 7018,
     "timeWeek": 4758,
     "timeMonth": 4589,
     "timeYear": 3777,
-    "dailyMinutesDown": {
-      "2024-06-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
