@@ -113,18 +113,18 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.70%",
-    "uptimeYear": "97.64%",
+    "uptimeMonth": "70.28%",
+    "uptimeYear": "97.52%",
     "time": 2959,
     "timeDay": 1879,
     "timeWeek": 2087,
     "timeMonth": 2256,
     "timeYear": 3028,
     "dailyMinutesDown": {
-      "2024-06-27": 38,
+      "2024-06-27": 660,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -151,7 +151,7 @@
     "timeDay": 1674,
     "timeWeek": 1785,
     "timeMonth": 1854,
-    "timeYear": 2291,
+    "timeYear": 2271,
     "dailyMinutesDown": {}
   },
   {
@@ -169,7 +169,7 @@
     "timeDay": 2753,
     "timeWeek": 3065,
     "timeMonth": 4169,
-    "timeYear": 4068,
+    "timeYear": 4057,
     "dailyMinutesDown": {
       "2024-06-18": 30
     }
@@ -189,7 +189,7 @@
     "timeDay": 1695,
     "timeWeek": 2015,
     "timeMonth": 1926,
-    "timeYear": 2225,
+    "timeYear": 2207,
     "dailyMinutesDown": {}
   },
   {
@@ -270,18 +270,18 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "96.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.63%",
-    "uptimeYear": "97.01%",
+    "uptimeMonth": "70.21%",
+    "uptimeYear": "96.86%",
     "time": 1506,
     "timeDay": 910,
     "timeWeek": 926,
     "timeMonth": 1181,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2024-06-27": 38,
+      "2024-06-27": 660,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -442,17 +442,17 @@
     "url": "https://tiktok.evelode.com/getFollowersByID?user_id=6950548150479684610&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-followers-by-id-get-user-followers-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2312,
-    "timeDay": 1542,
-    "timeWeek": 1579,
-    "timeMonth": 1607,
-    "timeYear": 2350,
+    "time": 2318,
+    "timeDay": 5708,
+    "timeWeek": 2616,
+    "timeMonth": 1837,
+    "timeYear": 2356,
     "dailyMinutesDown": {}
   },
   {
@@ -469,7 +469,7 @@
     "time": 3957,
     "timeDay": 1131,
     "timeWeek": 1182,
-    "timeMonth": 3777,
+    "timeMonth": 3754,
     "timeYear": 4307,
     "dailyMinutesDown": {}
   },
@@ -542,7 +542,7 @@
     "timeDay": 2805,
     "timeWeek": 2824,
     "timeMonth": 4534,
-    "timeYear": 3776,
+    "timeYear": 3773,
     "dailyMinutesDown": {}
   },
   {
@@ -556,11 +556,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1785,
+    "time": 1855,
     "timeDay": 998,
     "timeWeek": 1362,
     "timeMonth": 1505,
-    "timeYear": 1778,
+    "timeYear": 1770,
     "dailyMinutesDown": {}
   },
   {
