@@ -22,17 +22,17 @@
     "url": "https://tiktok.evelode.com/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1544,
-    "timeDay": 1394,
-    "timeWeek": 1425,
-    "timeMonth": 1405,
-    "timeYear": 1780,
+    "time": 1576,
+    "timeDay": 10368,
+    "timeWeek": 3665,
+    "timeMonth": 1983,
+    "timeYear": 1818,
     "dailyMinutesDown": {}
   },
   {
@@ -40,37 +40,39 @@
     "url": "https://tiktok.evelode.com/getVideoByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-video-by-id-get-video-info-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1751,
-    "timeDay": 1340,
-    "timeWeek": 1425,
-    "timeMonth": 1441,
-    "timeYear": 1687,
-    "dailyMinutesDown": {}
+    "time": 1767,
+    "timeDay": 6335,
+    "timeWeek": 2663,
+    "timeMonth": 1760,
+    "timeYear": 1710,
+    "dailyMinutesDown": {
+      "2024-07-24": 5
+    }
   },
   {
     "name": "/getVideoByUrl - Get video info by URL",
     "url": "https://tiktok.evelode.com/getVideoByUrl?video_url=https://www.tiktok.com/@therock/video/7106855913906081070%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-video-by-url-get-video-info-by-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1774,
-    "timeDay": 6500,
-    "timeWeek": 2802,
-    "timeMonth": 1837,
-    "timeYear": 1854,
+    "time": 1796,
+    "timeDay": 9343,
+    "timeWeek": 4161,
+    "timeMonth": 2249,
+    "timeYear": 1884,
     "dailyMinutesDown": {
-      "2024-07-24": 15
+      "2024-07-24": 25
     }
   },
   {
@@ -118,7 +120,7 @@
     "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.83%",
+    "uptimeMonth": "51.87%",
     "uptimeYear": "94.40%",
     "time": 3002,
     "timeDay": 1780,
@@ -294,7 +296,7 @@
     "timeMonth": 1077,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-07-24": 302,
+      "2024-07-24": 318,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -610,17 +612,15 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3571,
     "timeDay": 5885,
     "timeWeek": 3484,
     "timeMonth": 2568,
     "timeYear": 3596,
-    "dailyMinutesDown": {
-      "2024-07-24": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
