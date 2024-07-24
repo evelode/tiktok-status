@@ -116,7 +116,7 @@
     "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.64%",
+    "uptimeMonth": "51.68%",
     "uptimeYear": "94.40%",
     "time": 3002,
     "timeDay": 1780,
@@ -262,18 +262,20 @@
     "url": "https://tiktok.evelode.com/getUserInfoByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1372,
-    "timeDay": 1072,
-    "timeWeek": 1081,
-    "timeMonth": 973,
-    "timeYear": 1316,
-    "dailyMinutesDown": {}
+    "time": 1384,
+    "timeDay": 3716,
+    "timeWeek": 1741,
+    "timeMonth": 1146,
+    "timeYear": 1329,
+    "dailyMinutesDown": {
+      "2024-07-24": 3
+    }
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -292,7 +294,7 @@
     "timeMonth": 1077,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-07-24": 217,
+      "2024-07-24": 236,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
