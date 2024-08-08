@@ -148,19 +148,19 @@
     "url": "https://tiktok.evelode.com/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-video-search-for-video-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4113,
-    "timeDay": 5662,
-    "timeWeek": 4142,
-    "timeMonth": 3366,
+    "time": 4110,
+    "timeDay": 5292,
+    "timeWeek": 4112,
+    "timeMonth": 3379,
     "timeYear": 4005,
     "dailyMinutesDown": {
-      "2024-08-08": 1
+      "2024-08-08": 5
     }
   },
   {
