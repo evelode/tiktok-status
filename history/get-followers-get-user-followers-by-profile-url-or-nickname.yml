@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getFollowers?query=diana_abissinian_cat&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 11661
-lastUpdated: 2024-08-15T09:51:26.229Z
+status: up
+code: 200
+responseTime: 1569
+lastUpdated: 2024-08-15T09:59:38.083Z
 startTime: 2022-10-29T22:41:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
