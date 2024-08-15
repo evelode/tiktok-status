@@ -296,18 +296,20 @@
     "url": "https://tiktok.evelode.com/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3361,
+    "time": 3362,
     "timeDay": 1499,
     "timeWeek": 2309,
     "timeMonth": 2482,
     "timeYear": 3407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-15": 1
+    }
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
