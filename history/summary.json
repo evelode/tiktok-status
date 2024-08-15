@@ -104,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 1907,
     "timeMonth": 2011,
-    "timeYear": 3056,
+    "timeYear": 3012,
     "dailyMinutesDown": {}
   },
   {
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 4064,
     "timeDay": 0,
-    "timeWeek": 4044,
+    "timeWeek": 3677,
     "timeMonth": 3373,
     "timeYear": 3993,
     "dailyMinutesDown": {}
@@ -176,7 +176,7 @@
     "timeDay": 0,
     "timeWeek": 1894,
     "timeMonth": 1992,
-    "timeYear": 2130,
+    "timeYear": 2129,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 0,
     "timeWeek": 2905,
     "timeMonth": 2854,
-    "timeYear": 2357,
+    "timeYear": 2343,
     "dailyMinutesDown": {}
   },
   {
@@ -276,13 +276,13 @@
     "url": "https://tiktok.evelode.com/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2989,
+    "time": 2991,
     "timeDay": 0,
     "timeWeek": 2542,
     "timeMonth": 2528,
@@ -412,7 +412,7 @@
     "timeDay": 0,
     "timeWeek": 1703,
     "timeMonth": 1902,
-    "timeYear": 2373,
+    "timeYear": 2370,
     "dailyMinutesDown": {}
   },
   {
@@ -498,11 +498,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4785,
+    "time": 4742,
     "timeDay": 0,
-    "timeWeek": 5022,
+    "timeWeek": 4205,
     "timeMonth": 5415,
-    "timeYear": 4846,
+    "timeYear": 4843,
     "dailyMinutesDown": {}
   },
   {
@@ -510,18 +510,20 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3725,
+    "time": 3727,
     "timeDay": 0,
     "timeWeek": 3054,
     "timeMonth": 3087,
-    "timeYear": 3790,
-    "dailyMinutesDown": {}
+    "timeYear": 3784,
+    "dailyMinutesDown": {
+      "2024-08-15": 2
+    }
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
