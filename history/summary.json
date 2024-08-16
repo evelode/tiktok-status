@@ -122,7 +122,7 @@
     "timeDay": 3943,
     "timeWeek": 2647,
     "timeMonth": 2285,
-    "timeYear": 2596,
+    "timeYear": 2588,
     "dailyMinutesDown": {}
   },
   {
@@ -150,9 +150,9 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "15.90%",
-    "uptimeWeek": "87.99%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "15.65%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "99.77%",
     "time": 4044,
     "timeDay": 3019,
@@ -160,7 +160,7 @@
     "timeMonth": 3348,
     "timeYear": 3985,
     "dailyMinutesDown": {
-      "2024-08-16": 351,
+      "2024-08-16": 355,
       "2024-08-15": 860
     }
   },
@@ -262,18 +262,18 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "17.05%",
-    "uptimeWeek": "88.15%",
+    "uptime": "99.75%",
+    "uptimeDay": "16.80%",
+    "uptimeWeek": "88.11%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.75%",
     "time": 1477,
     "timeDay": 1095,
     "timeWeek": 1585,
     "timeMonth": 1371,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-08-16": 351,
+      "2024-08-16": 355,
       "2024-08-15": 843
     }
   },
@@ -282,17 +282,17 @@
     "url": "https://tiktok.evelode.com/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3014,
-    "timeDay": 5143,
-    "timeWeek": 3693,
-    "timeMonth": 2836,
-    "timeYear": 3223,
+    "time": 3015,
+    "timeDay": 4614,
+    "timeWeek": 3573,
+    "timeMonth": 2826,
+    "timeYear": 3221,
     "dailyMinutesDown": {}
   },
   {
