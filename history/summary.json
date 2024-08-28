@@ -565,17 +565,19 @@
     "url": "https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3554,
-    "timeDay": 2248,
-    "timeWeek": 2522,
-    "timeMonth": 2387,
-    "timeYear": 3547,
-    "dailyMinutesDown": {}
+    "time": 3553,
+    "timeDay": 4916,
+    "timeWeek": 3155,
+    "timeMonth": 2554,
+    "timeYear": 3550,
+    "dailyMinutesDown": {
+      "2024-08-28": 1
+    }
   }
 ]
