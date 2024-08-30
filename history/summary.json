@@ -94,18 +94,20 @@
     "url": "https://tiktok.evelode.com/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3290,
-    "timeDay": 1831,
-    "timeWeek": 1928,
-    "timeMonth": 2055,
-    "timeYear": 2482,
-    "dailyMinutesDown": {}
+    "time": 3302,
+    "timeDay": 6002,
+    "timeWeek": 2959,
+    "timeMonth": 2317,
+    "timeYear": 2501,
+    "dailyMinutesDown": {
+      "2024-08-30": 1
+    }
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
@@ -158,7 +160,7 @@
     "timeDay": 2751,
     "timeWeek": 2967,
     "timeMonth": 3461,
-    "timeYear": 3864,
+    "timeYear": 3848,
     "dailyMinutesDown": {
       "2024-08-21": 527,
       "2024-08-20": 1440,
@@ -184,7 +186,7 @@
     "timeDay": 1869,
     "timeWeek": 1798,
     "timeMonth": 2663,
-    "timeYear": 2133,
+    "timeYear": 2106,
     "dailyMinutesDown": {}
   },
   {
@@ -202,7 +204,7 @@
     "timeDay": 2724,
     "timeWeek": 2714,
     "timeMonth": 2807,
-    "timeYear": 2057,
+    "timeYear": 2028,
     "dailyMinutesDown": {}
   },
   {
@@ -220,7 +222,7 @@
     "timeDay": 1115,
     "timeWeek": 1135,
     "timeMonth": 1670,
-    "timeYear": 1618,
+    "timeYear": 1589,
     "dailyMinutesDown": {
       "2024-08-06": 16
     }
