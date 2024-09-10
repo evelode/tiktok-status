@@ -174,19 +174,19 @@
     "url": "https://tiktok.evelode.com/searchMusic?keyword=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "search-music-search-for-music-by-keyword",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2374,
-    "timeDay": 4346,
-    "timeWeek": 2429,
-    "timeMonth": 2728,
-    "timeYear": 2157,
+    "time": 2375,
+    "timeDay": 3767,
+    "timeWeek": 2449,
+    "timeMonth": 2724,
+    "timeYear": 2158,
     "dailyMinutesDown": {
-      "2024-09-10": 1
+      "2024-09-10": 5
     }
   },
   {
