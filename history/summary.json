@@ -13,7 +13,7 @@
     "time": 2341,
     "timeDay": 1558,
     "timeWeek": 1824,
-    "timeMonth": 2022,
+    "timeMonth": 1760,
     "timeYear": 2180,
     "dailyMinutesDown": {}
   },
@@ -31,8 +31,8 @@
     "time": 1830,
     "timeDay": 1456,
     "timeWeek": 2995,
-    "timeMonth": 2694,
-    "timeYear": 1842,
+    "timeMonth": 2265,
+    "timeYear": 1840,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "time": 1786,
     "timeDay": 1391,
     "timeWeek": 1374,
-    "timeMonth": 1530,
-    "timeYear": 1676,
+    "timeMonth": 1388,
+    "timeYear": 1673,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 1362,
     "timeWeek": 1336,
     "timeMonth": 1589,
-    "timeYear": 1705,
+    "timeYear": 1702,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 1783,
     "timeWeek": 1814,
     "timeMonth": 2168,
-    "timeYear": 2437,
+    "timeYear": 2436,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 1926,
     "timeWeek": 1784,
     "timeMonth": 1952,
-    "timeYear": 2276,
+    "timeYear": 2274,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 2415,
     "timeDay": 1748,
     "timeWeek": 1633,
-    "timeMonth": 2038,
+    "timeMonth": 1907,
     "timeYear": 2089,
     "dailyMinutesDown": {}
   },
@@ -152,12 +152,12 @@
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.89%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 3928,
     "timeDay": 3119,
     "timeWeek": 2878,
-    "timeMonth": 3107,
+    "timeMonth": 2949,
     "timeYear": 3852,
     "dailyMinutesDown": {
       "2024-08-21": 527,
@@ -219,7 +219,7 @@
     "time": 1754,
     "timeDay": 1362,
     "timeWeek": 1157,
-    "timeMonth": 1503,
+    "timeMonth": 1195,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2024-08-06": 16
@@ -270,12 +270,12 @@
     "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 1463,
     "timeDay": 1140,
     "timeWeek": 1000,
-    "timeMonth": 1357,
+    "timeMonth": 1058,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-08-21": 540,
@@ -547,18 +547,20 @@
     "url": "https://tiktok.evelode.com/getMusicInfo?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1747,
-    "timeDay": 2042,
-    "timeWeek": 1131,
-    "timeMonth": 1247,
-    "timeYear": 1680,
-    "dailyMinutesDown": {}
+    "time": 1752,
+    "timeDay": 4047,
+    "timeWeek": 1746,
+    "timeMonth": 1397,
+    "timeYear": 1690,
+    "dailyMinutesDown": {
+      "2024-09-21": 1
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
