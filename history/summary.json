@@ -319,16 +319,19 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 3411,
     "timeDay": 18739,
     "timeWeek": 6509,
     "timeMonth": 3501,
     "timeYear": 3349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-28": 1,
+      "2024-09-27": 9
+    }
   },
   {
     "name": "/getUserID - Get user ID by profile URL or nickname",
@@ -533,19 +536,19 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.77%",
-    "time": 3802,
-    "timeDay": 8712,
-    "timeWeek": 4732,
-    "timeMonth": 3499,
-    "timeYear": 3787,
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.76%",
+    "time": 3804,
+    "timeDay": 7129,
+    "timeWeek": 4497,
+    "timeMonth": 3468,
+    "timeYear": 3785,
     "dailyMinutesDown": {
-      "2024-09-27": 20,
+      "2024-09-27": 30,
       "2024-08-16": 350,
       "2024-08-15": 855
     }
@@ -575,9 +578,9 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 3567,
     "timeDay": 8156,
@@ -585,7 +588,8 @@
     "timeMonth": 3610,
     "timeYear": 3594,
     "dailyMinutesDown": {
-      "2024-09-27": 18,
+      "2024-09-28": 2,
+      "2024-09-27": 23,
       "2024-09-22": 16
     }
   }
