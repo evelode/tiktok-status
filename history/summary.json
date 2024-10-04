@@ -508,10 +508,10 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3825,
@@ -519,7 +519,9 @@
     "timeWeek": 5809,
     "timeMonth": 3982,
     "timeYear": 3669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-04": 1
+    }
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
