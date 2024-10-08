@@ -103,9 +103,9 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 3254,
     "timeDay": 4941,
@@ -113,7 +113,7 @@
     "timeMonth": 2886,
     "timeYear": 2478,
     "dailyMinutesDown": {
-      "2024-10-08": 34,
+      "2024-10-08": 62,
       "2024-10-04": 56
     }
   },
@@ -314,9 +314,9 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 3444,
     "timeDay": 5397,
@@ -324,7 +324,7 @@
     "timeMonth": 4094,
     "timeYear": 3311,
     "dailyMinutesDown": {
-      "2024-10-08": 46,
+      "2024-10-08": 74,
       "2024-10-04": 40
     }
   },
@@ -551,18 +551,20 @@
     "url": "https://tiktok.evelode.com/getMusicInfo?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-info-get-music-info-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1709,
+    "time": 1710,
     "timeDay": 4252,
     "timeWeek": 1482,
     "timeMonth": 1652,
     "timeYear": 1694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 1
+    }
   },
   {
     "name": "/getMusicFeed - Get music feed by URL or ID",
