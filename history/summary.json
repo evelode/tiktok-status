@@ -6,17 +6,17 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 2345,
     "timeDay": 1639,
     "timeWeek": 1573,
     "timeMonth": 3690,
     "timeYear": 2347,
     "dailyMinutesDown": {
-      "2024-12-08": 21
+      "2024-12-08": 36
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://tiktok.evelode.com/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2184,
-    "timeDay": 13554,
-    "timeWeek": 4429,
-    "timeMonth": 2809,
-    "timeYear": 2221,
+    "time": 2185,
+    "timeDay": 9528,
+    "timeWeek": 4100,
+    "timeMonth": 2791,
+    "timeYear": 2220,
     "dailyMinutesDown": {}
   },
   {
@@ -44,17 +44,17 @@
     "slug": "get-video-by-id-get-video-info-by-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1726,
     "timeDay": 1596,
     "timeWeek": 1379,
     "timeMonth": 1413,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2024-12-08": 18
+      "2024-12-08": 33
     }
   },
   {
@@ -100,17 +100,17 @@
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 2809,
     "timeDay": 1772,
     "timeWeek": 1755,
     "timeMonth": 1870,
     "timeYear": 2474,
     "dailyMinutesDown": {
-      "2024-12-08": 13
+      "2024-12-08": 29
     }
   },
   {
@@ -120,17 +120,17 @@
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 2667,
     "timeDay": 1737,
     "timeWeek": 1802,
     "timeMonth": 1888,
     "timeYear": 2202,
     "dailyMinutesDown": {
-      "2024-12-08": 22
+      "2024-12-08": 38
     }
   },
   {
@@ -140,17 +140,17 @@
     "slug": "search-user-search-for-user-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 2193,
     "timeDay": 1750,
     "timeWeek": 1759,
     "timeMonth": 1781,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2024-12-08": 21
+      "2024-12-08": 37
     }
   },
   {
@@ -160,17 +160,17 @@
     "slug": "search-video-search-for-video-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 3770,
     "timeDay": 3250,
     "timeWeek": 2950,
     "timeMonth": 3290,
     "timeYear": 3651,
     "dailyMinutesDown": {
-      "2024-12-08": 19
+      "2024-12-08": 35
     }
   },
   {
@@ -180,17 +180,17 @@
     "slug": "search-music-search-for-music-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 2214,
     "timeDay": 1791,
     "timeWeek": 1708,
     "timeMonth": 1795,
     "timeYear": 2173,
     "dailyMinutesDown": {
-      "2024-12-08": 18
+      "2024-12-08": 34
     }
   },
   {
@@ -200,9 +200,9 @@
     "slug": "search-live-search-for-live-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 2228,
     "timeDay": 2089,
@@ -210,7 +210,7 @@
     "timeMonth": 2781,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2024-12-08": 6
+      "2024-12-08": 21
     }
   },
   {
@@ -220,17 +220,17 @@
     "slug": "search-hashtag-search-for-hashtag-by-keyword",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1667,
     "timeDay": 1145,
     "timeWeek": 1531,
     "timeMonth": 2016,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2024-12-08": 15
+      "2024-12-08": 31
     }
   },
   {
@@ -258,17 +258,17 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 1387,
     "timeDay": 961,
     "timeWeek": 921,
     "timeMonth": 2620,
     "timeYear": 1314,
     "dailyMinutesDown": {
-      "2024-12-08": 12
+      "2024-12-08": 28
     }
   },
   {
@@ -278,9 +278,9 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1449,
     "timeDay": 2202,
@@ -288,7 +288,7 @@
     "timeMonth": 1676,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-12-08": 10
+      "2024-12-08": 26
     }
   },
   {
@@ -316,9 +316,9 @@
     "slug": "get-user-feed-by-id-get-user-feed-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 3304,
     "timeDay": 2467,
@@ -326,7 +326,7 @@
     "timeMonth": 2543,
     "timeYear": 3291,
     "dailyMinutesDown": {
-      "2024-12-08": 7
+      "2024-12-08": 23
     }
   },
   {
@@ -336,9 +336,9 @@
     "slug": "get-user-id-get-user-id-by-profile-url-or-nickname",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 84,
@@ -346,7 +346,7 @@
     "timeMonth": 133,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-12-08": 6
+      "2024-12-08": 22
     }
   },
   {
@@ -356,9 +356,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1429,
     "timeDay": 890,
@@ -366,7 +366,7 @@
     "timeMonth": 2138,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2024-12-08": 4
+      "2024-12-08": 20
     }
   },
   {
