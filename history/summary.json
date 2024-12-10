@@ -4,19 +4,19 @@
     "url": "https://tiktok.evelode.com/getNoWatermarkUrl?video_url=https://www.tiktok.com/@therock/video/7106855913906081070%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2352,
-    "timeDay": 4682,
-    "timeWeek": 2636,
-    "timeMonth": 3811,
-    "timeYear": 2364,
+    "time": 2355,
+    "timeDay": 7787,
+    "timeWeek": 4083,
+    "timeMonth": 4106,
+    "timeYear": 2395,
     "dailyMinutesDown": {
-      "2024-12-10": 6
+      "2024-12-10": 22
     }
   },
   {
@@ -222,17 +222,17 @@
     "url": "https://tiktok.evelode.com/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-get-user-info-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1465,
-    "timeDay": 3668,
-    "timeWeek": 2122,
-    "timeMonth": 2150,
-    "timeYear": 1378,
+    "time": 1476,
+    "timeDay": 4387,
+    "timeWeek": 2589,
+    "timeMonth": 2278,
+    "timeYear": 1391,
     "dailyMinutesDown": {}
   },
   {
@@ -242,9 +242,9 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 1399,
     "timeDay": 3839,
@@ -252,7 +252,7 @@
     "timeMonth": 2759,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2024-12-10": 46
+      "2024-12-10": 68
     }
   },
   {
@@ -262,17 +262,17 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 1456,
     "timeDay": 2723,
     "timeWeek": 1700,
     "timeMonth": 1785,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2024-12-10": 4
+      "2024-12-10": 26
     }
   },
   {
@@ -336,9 +336,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1426,
     "timeDay": 2892,
@@ -346,7 +346,7 @@
     "timeMonth": 2234,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-12-10": 4
+      "2024-12-10": 26
     }
   },
   {
@@ -498,17 +498,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4815,
-    "timeDay": 8764,
-    "timeWeek": 5677,
-    "timeMonth": 5747,
-    "timeYear": 4725,
+    "time": 4822,
+    "timeDay": 8258,
+    "timeWeek": 5724,
+    "timeMonth": 5759,
+    "timeYear": 4727,
     "dailyMinutesDown": {}
   },
   {
@@ -518,9 +518,9 @@
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 3724,
     "timeDay": 3638,
@@ -528,7 +528,7 @@
     "timeMonth": 3613,
     "timeYear": 3670,
     "dailyMinutesDown": {
-      "2024-12-10": 2
+      "2024-12-10": 24
     }
   },
   {
@@ -556,9 +556,9 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 3550,
     "timeDay": 8742,
@@ -566,7 +566,7 @@
     "timeMonth": 3892,
     "timeYear": 3594,
     "dailyMinutesDown": {
-      "2024-12-10": 1
+      "2024-12-10": 23
     }
   }
 ]
