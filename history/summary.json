@@ -6,9 +6,9 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 2369,
     "timeDay": 8153,
@@ -16,7 +16,7 @@
     "timeMonth": 4226,
     "timeYear": 2410,
     "dailyMinutesDown": {
-      "2024-12-10": 28
+      "2024-12-10": 48
     }
   },
   {
@@ -240,19 +240,19 @@
     "url": "https://tiktok.evelode.com/getUserInfoByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
-    "time": 1424,
-    "timeDay": 6739,
-    "timeWeek": 3258,
-    "timeMonth": 3068,
-    "timeYear": 1364,
+    "time": 1437,
+    "timeDay": 7217,
+    "timeWeek": 3792,
+    "timeMonth": 3212,
+    "timeYear": 1382,
     "dailyMinutesDown": {
-      "2024-12-10": 72
+      "2024-12-10": 78
     }
   },
   {
@@ -260,19 +260,19 @@
     "url": "https://tiktok.evelode.com/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1456,
-    "timeDay": 2723,
-    "timeWeek": 1700,
-    "timeMonth": 1785,
-    "timeYear": 1371,
+    "time": 1462,
+    "timeDay": 3228,
+    "timeWeek": 2004,
+    "timeMonth": 1865,
+    "timeYear": 1379,
     "dailyMinutesDown": {
-      "2024-12-10": 35
+      "2024-12-10": 49
     }
   },
   {
@@ -336,9 +336,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 1426,
     "timeDay": 2892,
@@ -346,7 +346,7 @@
     "timeMonth": 2234,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-12-10": 35
+      "2024-12-10": 55
     }
   },
   {
@@ -372,17 +372,17 @@
     "url": "https://tiktok.evelode.com/getInstagramUsername?query=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-instagram-username-get-instagram-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1455,
-    "timeDay": 2781,
-    "timeWeek": 1757,
-    "timeMonth": 2378,
-    "timeYear": 1256,
+    "time": 1488,
+    "timeDay": 6659,
+    "timeWeek": 3458,
+    "timeMonth": 2873,
+    "timeYear": 1304,
     "dailyMinutesDown": {}
   },
   {
@@ -498,17 +498,17 @@
     "url": "https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-get-hashtag-feed-by-url-or-tag-name",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4822,
-    "timeDay": 8258,
-    "timeWeek": 5724,
-    "timeMonth": 5759,
-    "timeYear": 4727,
+    "time": 4847,
+    "timeDay": 10650,
+    "timeWeek": 7023,
+    "timeMonth": 6150,
+    "timeYear": 4750,
     "dailyMinutesDown": {}
   },
   {
@@ -516,19 +516,19 @@
     "url": "https://tiktok.evelode.com/getHashtagFeedByID?id=13100&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 3752,
-    "timeDay": 7824,
-    "timeWeek": 4659,
-    "timeMonth": 4043,
-    "timeYear": 3705,
+    "time": 3753,
+    "timeDay": 7903,
+    "timeWeek": 4956,
+    "timeMonth": 4147,
+    "timeYear": 3714,
     "dailyMinutesDown": {
-      "2024-12-10": 31
+      "2024-12-10": 33
     }
   },
   {
@@ -556,9 +556,9 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 3550,
     "timeDay": 8742,
@@ -566,7 +566,7 @@
     "timeMonth": 3892,
     "timeYear": 3594,
     "dailyMinutesDown": {
-      "2024-12-10": 32
+      "2024-12-10": 52
     }
   }
 ]
