@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2321,
     "timeDay": 2777,
     "timeWeek": 1783,
-    "timeMonth": 2611,
+    "timeMonth": 1754,
     "timeYear": 2386,
     "dailyMinutesDown": {
       "2024-12-10": 71
@@ -33,7 +33,7 @@
     "time": 2123,
     "timeDay": 2298,
     "timeWeek": 1525,
-    "timeMonth": 1896,
+    "timeMonth": 1787,
     "timeYear": 2207,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "timeDay": 1687,
     "timeWeek": 1642,
     "timeMonth": 1880,
-    "timeYear": 2363,
+    "timeYear": 2347,
     "dailyMinutesDown": {}
   },
   {
@@ -160,7 +160,7 @@
     "timeDay": 3012,
     "timeWeek": 3122,
     "timeMonth": 3299,
-    "timeYear": 3613,
+    "timeYear": 3611,
     "dailyMinutesDown": {}
   },
   {
@@ -231,7 +231,7 @@
     "time": 1406,
     "timeDay": 1009,
     "timeWeek": 1075,
-    "timeMonth": 1570,
+    "timeMonth": 1106,
     "timeYear": 1385,
     "dailyMinutesDown": {}
   },
@@ -244,12 +244,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1400,
     "timeDay": 853,
     "timeWeek": 826,
-    "timeMonth": 1823,
+    "timeMonth": 924,
     "timeYear": 1378,
     "dailyMinutesDown": {
       "2024-12-10": 102
@@ -264,12 +264,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1456,
     "timeDay": 1212,
     "timeWeek": 938,
-    "timeMonth": 1599,
+    "timeMonth": 1163,
     "timeYear": 1369,
     "dailyMinutesDown": {
       "2024-12-10": 49
@@ -280,17 +280,17 @@
     "url": "https://tiktok.evelode.com/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-feed-get-user-feed-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3172,
-    "timeDay": 2551,
-    "timeWeek": 2331,
-    "timeMonth": 3198,
-    "timeYear": 3243,
+    "time": 3194,
+    "timeDay": 7771,
+    "timeWeek": 3663,
+    "timeMonth": 3487,
+    "timeYear": 3266,
     "dailyMinutesDown": {}
   },
   {
@@ -338,12 +338,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1257,
     "timeDay": 892,
     "timeWeek": 812,
-    "timeMonth": 1159,
+    "timeMonth": 987,
     "timeYear": 1241,
     "dailyMinutesDown": {
       "2024-12-10": 78
@@ -363,7 +363,7 @@
     "time": 1460,
     "timeDay": 975,
     "timeWeek": 1013,
-    "timeMonth": 1397,
+    "timeMonth": 1044,
     "timeYear": 1363,
     "dailyMinutesDown": {}
   },
@@ -381,7 +381,7 @@
     "time": 1354,
     "timeDay": 917,
     "timeWeek": 938,
-    "timeMonth": 1823,
+    "timeMonth": 1018,
     "timeYear": 1296,
     "dailyMinutesDown": {}
   },
@@ -399,7 +399,7 @@
     "time": 1482,
     "timeDay": 3452,
     "timeWeek": 1162,
-    "timeMonth": 1442,
+    "timeMonth": 1043,
     "timeYear": 1320,
     "dailyMinutesDown": {}
   },
@@ -489,7 +489,7 @@
     "time": 1560,
     "timeDay": 1001,
     "timeWeek": 1177,
-    "timeMonth": 1473,
+    "timeMonth": 1288,
     "timeYear": 1553,
     "dailyMinutesDown": {}
   },
@@ -507,7 +507,7 @@
     "time": 4797,
     "timeDay": 3409,
     "timeWeek": 3362,
-    "timeMonth": 5420,
+    "timeMonth": 3992,
     "timeYear": 4716,
     "dailyMinutesDown": {}
   },
@@ -520,12 +520,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3621,
     "timeDay": 3029,
     "timeWeek": 3022,
-    "timeMonth": 3784,
+    "timeMonth": 3032,
     "timeYear": 3609,
     "dailyMinutesDown": {
       "2024-12-10": 50
@@ -558,12 +558,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3544,
     "timeDay": 2616,
     "timeWeek": 2542,
-    "timeMonth": 3233,
+    "timeMonth": 2654,
     "timeYear": 3564,
     "dailyMinutesDown": {
       "2024-12-10": 75
