@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getUserFeedByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 2072
-lastUpdated: 2025-02-20T23:16:39.134Z
+status: down
+code: 400
+responseTime: 23291
+lastUpdated: 2025-02-21T04:02:06.534Z
 startTime: 2022-10-29T22:41:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
