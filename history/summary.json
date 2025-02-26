@@ -486,17 +486,17 @@
     "url": "https://tiktok.evelode.com/getHashtagInfo?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-info-get-hashtag-info-by-url-or-tag-name",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1828,
-    "timeDay": 6246,
-    "timeWeek": 4531,
-    "timeMonth": 5418,
-    "timeYear": 1956,
+    "time": 1849,
+    "timeDay": 8444,
+    "timeWeek": 5407,
+    "timeMonth": 5610,
+    "timeYear": 1984,
     "dailyMinutesDown": {}
   },
   {
@@ -514,7 +514,7 @@
     "timeDay": 8785,
     "timeWeek": 8523,
     "timeMonth": 6936,
-    "timeYear": 4838,
+    "timeYear": 4835,
     "dailyMinutesDown": {}
   },
   {
