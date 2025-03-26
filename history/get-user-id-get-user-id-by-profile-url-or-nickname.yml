@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getUserID?query=therock&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 119
-lastUpdated: 2025-03-25T23:16:37.534Z
+responseTime: 105
+lastUpdated: 2025-03-26T23:17:20.425Z
 startTime: 2022-10-29T22:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
