@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 500
-responseTime: 87
-lastUpdated: 2025-04-06T22:29:27.526Z
+status: up
+code: 200
+responseTime: 1332
+lastUpdated: 2025-04-06T22:38:55.668Z
 startTime: 2022-10-26T23:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
