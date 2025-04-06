@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getBasicUserInfo?query=apple&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 500
-responseTime: 87
-lastUpdated: 2025-04-06T22:29:43.022Z
+status: up
+code: 200
+responseTime: 1035
+lastUpdated: 2025-04-06T22:39:29.165Z
 startTime: 2023-09-12T14:38:07.935Z
 generator: Upptime <https://github.com/upptime/upptime>
