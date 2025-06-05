@@ -6,9 +6,9 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 2290,
     "timeDay": 7215,
@@ -16,7 +16,7 @@
     "timeMonth": 2427,
     "timeYear": 2275,
     "dailyMinutesDown": {
-      "2025-06-05": 19,
+      "2025-06-05": 30,
       "2025-05-19": 27
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2415,
+    "time": 2438,
     "timeDay": 11205,
     "timeWeek": 5619,
     "timeMonth": 3396,
-    "timeYear": 2598,
+    "timeYear": 2624,
     "dailyMinutesDown": {}
   },
   {
@@ -518,10 +518,10 @@
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-hashtag-feed-by-id-get-hashtag-feed-by-id",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.87%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 3379,
     "timeDay": 19937,
@@ -529,7 +529,7 @@
     "timeMonth": 3489,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2025-06-05": 14,
+      "2025-06-05": 25,
       "2025-05-19": 42
     }
   },
@@ -558,19 +558,19 @@
     "url": "https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 2894,
+    "time": 2892,
     "timeDay": 12188,
     "timeWeek": 3244,
     "timeMonth": 2869,
     "timeYear": 2740,
     "dailyMinutesDown": {
-      "2025-06-05": 36,
+      "2025-06-05": 47,
       "2025-05-19": 18
     }
   }
