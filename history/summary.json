@@ -6,9 +6,9 @@
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 2317,
     "timeDay": 12360,
@@ -16,7 +16,7 @@
     "timeMonth": 2871,
     "timeYear": 2311,
     "dailyMinutesDown": {
-      "2025-06-06": 48,
+      "2025-06-06": 53,
       "2025-06-05": 41
     }
   },
@@ -243,9 +243,9 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1320,
     "timeDay": 0,
@@ -253,7 +253,7 @@
     "timeMonth": 2221,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2025-06-06": 1
+      "2025-06-06": 7
     }
   },
   {
@@ -263,9 +263,9 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1336,
     "timeDay": 9941,
@@ -273,7 +273,7 @@
     "timeMonth": 1745,
     "timeYear": 1305,
     "dailyMinutesDown": {
-      "2025-06-06": 7
+      "2025-06-06": 13
     }
   },
   {
@@ -337,9 +337,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1168,
     "timeDay": 8453,
@@ -347,7 +347,7 @@
     "timeMonth": 1401,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2025-06-06": 6
+      "2025-06-06": 12
     }
   },
   {
@@ -539,9 +539,9 @@
     "slug": "get-music-info-get-music-info-by-url-or-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1431,
     "timeDay": 12450,
@@ -549,7 +549,7 @@
     "timeMonth": 1585,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2025-06-06": 2,
+      "2025-06-06": 8,
       "2025-06-05": 36
     }
   },
@@ -560,9 +560,9 @@
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 2926,
     "timeDay": 12894,
@@ -570,7 +570,7 @@
     "timeMonth": 3462,
     "timeYear": 2791,
     "dailyMinutesDown": {
-      "2025-06-06": 47,
+      "2025-06-06": 53,
       "2025-06-05": 47
     }
   }
