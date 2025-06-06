@@ -240,18 +240,16 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1320,
     "timeDay": 909,
     "timeWeek": 787,
     "timeMonth": 2181,
     "timeYear": 1287,
-    "dailyMinutesDown": {
-      "2025-06-06": 31
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -448,7 +446,7 @@
     "timeDay": 3156,
     "timeWeek": 1546,
     "timeMonth": 1207,
-    "timeYear": 1401,
+    "timeYear": 1385,
     "dailyMinutesDown": {}
   },
   {
@@ -546,17 +544,19 @@
     "url": "https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-music-feed-get-music-feed-by-url-or-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2921,
-    "timeDay": 10176,
-    "timeWeek": 5122,
-    "timeMonth": 3422,
-    "timeYear": 2789,
-    "dailyMinutesDown": {}
+    "time": 2931,
+    "timeDay": 9994,
+    "timeWeek": 5499,
+    "timeMonth": 3580,
+    "timeYear": 2805,
+    "dailyMinutesDown": {
+      "2025-06-06": 1
+    }
   }
 ]
