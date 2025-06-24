@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 742
-lastUpdated: 2025-06-23T23:16:06.968Z
+status: down
+code: 400
+responseTime: 18792
+lastUpdated: 2025-06-24T00:48:01.017Z
 startTime: 2022-10-29T22:41:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
