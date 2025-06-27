@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 6824
-lastUpdated: 2025-06-27T21:22:55.757Z
+status: up
+code: 200
+responseTime: 1999
+lastUpdated: 2025-06-27T21:37:19.616Z
 startTime: 2022-10-30T09:39:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
