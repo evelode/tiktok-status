@@ -122,7 +122,7 @@
     "timeDay": 1564,
     "timeWeek": 1535,
     "timeMonth": 1412,
-    "timeYear": 1909,
+    "timeYear": 1894,
     "dailyMinutesDown": {}
   },
   {
@@ -364,17 +364,17 @@
     "url": "https://tiktok.evelode.com/getInstagramUsername?query=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-instagram-username-get-instagram-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1269,
-    "timeDay": 854,
-    "timeWeek": 823,
-    "timeMonth": 1884,
-    "timeYear": 1265,
+    "time": 1298,
+    "timeDay": 9527,
+    "timeWeek": 2995,
+    "timeMonth": 2337,
+    "timeYear": 1307,
     "dailyMinutesDown": {}
   },
   {
@@ -536,7 +536,7 @@
     "timeDay": 900,
     "timeWeek": 844,
     "timeMonth": 1038,
-    "timeYear": 1256,
+    "timeYear": 1231,
     "dailyMinutesDown": {}
   },
   {
