@@ -240,18 +240,16 @@
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1365,
     "timeDay": 3226,
     "timeWeek": 1987,
     "timeMonth": 1639,
     "timeYear": 1356,
-    "dailyMinutesDown": {
-      "2025-07-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -332,19 +330,19 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 1258,
-    "timeDay": 3713,
-    "timeWeek": 2301,
-    "timeMonth": 1991,
-    "timeYear": 1276,
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 1256,
+    "timeDay": 2756,
+    "timeWeek": 2168,
+    "timeMonth": 1961,
+    "timeYear": 1275,
     "dailyMinutesDown": {
-      "2025-07-16": 24
+      "2025-07-16": 41
     }
   },
   {
@@ -370,17 +368,17 @@
     "url": "https://tiktok.evelode.com/getInstagramUsername?query=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-instagram-username-get-instagram-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1347,
-    "timeDay": 3944,
+    "time": 1346,
+    "timeDay": 2910,
     "timeWeek": 3729,
-    "timeMonth": 2983,
-    "timeYear": 1380,
+    "timeMonth": 2931,
+    "timeYear": 1379,
     "dailyMinutesDown": {}
   },
   {
