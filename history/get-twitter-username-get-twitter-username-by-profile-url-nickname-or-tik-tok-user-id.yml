@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 400
-responseTime: 9389
-lastUpdated: 2025-07-16T20:58:33.814Z
+status: up
+code: 404
+responseTime: 1446
+lastUpdated: 2025-07-16T21:12:40.133Z
 startTime: 2022-10-29T22:41:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
