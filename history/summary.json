@@ -220,17 +220,17 @@
     "url": "https://tiktok.evelode.com/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-get-user-info-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1495,
-    "timeDay": 1088,
-    "timeWeek": 3362,
-    "timeMonth": 3642,
-    "timeYear": 1474,
+    "time": 1505,
+    "timeDay": 3969,
+    "timeWeek": 3750,
+    "timeMonth": 3727,
+    "timeYear": 1488,
     "dailyMinutesDown": {}
   },
   {
@@ -238,18 +238,20 @@
     "url": "https://tiktok.evelode.com/getUserInfoByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-by-id-get-user-info-by-profile-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1354,
-    "timeDay": 834,
-    "timeWeek": 1292,
-    "timeMonth": 1470,
-    "timeYear": 1340,
-    "dailyMinutesDown": {}
+    "time": 1365,
+    "timeDay": 4377,
+    "timeWeek": 2120,
+    "timeMonth": 1660,
+    "timeYear": 1357,
+    "dailyMinutesDown": {
+      "2025-07-16": 3
+    }
   },
   {
     "name": "/getBasicUserInfo - Get user info by profile ID",
@@ -258,9 +260,9 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1456,
     "timeDay": 4174,
@@ -268,7 +270,7 @@
     "timeMonth": 2921,
     "timeYear": 1480,
     "dailyMinutesDown": {
-      "2025-07-16": 2
+      "2025-07-16": 10
     }
   },
   {
@@ -332,9 +334,9 @@
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1258,
     "timeDay": 3713,
@@ -342,7 +344,7 @@
     "timeMonth": 1991,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2025-07-16": 2
+      "2025-07-16": 10
     }
   },
   {
@@ -350,17 +352,17 @@
     "url": "https://tiktok.evelode.com/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-twitter-username-get-twitter-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1349,
-    "timeDay": 973,
-    "timeWeek": 1152,
-    "timeMonth": 1857,
-    "timeYear": 1388,
+    "time": 1366,
+    "timeDay": 5181,
+    "timeWeek": 2182,
+    "timeMonth": 2072,
+    "timeYear": 1409,
     "dailyMinutesDown": {}
   },
   {
@@ -386,17 +388,17 @@
     "url": "https://tiktok.evelode.com/getYoutubeChannel?query=6568346904743116806&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-youtube-channel-get-you-tube-channel-info-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
-    "timeDay": 877,
-    "timeWeek": 1360,
-    "timeMonth": 2631,
-    "timeYear": 1278,
+    "time": 1324,
+    "timeDay": 4279,
+    "timeWeek": 2150,
+    "timeMonth": 2764,
+    "timeYear": 1294,
     "dailyMinutesDown": {}
   },
   {
