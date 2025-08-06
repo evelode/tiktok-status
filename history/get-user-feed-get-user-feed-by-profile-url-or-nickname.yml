@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getUserFeed?query=therock&cache_timeout=0&license_key=$API_KEY
-status: up
-code: 200
-responseTime: 2552
-lastUpdated: 2025-08-05T23:20:18.171Z
+status: down
+code: 400
+responseTime: 570
+lastUpdated: 2025-08-06T18:17:37.140Z
 startTime: 2022-10-29T22:41:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
