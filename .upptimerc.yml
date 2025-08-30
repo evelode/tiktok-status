@@ -161,6 +161,19 @@ sites:
       - 521
       - 403
       - 0
+  - name: /searchLocation - Search for location by keyword
+    url: https://tiktok.evelode.com/searchLocation?keyword=apple&cache_timeout=0&license_key=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+    method: GET
+    maxResponseTime: 30000
+    delay: 1800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 503
+      - 521
+      - 403
+      - 0
   - name: /getUserInfo - Get user info by profile URL or nickname
     url: https://tiktok.evelode.com/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
@@ -385,6 +398,32 @@ sites:
       - 521
       - 403
       - 0
+  - name: /getLocationInfoByID - Get location info by ID
+    url: https://tiktok.evelode.com/getLocationInfoByID?location_id=22535796485353377&cache_timeout=0&license_key=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+    method: GET
+    maxResponseTime: 30000
+    delay: 1800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 503
+      - 521
+      - 403
+      - 0
+  - name: /getLocationFeedByID - Get videos by location ID
+    url: https://tiktok.evelode.com/getLocationFeedByID?location_id=22535796485353377&cache_timeout=0&license_key=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+    method: GET
+    maxResponseTime: 30000
+    delay: 1800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 503
+      - 521
+      - 403
+      - 0
   - name: /getMusicInfo - Get music info by URL or ID
     url: https://tiktok.evelode.com/getMusicInfo?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
@@ -400,6 +439,45 @@ sites:
       - 0
   - name: /getMusicFeed - Get music feed by URL or ID
     url: https://tiktok.evelode.com/getMusicFeed?query=6928004115846924290&cache_timeout=0&license_key=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+    method: GET
+    maxResponseTime: 30000
+    delay: 1800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 503
+      - 521
+      - 403
+      - 0
+  - name: /getStickersByID - Get effect information by IDs
+    url: https://tiktok.evelode.com/getStickersByID?sticker_ids=1108584,1108584&cache_timeout=0&license_key=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+    method: GET
+    maxResponseTime: 30000
+    delay: 1800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 503
+      - 521
+      - 403
+      - 0
+  - name: /getStickerByID - Get effect information by ID
+    url: https://tiktok.evelode.com/getStickerByID?sticker_id=1108584&cache_timeout=0&license_key=$API_KEY
+    icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
+    method: GET
+    maxResponseTime: 30000
+    delay: 1800
+    expectedStatusCodes:
+      - 200
+      - 502
+      - 503
+      - 521
+      - 403
+      - 0
+  - name: /getStickerFeedByID - Get videos by effect ID
+    url: https://tiktok.evelode.com/getStickerFeedByID?sticker_id=1108584&cache_timeout=0&license_key=$API_KEY
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
