@@ -276,18 +276,16 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1508,
     "timeDay": 13829,
     "timeWeek": 6242,
     "timeMonth": 2607,
     "timeYear": 1584,
-    "dailyMinutesDown": {
-      "2025-09-19": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "/getUserFeed - Get user feed by profile URL or nickname",
@@ -366,17 +364,17 @@
     "url": "https://tiktok.evelode.com/getTwitterUsername?query=apple&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-twitter-username-get-twitter-username-by-profile-url-nickname-or-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1364,
-    "timeDay": 7039,
-    "timeWeek": 3099,
-    "timeMonth": 1697,
-    "timeYear": 1440,
+    "time": 1381,
+    "timeDay": 8033,
+    "timeWeek": 3890,
+    "timeMonth": 1963,
+    "timeYear": 1464,
     "dailyMinutesDown": {}
   },
   {
