@@ -238,17 +238,17 @@
     "url": "https://tiktok.evelode.com/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-get-user-info-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1509,
-    "timeDay": 4797,
-    "timeWeek": 2077,
-    "timeMonth": 2075,
-    "timeYear": 1581,
+    "time": 1525,
+    "timeDay": 6563,
+    "timeWeek": 2968,
+    "timeMonth": 2304,
+    "timeYear": 1602,
     "dailyMinutesDown": {}
   },
   {
@@ -276,9 +276,9 @@
     "slug": "get-basic-user-info-get-user-info-by-profile-id",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1507,
     "timeDay": 7801,
@@ -286,7 +286,7 @@
     "timeMonth": 3030,
     "timeYear": 1614,
     "dailyMinutesDown": {
-      "2025-10-05": 8
+      "2025-10-05": 14
     }
   },
   {
