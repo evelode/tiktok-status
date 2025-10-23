@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getStickersByID?sticker_ids=1108584,1108584&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 812
-lastUpdated: 2025-10-22T23:16:26.466Z
+responseTime: 771
+lastUpdated: 2025-10-23T23:17:08.067Z
 startTime: 2025-08-30T14:34:31.622Z
 generator: Upptime <https://github.com/upptime/upptime>
