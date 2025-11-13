@@ -362,18 +362,20 @@
     "url": "https://tiktok.evelode.com/getUsernameByID?user_id=6745191554350760966&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-username-by-id-get-username-by-tik-tok-user-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1176,
-    "timeDay": 1147,
-    "timeWeek": 1049,
-    "timeMonth": 963,
-    "timeYear": 1237,
-    "dailyMinutesDown": {}
+    "time": 1174,
+    "timeDay": 624,
+    "timeWeek": 931,
+    "timeMonth": 936,
+    "timeYear": 1235,
+    "dailyMinutesDown": {
+      "2025-11-13": 1
+    }
   },
   {
     "name": "/getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID",
