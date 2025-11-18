@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getLocationFeedByID?location_id=22535796485353377&cache_timeout=0&license_key=$API_KEY
-status: down
-code: 500
-responseTime: 11
-lastUpdated: 2025-11-18T13:02:05.578Z
+status: up
+code: 200
+responseTime: 2644
+lastUpdated: 2025-11-18T14:48:29.130Z
 startTime: 2025-08-30T14:34:25.158Z
 generator: Upptime <https://github.com/upptime/upptime>
