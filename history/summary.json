@@ -562,18 +562,20 @@
     "url": "https://tiktok.evelode.com/getLocationFeedByID?location_id=22535796485353377&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-location-feed-by-id-get-videos-by-location-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2989,
-    "timeDay": 3828,
-    "timeWeek": 4097,
-    "timeMonth": 3618,
-    "timeYear": 2989,
-    "dailyMinutesDown": {}
+    "time": 2992,
+    "timeDay": 3811,
+    "timeWeek": 4059,
+    "timeMonth": 3623,
+    "timeYear": 2992,
+    "dailyMinutesDown": {
+      "2026-06-10": 2
+    }
   },
   {
     "name": "/getMusicInfo - Get music info by URL or ID",
