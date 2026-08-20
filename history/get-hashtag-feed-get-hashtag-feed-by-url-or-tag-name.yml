@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getHashtagFeed?query=apple&cache_timeout=0&license_key=$API_KEY
 status: up
 code: 200
-responseTime: 4754
-lastUpdated: 2026-08-19T23:22:12.947Z
+responseTime: 5000
+lastUpdated: 2026-08-20T23:25:14.969Z
 startTime: 2022-10-29T22:41:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
