@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY
-status: degraded
+status: up
 code: 200
-responseTime: 14023
-lastUpdated: 2026-08-25T11:38:04.169Z
+responseTime: 1693
+lastUpdated: 2026-08-25T12:36:42.023Z
 startTime: 2022-10-26T23:16:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
