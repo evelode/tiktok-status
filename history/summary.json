@@ -22,17 +22,17 @@
     "url": "https://tiktok.evelode.com/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3301,
-    "timeDay": 2561,
-    "timeWeek": 5828,
-    "timeMonth": 5909,
-    "timeYear": 3410,
+    "time": 3324,
+    "timeDay": 10080,
+    "timeWeek": 5487,
+    "timeMonth": 5901,
+    "timeYear": 3436,
     "dailyMinutesDown": {}
   },
   {
@@ -252,7 +252,7 @@
     "timeDay": 3022,
     "timeWeek": 2846,
     "timeMonth": 3981,
-    "timeYear": 2289,
+    "timeYear": 2265,
     "dailyMinutesDown": {}
   },
   {
@@ -290,7 +290,7 @@
     "timeDay": 1798,
     "timeWeek": 2398,
     "timeMonth": 4328,
-    "timeYear": 2058,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2026-08-26": 27
     }
@@ -382,7 +382,7 @@
     "timeDay": 17951,
     "timeWeek": 4892,
     "timeMonth": 2955,
-    "timeYear": 1903,
+    "timeYear": 1862,
     "dailyMinutesDown": {}
   },
   {
