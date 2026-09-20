@@ -4,35 +4,38 @@
     "url": "https://tiktok.evelode.com/getNoWatermarkUrl?video_url=https://www.tiktok.com/@therock/video/7106855913906081070%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-no-watermark-url-get-non-watermarked-video-url",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2340,
-    "timeDay": 2759,
-    "timeWeek": 3727,
-    "timeMonth": 3026,
-    "timeYear": 2416,
-    "dailyMinutesDown": {}
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
+    "time": 2446,
+    "timeDay": 28597,
+    "timeWeek": 10066,
+    "timeMonth": 4671,
+    "timeYear": 2552,
+    "dailyMinutesDown": {
+      "2026-09-20": 34,
+      "2026-09-19": 34
+    }
   },
   {
     "name": "/getNoWatermarkUrlByID - Get non watermarked video url by video ID",
     "url": "https://tiktok.evelode.com/getNoWatermarkUrlByID?video_id=7106855913906081070&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-no-watermark-url-by-id-get-non-watermarked-video-url-by-video-id",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3286,
-    "timeDay": 7315,
-    "timeWeek": 5434,
-    "timeMonth": 5856,
-    "timeYear": 3433,
+    "time": 3348,
+    "timeDay": 16430,
+    "timeWeek": 8172,
+    "timeMonth": 6314,
+    "timeYear": 3512,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +52,8 @@
     "time": 1758,
     "timeDay": 1941,
     "timeWeek": 1807,
-    "timeMonth": 1982,
-    "timeYear": 1846,
+    "timeMonth": 1983,
+    "timeYear": 1847,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +70,8 @@
     "time": 1781,
     "timeDay": 2506,
     "timeWeek": 2199,
-    "timeMonth": 2367,
-    "timeYear": 1896,
+    "timeMonth": 2384,
+    "timeYear": 1897,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +88,7 @@
     "time": 2502,
     "timeDay": 2686,
     "timeWeek": 2662,
-    "timeMonth": 2537,
+    "timeMonth": 2557,
     "timeYear": 2543,
     "dailyMinutesDown": {}
   },
@@ -94,36 +97,42 @@
     "url": "https://tiktok.evelode.com/getCommentsByUrl?video_url=https%3A%2F%2Fwww.tiktok.com%2F%40onerepublic%2Fvideo%2F7141505394869898538%3Fis_copy_url%3D1%26is_from_webapp%3Dv1&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-comments-by-url-get-comments-list-by-video-url",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1842,
-    "timeDay": 2387,
-    "timeWeek": 2470,
-    "timeMonth": 2306,
-    "timeYear": 1929,
-    "dailyMinutesDown": {}
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
+    "time": 1919,
+    "timeDay": 21079,
+    "timeWeek": 7133,
+    "timeMonth": 3531,
+    "timeYear": 2030,
+    "dailyMinutesDown": {
+      "2026-09-20": 34,
+      "2026-09-19": 26
+    }
   },
   {
     "name": "/getCommentsByID - Get comments list by video ID",
     "url": "https://tiktok.evelode.com/getCommentsByID?video_id=7141505394869898538&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-comments-by-id-get-comments-list-by-video-id",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1972,
-    "timeDay": 6852,
-    "timeWeek": 3653,
-    "timeMonth": 3079,
-    "timeYear": 2082,
-    "dailyMinutesDown": {}
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 2056,
+    "timeDay": 25129,
+    "timeWeek": 8622,
+    "timeMonth": 4412,
+    "timeYear": 2193,
+    "dailyMinutesDown": {
+      "2026-09-20": 34,
+      "2026-09-19": 24
+    }
   },
   {
     "name": "/searchUser - Search for user by keyword",
@@ -139,8 +148,8 @@
     "time": 2002,
     "timeDay": 3111,
     "timeWeek": 2957,
-    "timeMonth": 2651,
-    "timeYear": 2133,
+    "timeMonth": 2659,
+    "timeYear": 2135,
     "dailyMinutesDown": {}
   },
   {
@@ -157,8 +166,8 @@
     "time": 3456,
     "timeDay": 5294,
     "timeWeek": 4249,
-    "timeMonth": 4035,
-    "timeYear": 3516,
+    "timeMonth": 3994,
+    "timeYear": 3518,
     "dailyMinutesDown": {}
   },
   {
@@ -175,8 +184,8 @@
     "time": 2199,
     "timeDay": 2989,
     "timeWeek": 2933,
-    "timeMonth": 3097,
-    "timeYear": 2338,
+    "timeMonth": 3122,
+    "timeYear": 2340,
     "dailyMinutesDown": {}
   },
   {
@@ -193,7 +202,7 @@
     "time": 3115,
     "timeDay": 3729,
     "timeWeek": 3990,
-    "timeMonth": 3599,
+    "timeMonth": 3625,
     "timeYear": 3278,
     "dailyMinutesDown": {}
   },
@@ -211,8 +220,8 @@
     "time": 1656,
     "timeDay": 2312,
     "timeWeek": 2566,
-    "timeMonth": 3739,
-    "timeYear": 1856,
+    "timeMonth": 3790,
+    "timeYear": 1859,
     "dailyMinutesDown": {
       "2026-08-26": 37
     }
@@ -231,8 +240,8 @@
     "time": 2030,
     "timeDay": 3314,
     "timeWeek": 3589,
-    "timeMonth": 4590,
-    "timeYear": 2068,
+    "timeMonth": 4645,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2026-08-26": 35
     }
@@ -242,17 +251,17 @@
     "url": "https://tiktok.evelode.com/getUserInfo?query=therock&cache_timeout=0&license_key=$API_KEY",
     "icon": "https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png",
     "slug": "get-user-info-get-user-info-by-profile-url-or-nickname",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2265,
-    "timeDay": 3022,
-    "timeWeek": 2846,
-    "timeMonth": 3981,
-    "timeYear": 2237,
+    "time": 2344,
+    "timeDay": 26860,
+    "timeWeek": 8828,
+    "timeMonth": 5445,
+    "timeYear": 2365,
     "dailyMinutesDown": {}
   },
   {
@@ -269,8 +278,8 @@
     "time": 1478,
     "timeDay": 1757,
     "timeWeek": 2168,
-    "timeMonth": 3614,
-    "timeYear": 1565,
+    "timeMonth": 3662,
+    "timeYear": 1567,
     "dailyMinutesDown": {
       "2026-08-26": 29
     }
@@ -289,8 +298,8 @@
     "time": 2004,
     "timeDay": 1798,
     "timeWeek": 2398,
-    "timeMonth": 4328,
-    "timeYear": 1934,
+    "timeMonth": 4398,
+    "timeYear": 1936,
     "dailyMinutesDown": {
       "2026-08-26": 27
     }
@@ -309,8 +318,8 @@
     "time": 2725,
     "timeDay": 2533,
     "timeWeek": 3305,
-    "timeMonth": 3282,
-    "timeYear": 2837,
+    "timeMonth": 3291,
+    "timeYear": 2838,
     "dailyMinutesDown": {}
   },
   {
@@ -327,8 +336,8 @@
     "time": 2670,
     "timeDay": 4431,
     "timeWeek": 3801,
-    "timeMonth": 3490,
-    "timeYear": 2776,
+    "timeMonth": 3518,
+    "timeYear": 2777,
     "dailyMinutesDown": {}
   },
   {
@@ -345,8 +354,8 @@
     "time": 316,
     "timeDay": 1509,
     "timeWeek": 621,
-    "timeMonth": 458,
-    "timeYear": 386,
+    "timeMonth": 463,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -363,8 +372,8 @@
     "time": 1387,
     "timeDay": 1671,
     "timeWeek": 2152,
-    "timeMonth": 2023,
-    "timeYear": 1417,
+    "timeMonth": 2042,
+    "timeYear": 1418,
     "dailyMinutesDown": {}
   },
   {
@@ -381,8 +390,8 @@
     "time": 1793,
     "timeDay": 17951,
     "timeWeek": 4892,
-    "timeMonth": 2955,
-    "timeYear": 1840,
+    "timeMonth": 2984,
+    "timeYear": 1842,
     "dailyMinutesDown": {}
   },
   {
@@ -399,8 +408,8 @@
     "time": 1479,
     "timeDay": 3211,
     "timeWeek": 2307,
-    "timeMonth": 2064,
-    "timeYear": 1446,
+    "timeMonth": 2084,
+    "timeYear": 1448,
     "dailyMinutesDown": {}
   },
   {
@@ -417,8 +426,8 @@
     "time": 1320,
     "timeDay": 2081,
     "timeWeek": 1851,
-    "timeMonth": 2254,
-    "timeYear": 1241,
+    "timeMonth": 2284,
+    "timeYear": 1242,
     "dailyMinutesDown": {}
   },
   {
@@ -435,8 +444,8 @@
     "time": 1924,
     "timeDay": 1457,
     "timeWeek": 2161,
-    "timeMonth": 2356,
-    "timeYear": 2013,
+    "timeMonth": 2369,
+    "timeYear": 2014,
     "dailyMinutesDown": {}
   },
   {
@@ -453,8 +462,8 @@
     "time": 1773,
     "timeDay": 2231,
     "timeWeek": 2567,
-    "timeMonth": 2162,
-    "timeYear": 1853,
+    "timeMonth": 2173,
+    "timeYear": 1854,
     "dailyMinutesDown": {}
   },
   {
@@ -471,8 +480,8 @@
     "time": 1438,
     "timeDay": 2197,
     "timeWeek": 2274,
-    "timeMonth": 1833,
-    "timeYear": 1529,
+    "timeMonth": 1847,
+    "timeYear": 1530,
     "dailyMinutesDown": {}
   },
   {
@@ -489,8 +498,8 @@
     "time": 1468,
     "timeDay": 1912,
     "timeWeek": 3589,
-    "timeMonth": 2167,
-    "timeYear": 1585,
+    "timeMonth": 2195,
+    "timeYear": 1586,
     "dailyMinutesDown": {}
   },
   {
@@ -507,8 +516,8 @@
     "time": 1596,
     "timeDay": 3157,
     "timeWeek": 2994,
-    "timeMonth": 2564,
-    "timeYear": 1741,
+    "timeMonth": 2553,
+    "timeYear": 1743,
     "dailyMinutesDown": {}
   },
   {
@@ -525,8 +534,8 @@
     "time": 4513,
     "timeDay": 7684,
     "timeWeek": 7475,
-    "timeMonth": 6500,
-    "timeYear": 4633,
+    "timeMonth": 6558,
+    "timeYear": 4635,
     "dailyMinutesDown": {}
   },
   {
@@ -543,8 +552,8 @@
     "time": 3114,
     "timeDay": 2940,
     "timeWeek": 3324,
-    "timeMonth": 3380,
-    "timeYear": 3100,
+    "timeMonth": 3407,
+    "timeYear": 3098,
     "dailyMinutesDown": {}
   },
   {
@@ -561,8 +570,8 @@
     "time": 1311,
     "timeDay": 832,
     "timeWeek": 1376,
-    "timeMonth": 1704,
-    "timeYear": 1330,
+    "timeMonth": 1727,
+    "timeYear": 1332,
     "dailyMinutesDown": {}
   },
   {
@@ -579,8 +588,8 @@
     "time": 3164,
     "timeDay": 3875,
     "timeWeek": 3680,
-    "timeMonth": 3706,
-    "timeYear": 3173,
+    "timeMonth": 3729,
+    "timeYear": 3175,
     "dailyMinutesDown": {
       "2026-06-10": 253
     }
@@ -599,8 +608,8 @@
     "time": 1464,
     "timeDay": 1948,
     "timeWeek": 2080,
-    "timeMonth": 1998,
-    "timeYear": 1558,
+    "timeMonth": 2010,
+    "timeYear": 1559,
     "dailyMinutesDown": {}
   },
   {
@@ -617,8 +626,8 @@
     "time": 2456,
     "timeDay": 3139,
     "timeWeek": 3086,
-    "timeMonth": 3567,
-    "timeYear": 2463,
+    "timeMonth": 3609,
+    "timeYear": 2464,
     "dailyMinutesDown": {}
   },
   {
@@ -635,8 +644,8 @@
     "time": 1247,
     "timeDay": 1716,
     "timeWeek": 1621,
-    "timeMonth": 1765,
-    "timeYear": 1268,
+    "timeMonth": 1776,
+    "timeYear": 1269,
     "dailyMinutesDown": {}
   },
   {
@@ -653,8 +662,8 @@
     "time": 1146,
     "timeDay": 1205,
     "timeWeek": 1483,
-    "timeMonth": 1535,
-    "timeYear": 1160,
+    "timeMonth": 1547,
+    "timeYear": 1161,
     "dailyMinutesDown": {}
   },
   {
@@ -671,8 +680,8 @@
     "time": 3058,
     "timeDay": 5045,
     "timeWeek": 4444,
-    "timeMonth": 4178,
-    "timeYear": 3087,
+    "timeMonth": 4200,
+    "timeYear": 3089,
     "dailyMinutesDown": {}
   }
 ]
