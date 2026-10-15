@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/searchVideo?keyword=apple&cache_timeout=0&license_key=$API_KEY
 status: up
-code: 200
-responseTime: 6918
-lastUpdated: 2026-10-14T01:36:45.749Z
+code: 503
+responseTime: 1311
+lastUpdated: 2026-10-15T01:13:03.132Z
 startTime: 2022-10-28T22:21:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
