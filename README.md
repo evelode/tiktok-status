@@ -8,6 +8,17 @@ Using our detailed multipurpose documentation you can explore and reach all TikT
 
 Try our [Trial license plan](https://evelode.com/downloads/tiktok-rest-api/) and test all API endpoints before buying a license.
 
+<!-- mcp-announcement:start -->
+<a href="https://jsonscraper.com/mcp?utm_source=github&utm_medium=readme&utm_campaign=evelode-tiktok-status&utm_content=mcp_announcement#connect">
+  <picture>
+    <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="docs/mcp-announcement-mobile-dark.svg">
+    <source media="(max-width: 640px)" srcset="docs/mcp-announcement-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/mcp-announcement-dark.svg">
+    <img src="docs/mcp-announcement.svg" alt="MCP is live: connect Instagram and TikTok data to ChatGPT, Claude or Codex with your existing API key. Connect via MCP." width="1100">
+  </picture>
+</a>
+<!-- mcp-announcement:end -->
+
 ## Quick Start
 
 We created a modern API wrappers with detailed examples:
