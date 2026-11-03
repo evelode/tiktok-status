@@ -1,7 +1,7 @@
 url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUserInfoByID
-status: down
-code: 500
-responseTime: 217
-lastUpdated: 2026-11-03T14:28:48.018Z
+status: up
+code: 200
+responseTime: 136
+lastUpdated: 2026-11-03T15:36:15.438Z
 startTime: 2023-09-12T14:38:06.080Z
 generator: Upptime <https://github.com/upptime/upptime>
