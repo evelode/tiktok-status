@@ -12,6 +12,8 @@ workflowSchedule:
 sites:
   - name: /getNoWatermarkUrl - Get non watermarked video url
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getNoWatermarkUrl
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -24,6 +26,8 @@ sites:
       - 0
   - name: /getNoWatermarkUrlByID - Get non watermarked video url by video ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getNoWatermarkUrlByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 3000
@@ -36,6 +40,8 @@ sites:
       - 0
   - name: /getVideoByID - Get video info by ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getVideoByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -48,6 +54,8 @@ sites:
       - 0
   - name: /getVideoByUrl - Get video info by URL
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getVideoByUrl
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -60,6 +68,8 @@ sites:
       - 0
   - name: /getUnshortenedUrl - Convert short TikTok video URL to full TikTok video URL
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUnshortenedUrl
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -72,6 +82,8 @@ sites:
       - 0
   - name: /getCommentsByUrl - Get comments list by video URL
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getCommentsByUrl
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -84,6 +96,8 @@ sites:
       - 0
   - name: /getCommentsByID - Get comments list by video ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getCommentsByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -96,6 +110,8 @@ sites:
       - 0
   - name: /searchUser - Search for user by keyword
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/searchUser
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -108,6 +124,8 @@ sites:
       - 0
   - name: /searchVideo - Search for video by keyword
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/searchVideo
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -120,6 +138,8 @@ sites:
       - 0
   - name: /searchMusic - Search for music by keyword
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/searchMusic
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -132,6 +152,8 @@ sites:
       - 0
   - name: /searchLive - Search for live by keyword
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/searchLive
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -144,6 +166,8 @@ sites:
       - 0
   - name: /searchHashtag - Search for hashtag by keyword
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/searchHashtag
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -156,6 +180,8 @@ sites:
       - 0
   - name: /searchLocation - Search for location by keyword
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/searchLocation
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -168,6 +194,8 @@ sites:
       - 0
   - name: /getUserInfo - Get user info by profile URL or nickname
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUserInfo
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -180,6 +208,8 @@ sites:
       - 0
   - name: /getUserInfoByID - Get user info by profile ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUserInfoByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -192,6 +222,8 @@ sites:
       - 0
   - name: /getBasicUserInfo - Get user info by profile ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getBasicUserInfo
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -204,6 +236,8 @@ sites:
       - 0
   - name: /getUserFeed - Get user feed by profile URL or nickname
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUserFeed
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -216,6 +250,8 @@ sites:
       - 0
   - name: /getUserFeedByID - Get user feed by profile ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUserFeedByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -228,6 +264,8 @@ sites:
       - 0
   - name: /getUserID - Get user ID by profile URL or nickname
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUserID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -240,6 +278,8 @@ sites:
       - 0
   - name: /getUsernameByID - Get username by TikTok user ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getUsernameByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -252,6 +292,8 @@ sites:
       - 0
   - name: /getTwitterUsername - Get Twitter username by profile URL, nickname or TikTok user ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getTwitterUsername
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -265,6 +307,8 @@ sites:
       - 0
   - name: /getInstagramUsername - Get Instagram username by profile URL, nickname or TikTok user ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getInstagramUsername
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -278,6 +322,8 @@ sites:
       - 0
   - name: /getYoutubeChannel - Get YouTube channel info by profile URL, nickname or TikTok user ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getYoutubeChannel
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -291,6 +337,8 @@ sites:
       - 0
   - name: /getFollowers - Get user followers by profile URL or nickname
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getFollowers
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -303,6 +351,8 @@ sites:
       - 0
   - name: /getFollowersByID - Get user followers by profile ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getFollowersByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -315,6 +365,8 @@ sites:
       - 0
   - name: /getFollowing - Get user following by profile URL or nickname
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getFollowing
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -327,6 +379,8 @@ sites:
       - 0
   - name: /getFollowingByID - Get user following by profile ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getFollowingByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -339,6 +393,8 @@ sites:
       - 0
   - name: /getHashtagInfo - Get hashtag info by URL or tag name
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getHashtagInfo
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -351,6 +407,8 @@ sites:
       - 0
   - name: /getHashtagFeed - Get hashtag feed by URL or tag name
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getHashtagFeed
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -363,6 +421,8 @@ sites:
       - 0
   - name: /getHashtagFeedByID - Get hashtag feed by ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getHashtagFeedByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -375,6 +435,8 @@ sites:
       - 0
   - name: /getLocationInfoByID - Get location info by ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getLocationInfoByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -387,6 +449,8 @@ sites:
       - 0
   - name: /getLocationFeedByID - Get videos by location ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getLocationFeedByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -399,6 +463,8 @@ sites:
       - 0
   - name: /getMusicInfo - Get music info by URL or ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getMusicInfo
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -411,6 +477,8 @@ sites:
       - 0
   - name: /getMusicFeed - Get music feed by URL or ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getMusicFeed
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -423,6 +491,8 @@ sites:
       - 0
   - name: /getStickersByID - Get effect information by IDs
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getStickersByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -435,6 +505,8 @@ sites:
       - 0
   - name: /getStickerByID - Get effect information by ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getStickerByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
@@ -447,6 +519,8 @@ sites:
       - 0
   - name: /getStickerFeedByID - Get videos by effect ID
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getStickerFeedByID
+    headers:
+      - "Authorization: Bearer $EVELODE_STATUS_TOKEN"
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
