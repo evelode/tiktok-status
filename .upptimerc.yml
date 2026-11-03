@@ -4,13 +4,17 @@ repo: tiktok-status
 assignees:
   -  sergeykomlev
 
+# Status checks read cached monitoring data; delay is in milliseconds.
+delay: 200
+workflowSchedule:
+  uptime: "4-59/5 * * * *"
+
 sites:
   - name: /getNoWatermarkUrl - Get non watermarked video url
     url: https://tiktok.evelode.com/status/api/v1/check/tiktok/getNoWatermarkUrl
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -23,7 +27,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 3000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -36,7 +39,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -49,7 +51,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -62,7 +63,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 21600
     expectedStatusCodes:
       - 200
       - 502
@@ -75,7 +75,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -88,7 +87,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 21600
     expectedStatusCodes:
       - 200
       - 502
@@ -101,7 +99,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -114,7 +111,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 21600
     expectedStatusCodes:
       - 200
       - 502
@@ -127,7 +123,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -140,7 +135,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -153,7 +147,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -166,7 +159,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -179,7 +171,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -192,7 +183,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -205,7 +195,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 21600
     expectedStatusCodes:
       - 200
       - 502
@@ -218,7 +207,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -231,7 +219,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -244,7 +231,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -257,7 +243,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -270,7 +255,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -284,7 +268,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -298,7 +281,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -312,7 +294,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -325,7 +306,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -338,7 +318,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -351,7 +330,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -364,7 +342,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -377,7 +354,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -390,7 +366,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -403,7 +378,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -416,7 +390,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -429,7 +402,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -442,7 +414,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -455,7 +426,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -468,7 +438,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
@@ -481,7 +450,6 @@ sites:
     icon: https://evelode.com/wp-content/uploads/2024/02/evelode-logo.png
     method: GET
     maxResponseTime: 30000
-    delay: 3600
     expectedStatusCodes:
       - 200
       - 502
